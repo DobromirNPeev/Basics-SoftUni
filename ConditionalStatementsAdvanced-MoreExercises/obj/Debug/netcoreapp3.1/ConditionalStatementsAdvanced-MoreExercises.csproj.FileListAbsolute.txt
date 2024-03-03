@@ -1,0 +1,14 @@
+E:\VIsual Studio\ConditionalStatementsAdvanced-MoreExercises\bin\Debug\netcoreapp3.1\ConditionalStatementsAdvanced-MoreExercises.exe
+E:\VIsual Studio\ConditionalStatementsAdvanced-MoreExercises\bin\Debug\netcoreapp3.1\ConditionalStatementsAdvanced-MoreExercises.deps.json
+E:\VIsual Studio\ConditionalStatementsAdvanced-MoreExercises\bin\Debug\netcoreapp3.1\ConditionalStatementsAdvanced-MoreExercises.runtimeconfig.json
+E:\VIsual Studio\ConditionalStatementsAdvanced-MoreExercises\bin\Debug\netcoreapp3.1\ConditionalStatementsAdvanced-MoreExercises.runtimeconfig.dev.json
+E:\VIsual Studio\ConditionalStatementsAdvanced-MoreExercises\bin\Debug\netcoreapp3.1\ConditionalStatementsAdvanced-MoreExercises.dll
+E:\VIsual Studio\ConditionalStatementsAdvanced-MoreExercises\bin\Debug\netcoreapp3.1\ConditionalStatementsAdvanced-MoreExercises.pdb
+E:\VIsual Studio\ConditionalStatementsAdvanced-MoreExercises\obj\Debug\netcoreapp3.1\ConditionalStatementsAdvanced-MoreExercises.csproj.AssemblyReference.cache
+E:\VIsual Studio\ConditionalStatementsAdvanced-MoreExercises\obj\Debug\netcoreapp3.1\ConditionalStatementsAdvanced-MoreExercises.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\ConditionalStatementsAdvanced-MoreExercises\obj\Debug\netcoreapp3.1\ConditionalStatementsAdvanced-MoreExercises.AssemblyInfoInputs.cache
+E:\VIsual Studio\ConditionalStatementsAdvanced-MoreExercises\obj\Debug\netcoreapp3.1\ConditionalStatementsAdvanced-MoreExercises.AssemblyInfo.cs
+E:\VIsual Studio\ConditionalStatementsAdvanced-MoreExercises\obj\Debug\netcoreapp3.1\ConditionalStatementsAdvanced-MoreExercises.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\ConditionalStatementsAdvanced-MoreExercises\obj\Debug\netcoreapp3.1\ConditionalStatementsAdvanced-MoreExercises.dll
+E:\VIsual Studio\ConditionalStatementsAdvanced-MoreExercises\obj\Debug\netcoreapp3.1\ConditionalStatementsAdvanced-MoreExercises.pdb
+E:\VIsual Studio\ConditionalStatementsAdvanced-MoreExercises\obj\Debug\netcoreapp3.1\ConditionalStatementsAdvanced-MoreExercises.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\VIsual Studio Assignments\Basics\01. Moon\02. Spaceship\bin\Debug\netcoreapp3.1\02. Spaceship.exe
+E:\VIsual Studio Assignments\Basics\01. Moon\02. Spaceship\bin\Debug\netcoreapp3.1\02. Spaceship.deps.json
+E:\VIsual Studio Assignments\Basics\01. Moon\02. Spaceship\bin\Debug\netcoreapp3.1\02. Spaceship.runtimeconfig.json
+E:\VIsual Studio Assignments\Basics\01. Moon\02. Spaceship\bin\Debug\netcoreapp3.1\02. Spaceship.runtimeconfig.dev.json
+E:\VIsual Studio Assignments\Basics\01. Moon\02. Spaceship\bin\Debug\netcoreapp3.1\02. Spaceship.dll
+E:\VIsual Studio Assignments\Basics\01. Moon\02. Spaceship\bin\Debug\netcoreapp3.1\02. Spaceship.pdb
+E:\VIsual Studio Assignments\Basics\01. Moon\02. Spaceship\obj\Debug\netcoreapp3.1\02. Spaceship.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio Assignments\Basics\01. Moon\02. Spaceship\obj\Debug\netcoreapp3.1\02. Spaceship.AssemblyInfoInputs.cache
+E:\VIsual Studio Assignments\Basics\01. Moon\02. Spaceship\obj\Debug\netcoreapp3.1\02. Spaceship.AssemblyInfo.cs
+E:\VIsual Studio Assignments\Basics\01. Moon\02. Spaceship\obj\Debug\netcoreapp3.1\02. Spaceship.csproj.CoreCompileInputs.cache
+E:\VIsual Studio Assignments\Basics\01. Moon\02. Spaceship\obj\Debug\netcoreapp3.1\02. Spaceship.dll
+E:\VIsual Studio Assignments\Basics\01. Moon\02. Spaceship\obj\Debug\netcoreapp3.1\02. Spaceship.pdb
+E:\VIsual Studio Assignments\Basics\01. Moon\02. Spaceship\obj\Debug\netcoreapp3.1\02. Spaceship.genruntimeconfig.cache

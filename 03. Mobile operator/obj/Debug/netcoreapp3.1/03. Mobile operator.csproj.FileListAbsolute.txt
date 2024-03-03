@@ -1,0 +1,14 @@
+E:\VIsual Studio\03. Mobile operator\bin\Debug\netcoreapp3.1\03. Mobile operator.exe
+E:\VIsual Studio\03. Mobile operator\bin\Debug\netcoreapp3.1\03. Mobile operator.deps.json
+E:\VIsual Studio\03. Mobile operator\bin\Debug\netcoreapp3.1\03. Mobile operator.runtimeconfig.json
+E:\VIsual Studio\03. Mobile operator\bin\Debug\netcoreapp3.1\03. Mobile operator.runtimeconfig.dev.json
+E:\VIsual Studio\03. Mobile operator\bin\Debug\netcoreapp3.1\03. Mobile operator.dll
+E:\VIsual Studio\03. Mobile operator\bin\Debug\netcoreapp3.1\03. Mobile operator.pdb
+E:\VIsual Studio\03. Mobile operator\obj\Debug\netcoreapp3.1\03. Mobile operator.csproj.AssemblyReference.cache
+E:\VIsual Studio\03. Mobile operator\obj\Debug\netcoreapp3.1\03. Mobile operator.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\03. Mobile operator\obj\Debug\netcoreapp3.1\03. Mobile operator.AssemblyInfoInputs.cache
+E:\VIsual Studio\03. Mobile operator\obj\Debug\netcoreapp3.1\03. Mobile operator.AssemblyInfo.cs
+E:\VIsual Studio\03. Mobile operator\obj\Debug\netcoreapp3.1\03. Mobile operator.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\03. Mobile operator\obj\Debug\netcoreapp3.1\03. Mobile operator.dll
+E:\VIsual Studio\03. Mobile operator\obj\Debug\netcoreapp3.1\03. Mobile operator.pdb
+E:\VIsual Studio\03. Mobile operator\obj\Debug\netcoreapp3.1\03. Mobile operator.genruntimeconfig.cache

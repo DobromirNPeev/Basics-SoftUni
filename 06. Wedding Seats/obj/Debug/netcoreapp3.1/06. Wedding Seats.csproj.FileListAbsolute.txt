@@ -1,0 +1,14 @@
+E:\06. Wedding Seats\obj\Debug\netcoreapp3.1\06. Wedding Seats.GeneratedMSBuildEditorConfig.editorconfig
+E:\06. Wedding Seats\obj\Debug\netcoreapp3.1\06. Wedding Seats.AssemblyInfoInputs.cache
+E:\06. Wedding Seats\obj\Debug\netcoreapp3.1\06. Wedding Seats.AssemblyInfo.cs
+E:\06. Wedding Seats\obj\Debug\netcoreapp3.1\06. Wedding Seats.csproj.CoreCompileInputs.cache
+E:\06. Wedding Seats\bin\Debug\netcoreapp3.1\06. Wedding Seats.exe
+E:\06. Wedding Seats\bin\Debug\netcoreapp3.1\06. Wedding Seats.deps.json
+E:\06. Wedding Seats\bin\Debug\netcoreapp3.1\06. Wedding Seats.runtimeconfig.json
+E:\06. Wedding Seats\bin\Debug\netcoreapp3.1\06. Wedding Seats.runtimeconfig.dev.json
+E:\06. Wedding Seats\bin\Debug\netcoreapp3.1\06. Wedding Seats.dll
+E:\06. Wedding Seats\bin\Debug\netcoreapp3.1\06. Wedding Seats.pdb
+E:\06. Wedding Seats\obj\Debug\netcoreapp3.1\06. Wedding Seats.dll
+E:\06. Wedding Seats\obj\Debug\netcoreapp3.1\06. Wedding Seats.pdb
+E:\06. Wedding Seats\obj\Debug\netcoreapp3.1\06. Wedding Seats.genruntimeconfig.cache
+E:\06. Wedding Seats\obj\Debug\netcoreapp3.1\06. Wedding Seats.csproj.AssemblyReference.cache

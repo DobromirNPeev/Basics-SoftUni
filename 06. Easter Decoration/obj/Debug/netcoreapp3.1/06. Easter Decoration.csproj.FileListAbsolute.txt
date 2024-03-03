@@ -1,0 +1,14 @@
+E:\VIsual Studio\06. Easter Decoration\bin\Debug\netcoreapp3.1\06. Easter Decoration.exe
+E:\VIsual Studio\06. Easter Decoration\bin\Debug\netcoreapp3.1\06. Easter Decoration.deps.json
+E:\VIsual Studio\06. Easter Decoration\bin\Debug\netcoreapp3.1\06. Easter Decoration.runtimeconfig.json
+E:\VIsual Studio\06. Easter Decoration\bin\Debug\netcoreapp3.1\06. Easter Decoration.runtimeconfig.dev.json
+E:\VIsual Studio\06. Easter Decoration\bin\Debug\netcoreapp3.1\06. Easter Decoration.dll
+E:\VIsual Studio\06. Easter Decoration\bin\Debug\netcoreapp3.1\06. Easter Decoration.pdb
+E:\VIsual Studio\06. Easter Decoration\obj\Debug\netcoreapp3.1\06. Easter Decoration.csproj.AssemblyReference.cache
+E:\VIsual Studio\06. Easter Decoration\obj\Debug\netcoreapp3.1\06. Easter Decoration.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\06. Easter Decoration\obj\Debug\netcoreapp3.1\06. Easter Decoration.AssemblyInfoInputs.cache
+E:\VIsual Studio\06. Easter Decoration\obj\Debug\netcoreapp3.1\06. Easter Decoration.AssemblyInfo.cs
+E:\VIsual Studio\06. Easter Decoration\obj\Debug\netcoreapp3.1\06. Easter Decoration.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\06. Easter Decoration\obj\Debug\netcoreapp3.1\06. Easter Decoration.dll
+E:\VIsual Studio\06. Easter Decoration\obj\Debug\netcoreapp3.1\06. Easter Decoration.pdb
+E:\VIsual Studio\06. Easter Decoration\obj\Debug\netcoreapp3.1\06. Easter Decoration.genruntimeconfig.cache

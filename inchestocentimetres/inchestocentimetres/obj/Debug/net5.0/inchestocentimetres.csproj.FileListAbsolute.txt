@@ -1,0 +1,15 @@
+E:\VIsual Studio\inchestocentimetres\inchestocentimetres\obj\Debug\net5.0\inchestocentimetres.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\inchestocentimetres\inchestocentimetres\obj\Debug\net5.0\inchestocentimetres.AssemblyInfoInputs.cache
+E:\VIsual Studio\inchestocentimetres\inchestocentimetres\obj\Debug\net5.0\inchestocentimetres.AssemblyInfo.cs
+E:\VIsual Studio\inchestocentimetres\inchestocentimetres\obj\Debug\net5.0\inchestocentimetres.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\inchestocentimetres\inchestocentimetres\bin\Debug\net5.0\inchestocentimetres.exe
+E:\VIsual Studio\inchestocentimetres\inchestocentimetres\bin\Debug\net5.0\inchestocentimetres.deps.json
+E:\VIsual Studio\inchestocentimetres\inchestocentimetres\bin\Debug\net5.0\inchestocentimetres.runtimeconfig.json
+E:\VIsual Studio\inchestocentimetres\inchestocentimetres\bin\Debug\net5.0\inchestocentimetres.runtimeconfig.dev.json
+E:\VIsual Studio\inchestocentimetres\inchestocentimetres\bin\Debug\net5.0\inchestocentimetres.dll
+E:\VIsual Studio\inchestocentimetres\inchestocentimetres\bin\Debug\net5.0\ref\inchestocentimetres.dll
+E:\VIsual Studio\inchestocentimetres\inchestocentimetres\bin\Debug\net5.0\inchestocentimetres.pdb
+E:\VIsual Studio\inchestocentimetres\inchestocentimetres\obj\Debug\net5.0\inchestocentimetres.dll
+E:\VIsual Studio\inchestocentimetres\inchestocentimetres\obj\Debug\net5.0\ref\inchestocentimetres.dll
+E:\VIsual Studio\inchestocentimetres\inchestocentimetres\obj\Debug\net5.0\inchestocentimetres.pdb
+E:\VIsual Studio\inchestocentimetres\inchestocentimetres\obj\Debug\net5.0\inchestocentimetres.genruntimeconfig.cache

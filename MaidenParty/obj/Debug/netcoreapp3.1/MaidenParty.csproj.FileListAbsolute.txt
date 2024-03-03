@@ -1,0 +1,14 @@
+E:\VIsual Studio\MaidenParty\bin\Debug\netcoreapp3.1\MaidenParty.exe
+E:\VIsual Studio\MaidenParty\bin\Debug\netcoreapp3.1\MaidenParty.deps.json
+E:\VIsual Studio\MaidenParty\bin\Debug\netcoreapp3.1\MaidenParty.runtimeconfig.json
+E:\VIsual Studio\MaidenParty\bin\Debug\netcoreapp3.1\MaidenParty.runtimeconfig.dev.json
+E:\VIsual Studio\MaidenParty\bin\Debug\netcoreapp3.1\MaidenParty.dll
+E:\VIsual Studio\MaidenParty\bin\Debug\netcoreapp3.1\MaidenParty.pdb
+E:\VIsual Studio\MaidenParty\obj\Debug\netcoreapp3.1\MaidenParty.csproj.AssemblyReference.cache
+E:\VIsual Studio\MaidenParty\obj\Debug\netcoreapp3.1\MaidenParty.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\MaidenParty\obj\Debug\netcoreapp3.1\MaidenParty.AssemblyInfoInputs.cache
+E:\VIsual Studio\MaidenParty\obj\Debug\netcoreapp3.1\MaidenParty.AssemblyInfo.cs
+E:\VIsual Studio\MaidenParty\obj\Debug\netcoreapp3.1\MaidenParty.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\MaidenParty\obj\Debug\netcoreapp3.1\MaidenParty.dll
+E:\VIsual Studio\MaidenParty\obj\Debug\netcoreapp3.1\MaidenParty.pdb
+E:\VIsual Studio\MaidenParty\obj\Debug\netcoreapp3.1\MaidenParty.genruntimeconfig.cache

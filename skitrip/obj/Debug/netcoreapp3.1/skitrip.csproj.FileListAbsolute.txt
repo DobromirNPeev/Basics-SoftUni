@@ -1,0 +1,14 @@
+E:\VIsual Studio\skitrip\bin\Debug\netcoreapp3.1\skitrip.exe
+E:\VIsual Studio\skitrip\bin\Debug\netcoreapp3.1\skitrip.deps.json
+E:\VIsual Studio\skitrip\bin\Debug\netcoreapp3.1\skitrip.runtimeconfig.json
+E:\VIsual Studio\skitrip\bin\Debug\netcoreapp3.1\skitrip.runtimeconfig.dev.json
+E:\VIsual Studio\skitrip\bin\Debug\netcoreapp3.1\skitrip.dll
+E:\VIsual Studio\skitrip\bin\Debug\netcoreapp3.1\skitrip.pdb
+E:\VIsual Studio\skitrip\obj\Debug\netcoreapp3.1\skitrip.csproj.AssemblyReference.cache
+E:\VIsual Studio\skitrip\obj\Debug\netcoreapp3.1\skitrip.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\skitrip\obj\Debug\netcoreapp3.1\skitrip.AssemblyInfoInputs.cache
+E:\VIsual Studio\skitrip\obj\Debug\netcoreapp3.1\skitrip.AssemblyInfo.cs
+E:\VIsual Studio\skitrip\obj\Debug\netcoreapp3.1\skitrip.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\skitrip\obj\Debug\netcoreapp3.1\skitrip.dll
+E:\VIsual Studio\skitrip\obj\Debug\netcoreapp3.1\skitrip.pdb
+E:\VIsual Studio\skitrip\obj\Debug\netcoreapp3.1\skitrip.genruntimeconfig.cache

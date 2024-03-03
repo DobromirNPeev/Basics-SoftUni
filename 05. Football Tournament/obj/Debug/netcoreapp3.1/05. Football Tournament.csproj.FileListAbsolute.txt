@@ -1,0 +1,13 @@
+E:\VIsual Studio\05. Football Tournament\bin\Debug\netcoreapp3.1\05. Football Tournament.exe
+E:\VIsual Studio\05. Football Tournament\bin\Debug\netcoreapp3.1\05. Football Tournament.deps.json
+E:\VIsual Studio\05. Football Tournament\bin\Debug\netcoreapp3.1\05. Football Tournament.runtimeconfig.json
+E:\VIsual Studio\05. Football Tournament\bin\Debug\netcoreapp3.1\05. Football Tournament.runtimeconfig.dev.json
+E:\VIsual Studio\05. Football Tournament\bin\Debug\netcoreapp3.1\05. Football Tournament.dll
+E:\VIsual Studio\05. Football Tournament\bin\Debug\netcoreapp3.1\05. Football Tournament.pdb
+E:\VIsual Studio\05. Football Tournament\obj\Debug\netcoreapp3.1\05. Football Tournament.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\05. Football Tournament\obj\Debug\netcoreapp3.1\05. Football Tournament.AssemblyInfoInputs.cache
+E:\VIsual Studio\05. Football Tournament\obj\Debug\netcoreapp3.1\05. Football Tournament.AssemblyInfo.cs
+E:\VIsual Studio\05. Football Tournament\obj\Debug\netcoreapp3.1\05. Football Tournament.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\05. Football Tournament\obj\Debug\netcoreapp3.1\05. Football Tournament.dll
+E:\VIsual Studio\05. Football Tournament\obj\Debug\netcoreapp3.1\05. Football Tournament.pdb
+E:\VIsual Studio\05. Football Tournament\obj\Debug\netcoreapp3.1\05. Football Tournament.genruntimeconfig.cache

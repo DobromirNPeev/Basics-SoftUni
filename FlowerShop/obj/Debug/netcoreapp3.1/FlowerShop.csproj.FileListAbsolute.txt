@@ -1,0 +1,13 @@
+E:\VIsual Studio\FlowerShop\bin\Debug\netcoreapp3.1\FlowerShop.exe
+E:\VIsual Studio\FlowerShop\bin\Debug\netcoreapp3.1\FlowerShop.deps.json
+E:\VIsual Studio\FlowerShop\bin\Debug\netcoreapp3.1\FlowerShop.runtimeconfig.json
+E:\VIsual Studio\FlowerShop\bin\Debug\netcoreapp3.1\FlowerShop.runtimeconfig.dev.json
+E:\VIsual Studio\FlowerShop\bin\Debug\netcoreapp3.1\FlowerShop.dll
+E:\VIsual Studio\FlowerShop\bin\Debug\netcoreapp3.1\FlowerShop.pdb
+E:\VIsual Studio\FlowerShop\obj\Debug\netcoreapp3.1\FlowerShop.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\FlowerShop\obj\Debug\netcoreapp3.1\FlowerShop.AssemblyInfoInputs.cache
+E:\VIsual Studio\FlowerShop\obj\Debug\netcoreapp3.1\FlowerShop.AssemblyInfo.cs
+E:\VIsual Studio\FlowerShop\obj\Debug\netcoreapp3.1\FlowerShop.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\FlowerShop\obj\Debug\netcoreapp3.1\FlowerShop.dll
+E:\VIsual Studio\FlowerShop\obj\Debug\netcoreapp3.1\FlowerShop.pdb
+E:\VIsual Studio\FlowerShop\obj\Debug\netcoreapp3.1\FlowerShop.genruntimeconfig.cache

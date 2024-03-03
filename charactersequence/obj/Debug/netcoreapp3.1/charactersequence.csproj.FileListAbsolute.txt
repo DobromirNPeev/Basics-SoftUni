@@ -1,0 +1,14 @@
+E:\VIsual Studio\charactersequence\bin\Debug\netcoreapp3.1\charactersequence.exe
+E:\VIsual Studio\charactersequence\bin\Debug\netcoreapp3.1\charactersequence.deps.json
+E:\VIsual Studio\charactersequence\bin\Debug\netcoreapp3.1\charactersequence.runtimeconfig.json
+E:\VIsual Studio\charactersequence\bin\Debug\netcoreapp3.1\charactersequence.runtimeconfig.dev.json
+E:\VIsual Studio\charactersequence\bin\Debug\netcoreapp3.1\charactersequence.dll
+E:\VIsual Studio\charactersequence\bin\Debug\netcoreapp3.1\charactersequence.pdb
+E:\VIsual Studio\charactersequence\obj\Debug\netcoreapp3.1\charactersequence.csproj.AssemblyReference.cache
+E:\VIsual Studio\charactersequence\obj\Debug\netcoreapp3.1\charactersequence.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\charactersequence\obj\Debug\netcoreapp3.1\charactersequence.AssemblyInfoInputs.cache
+E:\VIsual Studio\charactersequence\obj\Debug\netcoreapp3.1\charactersequence.AssemblyInfo.cs
+E:\VIsual Studio\charactersequence\obj\Debug\netcoreapp3.1\charactersequence.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\charactersequence\obj\Debug\netcoreapp3.1\charactersequence.dll
+E:\VIsual Studio\charactersequence\obj\Debug\netcoreapp3.1\charactersequence.pdb
+E:\VIsual Studio\charactersequence\obj\Debug\netcoreapp3.1\charactersequence.genruntimeconfig.cache

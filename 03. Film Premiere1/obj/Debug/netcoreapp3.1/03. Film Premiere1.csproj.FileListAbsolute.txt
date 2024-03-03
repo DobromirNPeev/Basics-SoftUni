@@ -1,0 +1,14 @@
+E:\VIsual Studio\03. Film Premiere1\bin\Debug\netcoreapp3.1\03. Film Premiere1.exe
+E:\VIsual Studio\03. Film Premiere1\bin\Debug\netcoreapp3.1\03. Film Premiere1.deps.json
+E:\VIsual Studio\03. Film Premiere1\bin\Debug\netcoreapp3.1\03. Film Premiere1.runtimeconfig.json
+E:\VIsual Studio\03. Film Premiere1\bin\Debug\netcoreapp3.1\03. Film Premiere1.runtimeconfig.dev.json
+E:\VIsual Studio\03. Film Premiere1\bin\Debug\netcoreapp3.1\03. Film Premiere1.dll
+E:\VIsual Studio\03. Film Premiere1\bin\Debug\netcoreapp3.1\03. Film Premiere1.pdb
+E:\VIsual Studio\03. Film Premiere1\obj\Debug\netcoreapp3.1\03. Film Premiere1.csproj.AssemblyReference.cache
+E:\VIsual Studio\03. Film Premiere1\obj\Debug\netcoreapp3.1\03. Film Premiere1.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\03. Film Premiere1\obj\Debug\netcoreapp3.1\03. Film Premiere1.AssemblyInfoInputs.cache
+E:\VIsual Studio\03. Film Premiere1\obj\Debug\netcoreapp3.1\03. Film Premiere1.AssemblyInfo.cs
+E:\VIsual Studio\03. Film Premiere1\obj\Debug\netcoreapp3.1\03. Film Premiere1.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\03. Film Premiere1\obj\Debug\netcoreapp3.1\03. Film Premiere1.dll
+E:\VIsual Studio\03. Film Premiere1\obj\Debug\netcoreapp3.1\03. Film Premiere1.pdb
+E:\VIsual Studio\03. Film Premiere1\obj\Debug\netcoreapp3.1\03. Film Premiere1.genruntimeconfig.cache

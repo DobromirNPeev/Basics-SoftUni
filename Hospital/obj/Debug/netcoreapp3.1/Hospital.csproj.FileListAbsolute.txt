@@ -1,0 +1,14 @@
+E:\VIsual Studio\Hospital\bin\Debug\netcoreapp3.1\Hospital.exe
+E:\VIsual Studio\Hospital\bin\Debug\netcoreapp3.1\Hospital.deps.json
+E:\VIsual Studio\Hospital\bin\Debug\netcoreapp3.1\Hospital.runtimeconfig.json
+E:\VIsual Studio\Hospital\bin\Debug\netcoreapp3.1\Hospital.runtimeconfig.dev.json
+E:\VIsual Studio\Hospital\bin\Debug\netcoreapp3.1\Hospital.dll
+E:\VIsual Studio\Hospital\bin\Debug\netcoreapp3.1\Hospital.pdb
+E:\VIsual Studio\Hospital\obj\Debug\netcoreapp3.1\Hospital.csproj.AssemblyReference.cache
+E:\VIsual Studio\Hospital\obj\Debug\netcoreapp3.1\Hospital.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Hospital\obj\Debug\netcoreapp3.1\Hospital.AssemblyInfoInputs.cache
+E:\VIsual Studio\Hospital\obj\Debug\netcoreapp3.1\Hospital.AssemblyInfo.cs
+E:\VIsual Studio\Hospital\obj\Debug\netcoreapp3.1\Hospital.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Hospital\obj\Debug\netcoreapp3.1\Hospital.dll
+E:\VIsual Studio\Hospital\obj\Debug\netcoreapp3.1\Hospital.pdb
+E:\VIsual Studio\Hospital\obj\Debug\netcoreapp3.1\Hospital.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\VIsual Studio\smartlily\bin\Debug\netcoreapp3.1\smartlily.exe
+E:\VIsual Studio\smartlily\bin\Debug\netcoreapp3.1\smartlily.deps.json
+E:\VIsual Studio\smartlily\bin\Debug\netcoreapp3.1\smartlily.runtimeconfig.json
+E:\VIsual Studio\smartlily\bin\Debug\netcoreapp3.1\smartlily.runtimeconfig.dev.json
+E:\VIsual Studio\smartlily\bin\Debug\netcoreapp3.1\smartlily.dll
+E:\VIsual Studio\smartlily\bin\Debug\netcoreapp3.1\smartlily.pdb
+E:\VIsual Studio\smartlily\obj\Debug\netcoreapp3.1\smartlily.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\smartlily\obj\Debug\netcoreapp3.1\smartlily.AssemblyInfoInputs.cache
+E:\VIsual Studio\smartlily\obj\Debug\netcoreapp3.1\smartlily.AssemblyInfo.cs
+E:\VIsual Studio\smartlily\obj\Debug\netcoreapp3.1\smartlily.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\smartlily\obj\Debug\netcoreapp3.1\smartlily.dll
+E:\VIsual Studio\smartlily\obj\Debug\netcoreapp3.1\smartlily.pdb
+E:\VIsual Studio\smartlily\obj\Debug\netcoreapp3.1\smartlily.genruntimeconfig.cache

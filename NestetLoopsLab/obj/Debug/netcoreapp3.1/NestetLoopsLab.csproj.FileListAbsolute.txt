@@ -1,0 +1,14 @@
+E:\VIsual Studio\NestetLoopsLab\bin\Debug\netcoreapp3.1\NestetLoopsLab.exe
+E:\VIsual Studio\NestetLoopsLab\bin\Debug\netcoreapp3.1\NestetLoopsLab.deps.json
+E:\VIsual Studio\NestetLoopsLab\bin\Debug\netcoreapp3.1\NestetLoopsLab.runtimeconfig.json
+E:\VIsual Studio\NestetLoopsLab\bin\Debug\netcoreapp3.1\NestetLoopsLab.runtimeconfig.dev.json
+E:\VIsual Studio\NestetLoopsLab\bin\Debug\netcoreapp3.1\NestetLoopsLab.dll
+E:\VIsual Studio\NestetLoopsLab\bin\Debug\netcoreapp3.1\NestetLoopsLab.pdb
+E:\VIsual Studio\NestetLoopsLab\obj\Debug\netcoreapp3.1\NestetLoopsLab.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\NestetLoopsLab\obj\Debug\netcoreapp3.1\NestetLoopsLab.AssemblyInfoInputs.cache
+E:\VIsual Studio\NestetLoopsLab\obj\Debug\netcoreapp3.1\NestetLoopsLab.AssemblyInfo.cs
+E:\VIsual Studio\NestetLoopsLab\obj\Debug\netcoreapp3.1\NestetLoopsLab.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\NestetLoopsLab\obj\Debug\netcoreapp3.1\NestetLoopsLab.dll
+E:\VIsual Studio\NestetLoopsLab\obj\Debug\netcoreapp3.1\NestetLoopsLab.pdb
+E:\VIsual Studio\NestetLoopsLab\obj\Debug\netcoreapp3.1\NestetLoopsLab.genruntimeconfig.cache
+E:\VIsual Studio\NestetLoopsLab\obj\Debug\netcoreapp3.1\NestetLoopsLab.csproj.AssemblyReference.cache

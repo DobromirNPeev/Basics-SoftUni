@@ -1,0 +1,13 @@
+E:\VIsual Studio\NumbersFrom1to10\bin\Debug\netcoreapp3.1\NumbersFrom1to10.exe
+E:\VIsual Studio\NumbersFrom1to10\bin\Debug\netcoreapp3.1\NumbersFrom1to10.deps.json
+E:\VIsual Studio\NumbersFrom1to10\bin\Debug\netcoreapp3.1\NumbersFrom1to10.runtimeconfig.json
+E:\VIsual Studio\NumbersFrom1to10\bin\Debug\netcoreapp3.1\NumbersFrom1to10.runtimeconfig.dev.json
+E:\VIsual Studio\NumbersFrom1to10\bin\Debug\netcoreapp3.1\NumbersFrom1to10.dll
+E:\VIsual Studio\NumbersFrom1to10\bin\Debug\netcoreapp3.1\NumbersFrom1to10.pdb
+E:\VIsual Studio\NumbersFrom1to10\obj\Debug\netcoreapp3.1\NumbersFrom1to10.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\NumbersFrom1to10\obj\Debug\netcoreapp3.1\NumbersFrom1to10.AssemblyInfoInputs.cache
+E:\VIsual Studio\NumbersFrom1to10\obj\Debug\netcoreapp3.1\NumbersFrom1to10.AssemblyInfo.cs
+E:\VIsual Studio\NumbersFrom1to10\obj\Debug\netcoreapp3.1\NumbersFrom1to10.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\NumbersFrom1to10\obj\Debug\netcoreapp3.1\NumbersFrom1to10.dll
+E:\VIsual Studio\NumbersFrom1to10\obj\Debug\netcoreapp3.1\NumbersFrom1to10.pdb
+E:\VIsual Studio\NumbersFrom1to10\obj\Debug\netcoreapp3.1\NumbersFrom1to10.genruntimeconfig.cache

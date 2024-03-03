@@ -1,0 +1,14 @@
+E:\VIsual Studio\Diamond\bin\Debug\netcoreapp3.1\Diamond.exe
+E:\VIsual Studio\Diamond\bin\Debug\netcoreapp3.1\Diamond.deps.json
+E:\VIsual Studio\Diamond\bin\Debug\netcoreapp3.1\Diamond.runtimeconfig.json
+E:\VIsual Studio\Diamond\bin\Debug\netcoreapp3.1\Diamond.runtimeconfig.dev.json
+E:\VIsual Studio\Diamond\bin\Debug\netcoreapp3.1\Diamond.dll
+E:\VIsual Studio\Diamond\bin\Debug\netcoreapp3.1\Diamond.pdb
+E:\VIsual Studio\Diamond\obj\Debug\netcoreapp3.1\Diamond.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Diamond\obj\Debug\netcoreapp3.1\Diamond.AssemblyInfoInputs.cache
+E:\VIsual Studio\Diamond\obj\Debug\netcoreapp3.1\Diamond.AssemblyInfo.cs
+E:\VIsual Studio\Diamond\obj\Debug\netcoreapp3.1\Diamond.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Diamond\obj\Debug\netcoreapp3.1\Diamond.dll
+E:\VIsual Studio\Diamond\obj\Debug\netcoreapp3.1\Diamond.pdb
+E:\VIsual Studio\Diamond\obj\Debug\netcoreapp3.1\Diamond.genruntimeconfig.cache
+E:\VIsual Studio\Diamond\obj\Debug\netcoreapp3.1\Diamond.csproj.AssemblyReference.cache

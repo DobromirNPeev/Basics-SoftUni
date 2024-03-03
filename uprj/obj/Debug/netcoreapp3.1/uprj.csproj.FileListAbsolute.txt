@@ -1,0 +1,14 @@
+E:\VIsual Studio\uprj\bin\Debug\netcoreapp3.1\uprj.exe
+E:\VIsual Studio\uprj\bin\Debug\netcoreapp3.1\uprj.deps.json
+E:\VIsual Studio\uprj\bin\Debug\netcoreapp3.1\uprj.runtimeconfig.json
+E:\VIsual Studio\uprj\bin\Debug\netcoreapp3.1\uprj.runtimeconfig.dev.json
+E:\VIsual Studio\uprj\bin\Debug\netcoreapp3.1\uprj.dll
+E:\VIsual Studio\uprj\bin\Debug\netcoreapp3.1\uprj.pdb
+E:\VIsual Studio\uprj\obj\Debug\netcoreapp3.1\uprj.csproj.AssemblyReference.cache
+E:\VIsual Studio\uprj\obj\Debug\netcoreapp3.1\uprj.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\uprj\obj\Debug\netcoreapp3.1\uprj.AssemblyInfoInputs.cache
+E:\VIsual Studio\uprj\obj\Debug\netcoreapp3.1\uprj.AssemblyInfo.cs
+E:\VIsual Studio\uprj\obj\Debug\netcoreapp3.1\uprj.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\uprj\obj\Debug\netcoreapp3.1\uprj.dll
+E:\VIsual Studio\uprj\obj\Debug\netcoreapp3.1\uprj.pdb
+E:\VIsual Studio\uprj\obj\Debug\netcoreapp3.1\uprj.genruntimeconfig.cache

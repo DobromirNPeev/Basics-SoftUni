@@ -1,0 +1,14 @@
+E:\VIsual Studio\fishland\bin\Debug\netcoreapp3.1\fishland.exe
+E:\VIsual Studio\fishland\bin\Debug\netcoreapp3.1\fishland.deps.json
+E:\VIsual Studio\fishland\bin\Debug\netcoreapp3.1\fishland.runtimeconfig.json
+E:\VIsual Studio\fishland\bin\Debug\netcoreapp3.1\fishland.runtimeconfig.dev.json
+E:\VIsual Studio\fishland\bin\Debug\netcoreapp3.1\fishland.dll
+E:\VIsual Studio\fishland\bin\Debug\netcoreapp3.1\fishland.pdb
+E:\VIsual Studio\fishland\obj\Debug\netcoreapp3.1\fishland.csproj.AssemblyReference.cache
+E:\VIsual Studio\fishland\obj\Debug\netcoreapp3.1\fishland.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\fishland\obj\Debug\netcoreapp3.1\fishland.AssemblyInfoInputs.cache
+E:\VIsual Studio\fishland\obj\Debug\netcoreapp3.1\fishland.AssemblyInfo.cs
+E:\VIsual Studio\fishland\obj\Debug\netcoreapp3.1\fishland.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\fishland\obj\Debug\netcoreapp3.1\fishland.dll
+E:\VIsual Studio\fishland\obj\Debug\netcoreapp3.1\fishland.pdb
+E:\VIsual Studio\fishland\obj\Debug\netcoreapp3.1\fishland.genruntimeconfig.cache

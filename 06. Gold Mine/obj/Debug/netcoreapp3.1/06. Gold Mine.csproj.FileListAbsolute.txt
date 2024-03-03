@@ -1,0 +1,14 @@
+E:\VIsual Studio\06. Gold Mine\bin\Debug\netcoreapp3.1\06. Gold Mine.exe
+E:\VIsual Studio\06. Gold Mine\bin\Debug\netcoreapp3.1\06. Gold Mine.deps.json
+E:\VIsual Studio\06. Gold Mine\bin\Debug\netcoreapp3.1\06. Gold Mine.runtimeconfig.json
+E:\VIsual Studio\06. Gold Mine\bin\Debug\netcoreapp3.1\06. Gold Mine.runtimeconfig.dev.json
+E:\VIsual Studio\06. Gold Mine\bin\Debug\netcoreapp3.1\06. Gold Mine.dll
+E:\VIsual Studio\06. Gold Mine\bin\Debug\netcoreapp3.1\06. Gold Mine.pdb
+E:\VIsual Studio\06. Gold Mine\obj\Debug\netcoreapp3.1\06. Gold Mine.csproj.AssemblyReference.cache
+E:\VIsual Studio\06. Gold Mine\obj\Debug\netcoreapp3.1\06. Gold Mine.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\06. Gold Mine\obj\Debug\netcoreapp3.1\06. Gold Mine.AssemblyInfoInputs.cache
+E:\VIsual Studio\06. Gold Mine\obj\Debug\netcoreapp3.1\06. Gold Mine.AssemblyInfo.cs
+E:\VIsual Studio\06. Gold Mine\obj\Debug\netcoreapp3.1\06. Gold Mine.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\06. Gold Mine\obj\Debug\netcoreapp3.1\06. Gold Mine.dll
+E:\VIsual Studio\06. Gold Mine\obj\Debug\netcoreapp3.1\06. Gold Mine.pdb
+E:\VIsual Studio\06. Gold Mine\obj\Debug\netcoreapp3.1\06. Gold Mine.genruntimeconfig.cache

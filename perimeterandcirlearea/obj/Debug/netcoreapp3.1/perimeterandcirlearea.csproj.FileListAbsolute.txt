@@ -1,0 +1,13 @@
+E:\VIsual Studio\perimeterandcirlearea\bin\Debug\netcoreapp3.1\perimeterandcirlearea.exe
+E:\VIsual Studio\perimeterandcirlearea\bin\Debug\netcoreapp3.1\perimeterandcirlearea.deps.json
+E:\VIsual Studio\perimeterandcirlearea\bin\Debug\netcoreapp3.1\perimeterandcirlearea.runtimeconfig.json
+E:\VIsual Studio\perimeterandcirlearea\bin\Debug\netcoreapp3.1\perimeterandcirlearea.runtimeconfig.dev.json
+E:\VIsual Studio\perimeterandcirlearea\bin\Debug\netcoreapp3.1\perimeterandcirlearea.dll
+E:\VIsual Studio\perimeterandcirlearea\bin\Debug\netcoreapp3.1\perimeterandcirlearea.pdb
+E:\VIsual Studio\perimeterandcirlearea\obj\Debug\netcoreapp3.1\perimeterandcirlearea.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\perimeterandcirlearea\obj\Debug\netcoreapp3.1\perimeterandcirlearea.AssemblyInfoInputs.cache
+E:\VIsual Studio\perimeterandcirlearea\obj\Debug\netcoreapp3.1\perimeterandcirlearea.AssemblyInfo.cs
+E:\VIsual Studio\perimeterandcirlearea\obj\Debug\netcoreapp3.1\perimeterandcirlearea.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\perimeterandcirlearea\obj\Debug\netcoreapp3.1\perimeterandcirlearea.dll
+E:\VIsual Studio\perimeterandcirlearea\obj\Debug\netcoreapp3.1\perimeterandcirlearea.pdb
+E:\VIsual Studio\perimeterandcirlearea\obj\Debug\netcoreapp3.1\perimeterandcirlearea.genruntimeconfig.cache

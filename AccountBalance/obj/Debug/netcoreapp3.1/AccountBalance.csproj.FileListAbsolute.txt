@@ -1,0 +1,14 @@
+E:\VIsual Studio\AccountBalance\bin\Debug\netcoreapp3.1\AccountBalance.exe
+E:\VIsual Studio\AccountBalance\bin\Debug\netcoreapp3.1\AccountBalance.deps.json
+E:\VIsual Studio\AccountBalance\bin\Debug\netcoreapp3.1\AccountBalance.runtimeconfig.json
+E:\VIsual Studio\AccountBalance\bin\Debug\netcoreapp3.1\AccountBalance.runtimeconfig.dev.json
+E:\VIsual Studio\AccountBalance\bin\Debug\netcoreapp3.1\AccountBalance.dll
+E:\VIsual Studio\AccountBalance\bin\Debug\netcoreapp3.1\AccountBalance.pdb
+E:\VIsual Studio\AccountBalance\obj\Debug\netcoreapp3.1\AccountBalance.csproj.AssemblyReference.cache
+E:\VIsual Studio\AccountBalance\obj\Debug\netcoreapp3.1\AccountBalance.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\AccountBalance\obj\Debug\netcoreapp3.1\AccountBalance.AssemblyInfoInputs.cache
+E:\VIsual Studio\AccountBalance\obj\Debug\netcoreapp3.1\AccountBalance.AssemblyInfo.cs
+E:\VIsual Studio\AccountBalance\obj\Debug\netcoreapp3.1\AccountBalance.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\AccountBalance\obj\Debug\netcoreapp3.1\AccountBalance.dll
+E:\VIsual Studio\AccountBalance\obj\Debug\netcoreapp3.1\AccountBalance.pdb
+E:\VIsual Studio\AccountBalance\obj\Debug\netcoreapp3.1\AccountBalance.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\VIsual Studio\uprjif\toyshop\obj\Debug\net5.0\toyshop.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\uprjif\toyshop\obj\Debug\net5.0\toyshop.AssemblyInfoInputs.cache
+E:\VIsual Studio\uprjif\toyshop\obj\Debug\net5.0\toyshop.AssemblyInfo.cs
+E:\VIsual Studio\uprjif\toyshop\obj\Debug\net5.0\toyshop.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\uprjif\toyshop\bin\Debug\net5.0\toyshop.exe
+E:\VIsual Studio\uprjif\toyshop\bin\Debug\net5.0\toyshop.deps.json
+E:\VIsual Studio\uprjif\toyshop\bin\Debug\net5.0\toyshop.runtimeconfig.json
+E:\VIsual Studio\uprjif\toyshop\bin\Debug\net5.0\toyshop.runtimeconfig.dev.json
+E:\VIsual Studio\uprjif\toyshop\bin\Debug\net5.0\toyshop.dll
+E:\VIsual Studio\uprjif\toyshop\bin\Debug\net5.0\ref\toyshop.dll
+E:\VIsual Studio\uprjif\toyshop\bin\Debug\net5.0\toyshop.pdb
+E:\VIsual Studio\uprjif\toyshop\obj\Debug\net5.0\toyshop.dll
+E:\VIsual Studio\uprjif\toyshop\obj\Debug\net5.0\ref\toyshop.dll
+E:\VIsual Studio\uprjif\toyshop\obj\Debug\net5.0\toyshop.pdb
+E:\VIsual Studio\uprjif\toyshop\obj\Debug\net5.0\toyshop.genruntimeconfig.cache
+E:\VIsual Studio\uprjif\toyshop\obj\Debug\net5.0\toyshop.csproj.AssemblyReference.cache

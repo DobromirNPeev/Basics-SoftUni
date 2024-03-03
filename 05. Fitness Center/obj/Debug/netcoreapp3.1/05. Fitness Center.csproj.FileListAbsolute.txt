@@ -1,0 +1,14 @@
+E:\VIsual Studio\05. Fitness Center\bin\Debug\netcoreapp3.1\05. Fitness Center.exe
+E:\VIsual Studio\05. Fitness Center\bin\Debug\netcoreapp3.1\05. Fitness Center.deps.json
+E:\VIsual Studio\05. Fitness Center\bin\Debug\netcoreapp3.1\05. Fitness Center.runtimeconfig.json
+E:\VIsual Studio\05. Fitness Center\bin\Debug\netcoreapp3.1\05. Fitness Center.runtimeconfig.dev.json
+E:\VIsual Studio\05. Fitness Center\bin\Debug\netcoreapp3.1\05. Fitness Center.dll
+E:\VIsual Studio\05. Fitness Center\bin\Debug\netcoreapp3.1\05. Fitness Center.pdb
+E:\VIsual Studio\05. Fitness Center\obj\Debug\netcoreapp3.1\05. Fitness Center.csproj.AssemblyReference.cache
+E:\VIsual Studio\05. Fitness Center\obj\Debug\netcoreapp3.1\05. Fitness Center.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\05. Fitness Center\obj\Debug\netcoreapp3.1\05. Fitness Center.AssemblyInfoInputs.cache
+E:\VIsual Studio\05. Fitness Center\obj\Debug\netcoreapp3.1\05. Fitness Center.AssemblyInfo.cs
+E:\VIsual Studio\05. Fitness Center\obj\Debug\netcoreapp3.1\05. Fitness Center.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\05. Fitness Center\obj\Debug\netcoreapp3.1\05. Fitness Center.dll
+E:\VIsual Studio\05. Fitness Center\obj\Debug\netcoreapp3.1\05. Fitness Center.pdb
+E:\VIsual Studio\05. Fitness Center\obj\Debug\netcoreapp3.1\05. Fitness Center.genruntimeconfig.cache

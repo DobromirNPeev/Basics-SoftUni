@@ -1,0 +1,14 @@
+E:\VIsual Studio\06. The Most Powerful Word\bin\Debug\netcoreapp3.1\06. The Most Powerful Word.exe
+E:\VIsual Studio\06. The Most Powerful Word\bin\Debug\netcoreapp3.1\06. The Most Powerful Word.deps.json
+E:\VIsual Studio\06. The Most Powerful Word\bin\Debug\netcoreapp3.1\06. The Most Powerful Word.runtimeconfig.json
+E:\VIsual Studio\06. The Most Powerful Word\bin\Debug\netcoreapp3.1\06. The Most Powerful Word.runtimeconfig.dev.json
+E:\VIsual Studio\06. The Most Powerful Word\bin\Debug\netcoreapp3.1\06. The Most Powerful Word.dll
+E:\VIsual Studio\06. The Most Powerful Word\bin\Debug\netcoreapp3.1\06. The Most Powerful Word.pdb
+E:\VIsual Studio\06. The Most Powerful Word\obj\Debug\netcoreapp3.1\06. The Most Powerful Word.csproj.AssemblyReference.cache
+E:\VIsual Studio\06. The Most Powerful Word\obj\Debug\netcoreapp3.1\06. The Most Powerful Word.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\06. The Most Powerful Word\obj\Debug\netcoreapp3.1\06. The Most Powerful Word.AssemblyInfoInputs.cache
+E:\VIsual Studio\06. The Most Powerful Word\obj\Debug\netcoreapp3.1\06. The Most Powerful Word.AssemblyInfo.cs
+E:\VIsual Studio\06. The Most Powerful Word\obj\Debug\netcoreapp3.1\06. The Most Powerful Word.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\06. The Most Powerful Word\obj\Debug\netcoreapp3.1\06. The Most Powerful Word.dll
+E:\VIsual Studio\06. The Most Powerful Word\obj\Debug\netcoreapp3.1\06. The Most Powerful Word.pdb
+E:\VIsual Studio\06. The Most Powerful Word\obj\Debug\netcoreapp3.1\06. The Most Powerful Word.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\VIsual Studio\fishingboat\bin\Debug\netcoreapp3.1\fishingboat.exe
+E:\VIsual Studio\fishingboat\bin\Debug\netcoreapp3.1\fishingboat.deps.json
+E:\VIsual Studio\fishingboat\bin\Debug\netcoreapp3.1\fishingboat.runtimeconfig.json
+E:\VIsual Studio\fishingboat\bin\Debug\netcoreapp3.1\fishingboat.runtimeconfig.dev.json
+E:\VIsual Studio\fishingboat\bin\Debug\netcoreapp3.1\fishingboat.dll
+E:\VIsual Studio\fishingboat\bin\Debug\netcoreapp3.1\fishingboat.pdb
+E:\VIsual Studio\fishingboat\obj\Debug\netcoreapp3.1\fishingboat.csproj.AssemblyReference.cache
+E:\VIsual Studio\fishingboat\obj\Debug\netcoreapp3.1\fishingboat.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\fishingboat\obj\Debug\netcoreapp3.1\fishingboat.AssemblyInfoInputs.cache
+E:\VIsual Studio\fishingboat\obj\Debug\netcoreapp3.1\fishingboat.AssemblyInfo.cs
+E:\VIsual Studio\fishingboat\obj\Debug\netcoreapp3.1\fishingboat.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\fishingboat\obj\Debug\netcoreapp3.1\fishingboat.dll
+E:\VIsual Studio\fishingboat\obj\Debug\netcoreapp3.1\fishingboat.pdb
+E:\VIsual Studio\fishingboat\obj\Debug\netcoreapp3.1\fishingboat.genruntimeconfig.cache

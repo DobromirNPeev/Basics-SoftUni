@@ -1,0 +1,14 @@
+E:\VIsual Studio\StreamOfLetters\bin\Debug\netcoreapp3.1\StreamOfLetters.exe
+E:\VIsual Studio\StreamOfLetters\bin\Debug\netcoreapp3.1\StreamOfLetters.deps.json
+E:\VIsual Studio\StreamOfLetters\bin\Debug\netcoreapp3.1\StreamOfLetters.runtimeconfig.json
+E:\VIsual Studio\StreamOfLetters\bin\Debug\netcoreapp3.1\StreamOfLetters.runtimeconfig.dev.json
+E:\VIsual Studio\StreamOfLetters\bin\Debug\netcoreapp3.1\StreamOfLetters.dll
+E:\VIsual Studio\StreamOfLetters\bin\Debug\netcoreapp3.1\StreamOfLetters.pdb
+E:\VIsual Studio\StreamOfLetters\obj\Debug\netcoreapp3.1\StreamOfLetters.csproj.AssemblyReference.cache
+E:\VIsual Studio\StreamOfLetters\obj\Debug\netcoreapp3.1\StreamOfLetters.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\StreamOfLetters\obj\Debug\netcoreapp3.1\StreamOfLetters.AssemblyInfoInputs.cache
+E:\VIsual Studio\StreamOfLetters\obj\Debug\netcoreapp3.1\StreamOfLetters.AssemblyInfo.cs
+E:\VIsual Studio\StreamOfLetters\obj\Debug\netcoreapp3.1\StreamOfLetters.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\StreamOfLetters\obj\Debug\netcoreapp3.1\StreamOfLetters.dll
+E:\VIsual Studio\StreamOfLetters\obj\Debug\netcoreapp3.1\StreamOfLetters.pdb
+E:\VIsual Studio\StreamOfLetters\obj\Debug\netcoreapp3.1\StreamOfLetters.genruntimeconfig.cache

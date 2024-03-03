@@ -1,0 +1,13 @@
+E:\VIsual Studio\Travelling\bin\Debug\netcoreapp3.1\Travelling.exe
+E:\VIsual Studio\Travelling\bin\Debug\netcoreapp3.1\Travelling.deps.json
+E:\VIsual Studio\Travelling\bin\Debug\netcoreapp3.1\Travelling.runtimeconfig.json
+E:\VIsual Studio\Travelling\bin\Debug\netcoreapp3.1\Travelling.runtimeconfig.dev.json
+E:\VIsual Studio\Travelling\bin\Debug\netcoreapp3.1\Travelling.dll
+E:\VIsual Studio\Travelling\bin\Debug\netcoreapp3.1\Travelling.pdb
+E:\VIsual Studio\Travelling\obj\Debug\netcoreapp3.1\Travelling.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Travelling\obj\Debug\netcoreapp3.1\Travelling.AssemblyInfoInputs.cache
+E:\VIsual Studio\Travelling\obj\Debug\netcoreapp3.1\Travelling.AssemblyInfo.cs
+E:\VIsual Studio\Travelling\obj\Debug\netcoreapp3.1\Travelling.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Travelling\obj\Debug\netcoreapp3.1\Travelling.dll
+E:\VIsual Studio\Travelling\obj\Debug\netcoreapp3.1\Travelling.pdb
+E:\VIsual Studio\Travelling\obj\Debug\netcoreapp3.1\Travelling.genruntimeconfig.cache

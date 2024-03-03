@@ -1,0 +1,14 @@
+E:\VIsual Studio\vegetablemarket\bin\Debug\netcoreapp3.1\vegetablemarket.exe
+E:\VIsual Studio\vegetablemarket\bin\Debug\netcoreapp3.1\vegetablemarket.deps.json
+E:\VIsual Studio\vegetablemarket\bin\Debug\netcoreapp3.1\vegetablemarket.runtimeconfig.json
+E:\VIsual Studio\vegetablemarket\bin\Debug\netcoreapp3.1\vegetablemarket.runtimeconfig.dev.json
+E:\VIsual Studio\vegetablemarket\bin\Debug\netcoreapp3.1\vegetablemarket.dll
+E:\VIsual Studio\vegetablemarket\bin\Debug\netcoreapp3.1\vegetablemarket.pdb
+E:\VIsual Studio\vegetablemarket\obj\Debug\netcoreapp3.1\vegetablemarket.csproj.AssemblyReference.cache
+E:\VIsual Studio\vegetablemarket\obj\Debug\netcoreapp3.1\vegetablemarket.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\vegetablemarket\obj\Debug\netcoreapp3.1\vegetablemarket.AssemblyInfoInputs.cache
+E:\VIsual Studio\vegetablemarket\obj\Debug\netcoreapp3.1\vegetablemarket.AssemblyInfo.cs
+E:\VIsual Studio\vegetablemarket\obj\Debug\netcoreapp3.1\vegetablemarket.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\vegetablemarket\obj\Debug\netcoreapp3.1\vegetablemarket.dll
+E:\VIsual Studio\vegetablemarket\obj\Debug\netcoreapp3.1\vegetablemarket.pdb
+E:\VIsual Studio\vegetablemarket\obj\Debug\netcoreapp3.1\vegetablemarket.genruntimeconfig.cache

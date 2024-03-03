@@ -1,0 +1,13 @@
+E:\VIsual Studio\WhileLoop-Lab\bin\Debug\netcoreapp3.1\WhileLoop-Lab.exe
+E:\VIsual Studio\WhileLoop-Lab\bin\Debug\netcoreapp3.1\WhileLoop-Lab.deps.json
+E:\VIsual Studio\WhileLoop-Lab\bin\Debug\netcoreapp3.1\WhileLoop-Lab.runtimeconfig.json
+E:\VIsual Studio\WhileLoop-Lab\bin\Debug\netcoreapp3.1\WhileLoop-Lab.runtimeconfig.dev.json
+E:\VIsual Studio\WhileLoop-Lab\bin\Debug\netcoreapp3.1\WhileLoop-Lab.dll
+E:\VIsual Studio\WhileLoop-Lab\bin\Debug\netcoreapp3.1\WhileLoop-Lab.pdb
+E:\VIsual Studio\WhileLoop-Lab\obj\Debug\netcoreapp3.1\WhileLoop-Lab.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\WhileLoop-Lab\obj\Debug\netcoreapp3.1\WhileLoop-Lab.AssemblyInfoInputs.cache
+E:\VIsual Studio\WhileLoop-Lab\obj\Debug\netcoreapp3.1\WhileLoop-Lab.AssemblyInfo.cs
+E:\VIsual Studio\WhileLoop-Lab\obj\Debug\netcoreapp3.1\WhileLoop-Lab.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\WhileLoop-Lab\obj\Debug\netcoreapp3.1\WhileLoop-Lab.dll
+E:\VIsual Studio\WhileLoop-Lab\obj\Debug\netcoreapp3.1\WhileLoop-Lab.pdb
+E:\VIsual Studio\WhileLoop-Lab\obj\Debug\netcoreapp3.1\WhileLoop-Lab.genruntimeconfig.cache

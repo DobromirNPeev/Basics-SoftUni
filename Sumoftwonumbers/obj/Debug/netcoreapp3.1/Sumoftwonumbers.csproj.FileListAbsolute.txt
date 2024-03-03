@@ -1,0 +1,14 @@
+E:\VIsual Studio\Sumoftwonumbers\bin\Debug\netcoreapp3.1\Sumoftwonumbers.exe
+E:\VIsual Studio\Sumoftwonumbers\bin\Debug\netcoreapp3.1\Sumoftwonumbers.deps.json
+E:\VIsual Studio\Sumoftwonumbers\bin\Debug\netcoreapp3.1\Sumoftwonumbers.runtimeconfig.json
+E:\VIsual Studio\Sumoftwonumbers\bin\Debug\netcoreapp3.1\Sumoftwonumbers.runtimeconfig.dev.json
+E:\VIsual Studio\Sumoftwonumbers\bin\Debug\netcoreapp3.1\Sumoftwonumbers.dll
+E:\VIsual Studio\Sumoftwonumbers\bin\Debug\netcoreapp3.1\Sumoftwonumbers.pdb
+E:\VIsual Studio\Sumoftwonumbers\obj\Debug\netcoreapp3.1\Sumoftwonumbers.csproj.AssemblyReference.cache
+E:\VIsual Studio\Sumoftwonumbers\obj\Debug\netcoreapp3.1\Sumoftwonumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Sumoftwonumbers\obj\Debug\netcoreapp3.1\Sumoftwonumbers.AssemblyInfoInputs.cache
+E:\VIsual Studio\Sumoftwonumbers\obj\Debug\netcoreapp3.1\Sumoftwonumbers.AssemblyInfo.cs
+E:\VIsual Studio\Sumoftwonumbers\obj\Debug\netcoreapp3.1\Sumoftwonumbers.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Sumoftwonumbers\obj\Debug\netcoreapp3.1\Sumoftwonumbers.dll
+E:\VIsual Studio\Sumoftwonumbers\obj\Debug\netcoreapp3.1\Sumoftwonumbers.pdb
+E:\VIsual Studio\Sumoftwonumbers\obj\Debug\netcoreapp3.1\Sumoftwonumbers.genruntimeconfig.cache

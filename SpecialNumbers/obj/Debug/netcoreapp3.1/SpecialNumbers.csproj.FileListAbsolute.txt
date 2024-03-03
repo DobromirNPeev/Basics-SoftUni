@@ -1,0 +1,14 @@
+E:\VIsual Studio\SpecialNumbers\bin\Debug\netcoreapp3.1\SpecialNumbers.exe
+E:\VIsual Studio\SpecialNumbers\bin\Debug\netcoreapp3.1\SpecialNumbers.deps.json
+E:\VIsual Studio\SpecialNumbers\bin\Debug\netcoreapp3.1\SpecialNumbers.runtimeconfig.json
+E:\VIsual Studio\SpecialNumbers\bin\Debug\netcoreapp3.1\SpecialNumbers.runtimeconfig.dev.json
+E:\VIsual Studio\SpecialNumbers\bin\Debug\netcoreapp3.1\SpecialNumbers.dll
+E:\VIsual Studio\SpecialNumbers\bin\Debug\netcoreapp3.1\SpecialNumbers.pdb
+E:\VIsual Studio\SpecialNumbers\obj\Debug\netcoreapp3.1\SpecialNumbers.csproj.AssemblyReference.cache
+E:\VIsual Studio\SpecialNumbers\obj\Debug\netcoreapp3.1\SpecialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\SpecialNumbers\obj\Debug\netcoreapp3.1\SpecialNumbers.AssemblyInfoInputs.cache
+E:\VIsual Studio\SpecialNumbers\obj\Debug\netcoreapp3.1\SpecialNumbers.AssemblyInfo.cs
+E:\VIsual Studio\SpecialNumbers\obj\Debug\netcoreapp3.1\SpecialNumbers.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\SpecialNumbers\obj\Debug\netcoreapp3.1\SpecialNumbers.dll
+E:\VIsual Studio\SpecialNumbers\obj\Debug\netcoreapp3.1\SpecialNumbers.pdb
+E:\VIsual Studio\SpecialNumbers\obj\Debug\netcoreapp3.1\SpecialNumbers.genruntimeconfig.cache

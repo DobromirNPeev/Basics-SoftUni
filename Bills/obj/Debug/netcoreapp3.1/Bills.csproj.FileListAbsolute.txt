@@ -1,0 +1,14 @@
+E:\VIsual Studio\Bills\bin\Debug\netcoreapp3.1\Bills.exe
+E:\VIsual Studio\Bills\bin\Debug\netcoreapp3.1\Bills.deps.json
+E:\VIsual Studio\Bills\bin\Debug\netcoreapp3.1\Bills.runtimeconfig.json
+E:\VIsual Studio\Bills\bin\Debug\netcoreapp3.1\Bills.runtimeconfig.dev.json
+E:\VIsual Studio\Bills\bin\Debug\netcoreapp3.1\Bills.dll
+E:\VIsual Studio\Bills\bin\Debug\netcoreapp3.1\Bills.pdb
+E:\VIsual Studio\Bills\obj\Debug\netcoreapp3.1\Bills.csproj.AssemblyReference.cache
+E:\VIsual Studio\Bills\obj\Debug\netcoreapp3.1\Bills.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Bills\obj\Debug\netcoreapp3.1\Bills.AssemblyInfoInputs.cache
+E:\VIsual Studio\Bills\obj\Debug\netcoreapp3.1\Bills.AssemblyInfo.cs
+E:\VIsual Studio\Bills\obj\Debug\netcoreapp3.1\Bills.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Bills\obj\Debug\netcoreapp3.1\Bills.dll
+E:\VIsual Studio\Bills\obj\Debug\netcoreapp3.1\Bills.pdb
+E:\VIsual Studio\Bills\obj\Debug\netcoreapp3.1\Bills.genruntimeconfig.cache

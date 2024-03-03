@@ -1,0 +1,14 @@
+E:\VIsual Studio\operationbetweennumbers\bin\Debug\netcoreapp3.1\operationbetweennumbers.exe
+E:\VIsual Studio\operationbetweennumbers\bin\Debug\netcoreapp3.1\operationbetweennumbers.deps.json
+E:\VIsual Studio\operationbetweennumbers\bin\Debug\netcoreapp3.1\operationbetweennumbers.runtimeconfig.json
+E:\VIsual Studio\operationbetweennumbers\bin\Debug\netcoreapp3.1\operationbetweennumbers.runtimeconfig.dev.json
+E:\VIsual Studio\operationbetweennumbers\bin\Debug\netcoreapp3.1\operationbetweennumbers.dll
+E:\VIsual Studio\operationbetweennumbers\bin\Debug\netcoreapp3.1\operationbetweennumbers.pdb
+E:\VIsual Studio\operationbetweennumbers\obj\Debug\netcoreapp3.1\operationbetweennumbers.csproj.AssemblyReference.cache
+E:\VIsual Studio\operationbetweennumbers\obj\Debug\netcoreapp3.1\operationbetweennumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\operationbetweennumbers\obj\Debug\netcoreapp3.1\operationbetweennumbers.AssemblyInfoInputs.cache
+E:\VIsual Studio\operationbetweennumbers\obj\Debug\netcoreapp3.1\operationbetweennumbers.AssemblyInfo.cs
+E:\VIsual Studio\operationbetweennumbers\obj\Debug\netcoreapp3.1\operationbetweennumbers.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\operationbetweennumbers\obj\Debug\netcoreapp3.1\operationbetweennumbers.dll
+E:\VIsual Studio\operationbetweennumbers\obj\Debug\netcoreapp3.1\operationbetweennumbers.pdb
+E:\VIsual Studio\operationbetweennumbers\obj\Debug\netcoreapp3.1\operationbetweennumbers.genruntimeconfig.cache

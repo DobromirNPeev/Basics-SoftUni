@@ -1,0 +1,14 @@
+E:\VIsual Studio\SumNumbersWhile\bin\Debug\netcoreapp3.1\SumNumbersWhile.exe
+E:\VIsual Studio\SumNumbersWhile\bin\Debug\netcoreapp3.1\SumNumbersWhile.deps.json
+E:\VIsual Studio\SumNumbersWhile\bin\Debug\netcoreapp3.1\SumNumbersWhile.runtimeconfig.json
+E:\VIsual Studio\SumNumbersWhile\bin\Debug\netcoreapp3.1\SumNumbersWhile.runtimeconfig.dev.json
+E:\VIsual Studio\SumNumbersWhile\bin\Debug\netcoreapp3.1\SumNumbersWhile.dll
+E:\VIsual Studio\SumNumbersWhile\bin\Debug\netcoreapp3.1\SumNumbersWhile.pdb
+E:\VIsual Studio\SumNumbersWhile\obj\Debug\netcoreapp3.1\SumNumbersWhile.csproj.AssemblyReference.cache
+E:\VIsual Studio\SumNumbersWhile\obj\Debug\netcoreapp3.1\SumNumbersWhile.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\SumNumbersWhile\obj\Debug\netcoreapp3.1\SumNumbersWhile.AssemblyInfoInputs.cache
+E:\VIsual Studio\SumNumbersWhile\obj\Debug\netcoreapp3.1\SumNumbersWhile.AssemblyInfo.cs
+E:\VIsual Studio\SumNumbersWhile\obj\Debug\netcoreapp3.1\SumNumbersWhile.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\SumNumbersWhile\obj\Debug\netcoreapp3.1\SumNumbersWhile.dll
+E:\VIsual Studio\SumNumbersWhile\obj\Debug\netcoreapp3.1\SumNumbersWhile.pdb
+E:\VIsual Studio\SumNumbersWhile\obj\Debug\netcoreapp3.1\SumNumbersWhile.genruntimeconfig.cache

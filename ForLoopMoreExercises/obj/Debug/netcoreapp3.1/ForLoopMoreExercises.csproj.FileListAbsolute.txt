@@ -1,0 +1,13 @@
+E:\VIsual Studio\ForLoopMoreExercises\bin\Debug\netcoreapp3.1\ForLoopMoreExercises.exe
+E:\VIsual Studio\ForLoopMoreExercises\bin\Debug\netcoreapp3.1\ForLoopMoreExercises.deps.json
+E:\VIsual Studio\ForLoopMoreExercises\bin\Debug\netcoreapp3.1\ForLoopMoreExercises.runtimeconfig.json
+E:\VIsual Studio\ForLoopMoreExercises\bin\Debug\netcoreapp3.1\ForLoopMoreExercises.runtimeconfig.dev.json
+E:\VIsual Studio\ForLoopMoreExercises\bin\Debug\netcoreapp3.1\ForLoopMoreExercises.dll
+E:\VIsual Studio\ForLoopMoreExercises\bin\Debug\netcoreapp3.1\ForLoopMoreExercises.pdb
+E:\VIsual Studio\ForLoopMoreExercises\obj\Debug\netcoreapp3.1\ForLoopMoreExercises.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\ForLoopMoreExercises\obj\Debug\netcoreapp3.1\ForLoopMoreExercises.AssemblyInfoInputs.cache
+E:\VIsual Studio\ForLoopMoreExercises\obj\Debug\netcoreapp3.1\ForLoopMoreExercises.AssemblyInfo.cs
+E:\VIsual Studio\ForLoopMoreExercises\obj\Debug\netcoreapp3.1\ForLoopMoreExercises.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\ForLoopMoreExercises\obj\Debug\netcoreapp3.1\ForLoopMoreExercises.dll
+E:\VIsual Studio\ForLoopMoreExercises\obj\Debug\netcoreapp3.1\ForLoopMoreExercises.pdb
+E:\VIsual Studio\ForLoopMoreExercises\obj\Debug\netcoreapp3.1\ForLoopMoreExercises.genruntimeconfig.cache

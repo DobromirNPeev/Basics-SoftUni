@@ -1,0 +1,14 @@
+E:\12. The song of the wheels\bin\Debug\netcoreapp3.1\12. The song of the wheels.exe
+E:\12. The song of the wheels\bin\Debug\netcoreapp3.1\12. The song of the wheels.deps.json
+E:\12. The song of the wheels\bin\Debug\netcoreapp3.1\12. The song of the wheels.runtimeconfig.json
+E:\12. The song of the wheels\bin\Debug\netcoreapp3.1\12. The song of the wheels.runtimeconfig.dev.json
+E:\12. The song of the wheels\bin\Debug\netcoreapp3.1\12. The song of the wheels.dll
+E:\12. The song of the wheels\bin\Debug\netcoreapp3.1\12. The song of the wheels.pdb
+E:\12. The song of the wheels\obj\Debug\netcoreapp3.1\12. The song of the wheels.csproj.AssemblyReference.cache
+E:\12. The song of the wheels\obj\Debug\netcoreapp3.1\12. The song of the wheels.GeneratedMSBuildEditorConfig.editorconfig
+E:\12. The song of the wheels\obj\Debug\netcoreapp3.1\12. The song of the wheels.AssemblyInfoInputs.cache
+E:\12. The song of the wheels\obj\Debug\netcoreapp3.1\12. The song of the wheels.AssemblyInfo.cs
+E:\12. The song of the wheels\obj\Debug\netcoreapp3.1\12. The song of the wheels.csproj.CoreCompileInputs.cache
+E:\12. The song of the wheels\obj\Debug\netcoreapp3.1\12. The song of the wheels.dll
+E:\12. The song of the wheels\obj\Debug\netcoreapp3.1\12. The song of the wheels.pdb
+E:\12. The song of the wheels\obj\Debug\netcoreapp3.1\12. The song of the wheels.genruntimeconfig.cache

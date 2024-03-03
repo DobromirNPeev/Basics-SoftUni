@@ -1,0 +1,13 @@
+E:\VIsual Studio\Building\bin\Debug\netcoreapp3.1\Building.exe
+E:\VIsual Studio\Building\bin\Debug\netcoreapp3.1\Building.deps.json
+E:\VIsual Studio\Building\bin\Debug\netcoreapp3.1\Building.runtimeconfig.json
+E:\VIsual Studio\Building\bin\Debug\netcoreapp3.1\Building.runtimeconfig.dev.json
+E:\VIsual Studio\Building\bin\Debug\netcoreapp3.1\Building.dll
+E:\VIsual Studio\Building\bin\Debug\netcoreapp3.1\Building.pdb
+E:\VIsual Studio\Building\obj\Debug\netcoreapp3.1\Building.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Building\obj\Debug\netcoreapp3.1\Building.AssemblyInfoInputs.cache
+E:\VIsual Studio\Building\obj\Debug\netcoreapp3.1\Building.AssemblyInfo.cs
+E:\VIsual Studio\Building\obj\Debug\netcoreapp3.1\Building.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Building\obj\Debug\netcoreapp3.1\Building.dll
+E:\VIsual Studio\Building\obj\Debug\netcoreapp3.1\Building.pdb
+E:\VIsual Studio\Building\obj\Debug\netcoreapp3.1\Building.genruntimeconfig.cache

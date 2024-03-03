@@ -1,0 +1,13 @@
+E:\VIsual Studio\Train The Trainers\bin\Debug\netcoreapp3.1\Train The Trainers.exe
+E:\VIsual Studio\Train The Trainers\bin\Debug\netcoreapp3.1\Train The Trainers.deps.json
+E:\VIsual Studio\Train The Trainers\bin\Debug\netcoreapp3.1\Train The Trainers.runtimeconfig.json
+E:\VIsual Studio\Train The Trainers\bin\Debug\netcoreapp3.1\Train The Trainers.runtimeconfig.dev.json
+E:\VIsual Studio\Train The Trainers\bin\Debug\netcoreapp3.1\Train The Trainers.dll
+E:\VIsual Studio\Train The Trainers\bin\Debug\netcoreapp3.1\Train The Trainers.pdb
+E:\VIsual Studio\Train The Trainers\obj\Debug\netcoreapp3.1\Train The Trainers.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Train The Trainers\obj\Debug\netcoreapp3.1\Train The Trainers.AssemblyInfoInputs.cache
+E:\VIsual Studio\Train The Trainers\obj\Debug\netcoreapp3.1\Train The Trainers.AssemblyInfo.cs
+E:\VIsual Studio\Train The Trainers\obj\Debug\netcoreapp3.1\Train The Trainers.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Train The Trainers\obj\Debug\netcoreapp3.1\Train The Trainers.dll
+E:\VIsual Studio\Train The Trainers\obj\Debug\netcoreapp3.1\Train The Trainers.pdb
+E:\VIsual Studio\Train The Trainers\obj\Debug\netcoreapp3.1\Train The Trainers.genruntimeconfig.cache

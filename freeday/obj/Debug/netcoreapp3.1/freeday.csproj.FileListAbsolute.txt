@@ -1,0 +1,14 @@
+E:\VIsual Studio\freeday\bin\Debug\netcoreapp3.1\freeday.exe
+E:\VIsual Studio\freeday\bin\Debug\netcoreapp3.1\freeday.deps.json
+E:\VIsual Studio\freeday\bin\Debug\netcoreapp3.1\freeday.runtimeconfig.json
+E:\VIsual Studio\freeday\bin\Debug\netcoreapp3.1\freeday.runtimeconfig.dev.json
+E:\VIsual Studio\freeday\bin\Debug\netcoreapp3.1\freeday.dll
+E:\VIsual Studio\freeday\bin\Debug\netcoreapp3.1\freeday.pdb
+E:\VIsual Studio\freeday\obj\Debug\netcoreapp3.1\freeday.csproj.AssemblyReference.cache
+E:\VIsual Studio\freeday\obj\Debug\netcoreapp3.1\freeday.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\freeday\obj\Debug\netcoreapp3.1\freeday.AssemblyInfoInputs.cache
+E:\VIsual Studio\freeday\obj\Debug\netcoreapp3.1\freeday.AssemblyInfo.cs
+E:\VIsual Studio\freeday\obj\Debug\netcoreapp3.1\freeday.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\freeday\obj\Debug\netcoreapp3.1\freeday.dll
+E:\VIsual Studio\freeday\obj\Debug\netcoreapp3.1\freeday.pdb
+E:\VIsual Studio\freeday\obj\Debug\netcoreapp3.1\freeday.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\VIsual Studio\hotelroom\bin\Debug\netcoreapp3.1\hotelroom.exe
+E:\VIsual Studio\hotelroom\bin\Debug\netcoreapp3.1\hotelroom.deps.json
+E:\VIsual Studio\hotelroom\bin\Debug\netcoreapp3.1\hotelroom.runtimeconfig.json
+E:\VIsual Studio\hotelroom\bin\Debug\netcoreapp3.1\hotelroom.runtimeconfig.dev.json
+E:\VIsual Studio\hotelroom\bin\Debug\netcoreapp3.1\hotelroom.dll
+E:\VIsual Studio\hotelroom\bin\Debug\netcoreapp3.1\hotelroom.pdb
+E:\VIsual Studio\hotelroom\obj\Debug\netcoreapp3.1\hotelroom.csproj.AssemblyReference.cache
+E:\VIsual Studio\hotelroom\obj\Debug\netcoreapp3.1\hotelroom.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\hotelroom\obj\Debug\netcoreapp3.1\hotelroom.AssemblyInfoInputs.cache
+E:\VIsual Studio\hotelroom\obj\Debug\netcoreapp3.1\hotelroom.AssemblyInfo.cs
+E:\VIsual Studio\hotelroom\obj\Debug\netcoreapp3.1\hotelroom.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\hotelroom\obj\Debug\netcoreapp3.1\hotelroom.dll
+E:\VIsual Studio\hotelroom\obj\Debug\netcoreapp3.1\hotelroom.pdb
+E:\VIsual Studio\hotelroom\obj\Debug\netcoreapp3.1\hotelroom.genruntimeconfig.cache

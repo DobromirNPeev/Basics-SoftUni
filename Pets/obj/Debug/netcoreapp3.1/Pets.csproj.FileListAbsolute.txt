@@ -1,0 +1,13 @@
+E:\VIsual Studio\Pets\bin\Debug\netcoreapp3.1\Pets.exe
+E:\VIsual Studio\Pets\bin\Debug\netcoreapp3.1\Pets.deps.json
+E:\VIsual Studio\Pets\bin\Debug\netcoreapp3.1\Pets.runtimeconfig.json
+E:\VIsual Studio\Pets\bin\Debug\netcoreapp3.1\Pets.runtimeconfig.dev.json
+E:\VIsual Studio\Pets\bin\Debug\netcoreapp3.1\Pets.dll
+E:\VIsual Studio\Pets\bin\Debug\netcoreapp3.1\Pets.pdb
+E:\VIsual Studio\Pets\obj\Debug\netcoreapp3.1\Pets.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Pets\obj\Debug\netcoreapp3.1\Pets.AssemblyInfoInputs.cache
+E:\VIsual Studio\Pets\obj\Debug\netcoreapp3.1\Pets.AssemblyInfo.cs
+E:\VIsual Studio\Pets\obj\Debug\netcoreapp3.1\Pets.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Pets\obj\Debug\netcoreapp3.1\Pets.dll
+E:\VIsual Studio\Pets\obj\Debug\netcoreapp3.1\Pets.pdb
+E:\VIsual Studio\Pets\obj\Debug\netcoreapp3.1\Pets.genruntimeconfig.cache

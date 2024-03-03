@@ -1,0 +1,14 @@
+E:\VIsual Studio\conditionalstatements-moreexercise\obj\Debug\netcoreapp3.1\conditionalstatements-moreexercise.csproj.AssemblyReference.cache
+E:\VIsual Studio\conditionalstatements-moreexercise\obj\Debug\netcoreapp3.1\conditionalstatements-moreexercise.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\conditionalstatements-moreexercise\obj\Debug\netcoreapp3.1\conditionalstatements-moreexercise.AssemblyInfoInputs.cache
+E:\VIsual Studio\conditionalstatements-moreexercise\obj\Debug\netcoreapp3.1\conditionalstatements-moreexercise.AssemblyInfo.cs
+E:\VIsual Studio\conditionalstatements-moreexercise\obj\Debug\netcoreapp3.1\conditionalstatements-moreexercise.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\conditionalstatements-moreexercise\bin\Debug\netcoreapp3.1\conditionalstatements-moreexercise.exe
+E:\VIsual Studio\conditionalstatements-moreexercise\bin\Debug\netcoreapp3.1\conditionalstatements-moreexercise.deps.json
+E:\VIsual Studio\conditionalstatements-moreexercise\bin\Debug\netcoreapp3.1\conditionalstatements-moreexercise.runtimeconfig.json
+E:\VIsual Studio\conditionalstatements-moreexercise\bin\Debug\netcoreapp3.1\conditionalstatements-moreexercise.runtimeconfig.dev.json
+E:\VIsual Studio\conditionalstatements-moreexercise\bin\Debug\netcoreapp3.1\conditionalstatements-moreexercise.dll
+E:\VIsual Studio\conditionalstatements-moreexercise\bin\Debug\netcoreapp3.1\conditionalstatements-moreexercise.pdb
+E:\VIsual Studio\conditionalstatements-moreexercise\obj\Debug\netcoreapp3.1\conditionalstatements-moreexercise.dll
+E:\VIsual Studio\conditionalstatements-moreexercise\obj\Debug\netcoreapp3.1\conditionalstatements-moreexercise.pdb
+E:\VIsual Studio\conditionalstatements-moreexercise\obj\Debug\netcoreapp3.1\conditionalstatements-moreexercise.genruntimeconfig.cache

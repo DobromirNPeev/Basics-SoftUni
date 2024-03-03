@@ -1,0 +1,13 @@
+E:\VIsual Studio\workinghours\bin\Debug\netcoreapp3.1\workinghours.exe
+E:\VIsual Studio\workinghours\bin\Debug\netcoreapp3.1\workinghours.deps.json
+E:\VIsual Studio\workinghours\bin\Debug\netcoreapp3.1\workinghours.runtimeconfig.json
+E:\VIsual Studio\workinghours\bin\Debug\netcoreapp3.1\workinghours.runtimeconfig.dev.json
+E:\VIsual Studio\workinghours\bin\Debug\netcoreapp3.1\workinghours.dll
+E:\VIsual Studio\workinghours\bin\Debug\netcoreapp3.1\workinghours.pdb
+E:\VIsual Studio\workinghours\obj\Debug\netcoreapp3.1\workinghours.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\workinghours\obj\Debug\netcoreapp3.1\workinghours.AssemblyInfoInputs.cache
+E:\VIsual Studio\workinghours\obj\Debug\netcoreapp3.1\workinghours.AssemblyInfo.cs
+E:\VIsual Studio\workinghours\obj\Debug\netcoreapp3.1\workinghours.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\workinghours\obj\Debug\netcoreapp3.1\workinghours.dll
+E:\VIsual Studio\workinghours\obj\Debug\netcoreapp3.1\workinghours.pdb
+E:\VIsual Studio\workinghours\obj\Debug\netcoreapp3.1\workinghours.genruntimeconfig.cache

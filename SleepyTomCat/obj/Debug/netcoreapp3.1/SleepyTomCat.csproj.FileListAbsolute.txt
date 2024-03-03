@@ -1,0 +1,13 @@
+E:\VIsual Studio\SleepyTomCat\bin\Debug\netcoreapp3.1\SleepyTomCat.exe
+E:\VIsual Studio\SleepyTomCat\bin\Debug\netcoreapp3.1\SleepyTomCat.deps.json
+E:\VIsual Studio\SleepyTomCat\bin\Debug\netcoreapp3.1\SleepyTomCat.runtimeconfig.json
+E:\VIsual Studio\SleepyTomCat\bin\Debug\netcoreapp3.1\SleepyTomCat.runtimeconfig.dev.json
+E:\VIsual Studio\SleepyTomCat\bin\Debug\netcoreapp3.1\SleepyTomCat.dll
+E:\VIsual Studio\SleepyTomCat\bin\Debug\netcoreapp3.1\SleepyTomCat.pdb
+E:\VIsual Studio\SleepyTomCat\obj\Debug\netcoreapp3.1\SleepyTomCat.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\SleepyTomCat\obj\Debug\netcoreapp3.1\SleepyTomCat.AssemblyInfoInputs.cache
+E:\VIsual Studio\SleepyTomCat\obj\Debug\netcoreapp3.1\SleepyTomCat.AssemblyInfo.cs
+E:\VIsual Studio\SleepyTomCat\obj\Debug\netcoreapp3.1\SleepyTomCat.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\SleepyTomCat\obj\Debug\netcoreapp3.1\SleepyTomCat.dll
+E:\VIsual Studio\SleepyTomCat\obj\Debug\netcoreapp3.1\SleepyTomCat.pdb
+E:\VIsual Studio\SleepyTomCat\obj\Debug\netcoreapp3.1\SleepyTomCat.genruntimeconfig.cache

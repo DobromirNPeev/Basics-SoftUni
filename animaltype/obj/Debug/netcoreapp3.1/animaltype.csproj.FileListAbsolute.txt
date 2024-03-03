@@ -1,0 +1,14 @@
+E:\VIsual Studio\animaltype\bin\Debug\netcoreapp3.1\animaltype.exe
+E:\VIsual Studio\animaltype\bin\Debug\netcoreapp3.1\animaltype.deps.json
+E:\VIsual Studio\animaltype\bin\Debug\netcoreapp3.1\animaltype.runtimeconfig.json
+E:\VIsual Studio\animaltype\bin\Debug\netcoreapp3.1\animaltype.runtimeconfig.dev.json
+E:\VIsual Studio\animaltype\bin\Debug\netcoreapp3.1\animaltype.dll
+E:\VIsual Studio\animaltype\bin\Debug\netcoreapp3.1\animaltype.pdb
+E:\VIsual Studio\animaltype\obj\Debug\netcoreapp3.1\animaltype.csproj.AssemblyReference.cache
+E:\VIsual Studio\animaltype\obj\Debug\netcoreapp3.1\animaltype.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\animaltype\obj\Debug\netcoreapp3.1\animaltype.AssemblyInfoInputs.cache
+E:\VIsual Studio\animaltype\obj\Debug\netcoreapp3.1\animaltype.AssemblyInfo.cs
+E:\VIsual Studio\animaltype\obj\Debug\netcoreapp3.1\animaltype.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\animaltype\obj\Debug\netcoreapp3.1\animaltype.dll
+E:\VIsual Studio\animaltype\obj\Debug\netcoreapp3.1\animaltype.pdb
+E:\VIsual Studio\animaltype\obj\Debug\netcoreapp3.1\animaltype.genruntimeconfig.cache

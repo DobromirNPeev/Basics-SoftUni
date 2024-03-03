@@ -1,0 +1,14 @@
+E:\01. Oscars ceremony\bin\Debug\netcoreapp3.1\01. Oscars ceremony.exe
+E:\01. Oscars ceremony\bin\Debug\netcoreapp3.1\01. Oscars ceremony.deps.json
+E:\01. Oscars ceremony\bin\Debug\netcoreapp3.1\01. Oscars ceremony.runtimeconfig.json
+E:\01. Oscars ceremony\bin\Debug\netcoreapp3.1\01. Oscars ceremony.runtimeconfig.dev.json
+E:\01. Oscars ceremony\bin\Debug\netcoreapp3.1\01. Oscars ceremony.dll
+E:\01. Oscars ceremony\bin\Debug\netcoreapp3.1\01. Oscars ceremony.pdb
+E:\01. Oscars ceremony\obj\Debug\netcoreapp3.1\01. Oscars ceremony.csproj.AssemblyReference.cache
+E:\01. Oscars ceremony\obj\Debug\netcoreapp3.1\01. Oscars ceremony.GeneratedMSBuildEditorConfig.editorconfig
+E:\01. Oscars ceremony\obj\Debug\netcoreapp3.1\01. Oscars ceremony.AssemblyInfoInputs.cache
+E:\01. Oscars ceremony\obj\Debug\netcoreapp3.1\01. Oscars ceremony.AssemblyInfo.cs
+E:\01. Oscars ceremony\obj\Debug\netcoreapp3.1\01. Oscars ceremony.csproj.CoreCompileInputs.cache
+E:\01. Oscars ceremony\obj\Debug\netcoreapp3.1\01. Oscars ceremony.dll
+E:\01. Oscars ceremony\obj\Debug\netcoreapp3.1\01. Oscars ceremony.pdb
+E:\01. Oscars ceremony\obj\Debug\netcoreapp3.1\01. Oscars ceremony.genruntimeconfig.cache

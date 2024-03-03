@@ -1,0 +1,14 @@
+E:\VIsual Studio\02. Football Results\bin\Debug\netcoreapp3.1\02. Football Results.exe
+E:\VIsual Studio\02. Football Results\bin\Debug\netcoreapp3.1\02. Football Results.deps.json
+E:\VIsual Studio\02. Football Results\bin\Debug\netcoreapp3.1\02. Football Results.runtimeconfig.json
+E:\VIsual Studio\02. Football Results\bin\Debug\netcoreapp3.1\02. Football Results.runtimeconfig.dev.json
+E:\VIsual Studio\02. Football Results\bin\Debug\netcoreapp3.1\02. Football Results.dll
+E:\VIsual Studio\02. Football Results\bin\Debug\netcoreapp3.1\02. Football Results.pdb
+E:\VIsual Studio\02. Football Results\obj\Debug\netcoreapp3.1\02. Football Results.csproj.AssemblyReference.cache
+E:\VIsual Studio\02. Football Results\obj\Debug\netcoreapp3.1\02. Football Results.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\02. Football Results\obj\Debug\netcoreapp3.1\02. Football Results.AssemblyInfoInputs.cache
+E:\VIsual Studio\02. Football Results\obj\Debug\netcoreapp3.1\02. Football Results.AssemblyInfo.cs
+E:\VIsual Studio\02. Football Results\obj\Debug\netcoreapp3.1\02. Football Results.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\02. Football Results\obj\Debug\netcoreapp3.1\02. Football Results.dll
+E:\VIsual Studio\02. Football Results\obj\Debug\netcoreapp3.1\02. Football Results.pdb
+E:\VIsual Studio\02. Football Results\obj\Debug\netcoreapp3.1\02. Football Results.genruntimeconfig.cache

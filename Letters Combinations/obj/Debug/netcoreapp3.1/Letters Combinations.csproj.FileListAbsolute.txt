@@ -1,0 +1,13 @@
+E:\Letters Combinations\bin\Debug\netcoreapp3.1\Letters Combinations.exe
+E:\Letters Combinations\bin\Debug\netcoreapp3.1\Letters Combinations.deps.json
+E:\Letters Combinations\bin\Debug\netcoreapp3.1\Letters Combinations.runtimeconfig.json
+E:\Letters Combinations\bin\Debug\netcoreapp3.1\Letters Combinations.runtimeconfig.dev.json
+E:\Letters Combinations\bin\Debug\netcoreapp3.1\Letters Combinations.dll
+E:\Letters Combinations\bin\Debug\netcoreapp3.1\Letters Combinations.pdb
+E:\Letters Combinations\obj\Debug\netcoreapp3.1\Letters Combinations.GeneratedMSBuildEditorConfig.editorconfig
+E:\Letters Combinations\obj\Debug\netcoreapp3.1\Letters Combinations.AssemblyInfoInputs.cache
+E:\Letters Combinations\obj\Debug\netcoreapp3.1\Letters Combinations.AssemblyInfo.cs
+E:\Letters Combinations\obj\Debug\netcoreapp3.1\Letters Combinations.csproj.CoreCompileInputs.cache
+E:\Letters Combinations\obj\Debug\netcoreapp3.1\Letters Combinations.dll
+E:\Letters Combinations\obj\Debug\netcoreapp3.1\Letters Combinations.pdb
+E:\Letters Combinations\obj\Debug\netcoreapp3.1\Letters Combinations.genruntimeconfig.cache

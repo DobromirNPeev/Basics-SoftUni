@@ -1,0 +1,16 @@
+E:\VIsual Studio\konkaticatiq\architect\bin\Debug\net5.0\architect.exe
+E:\VIsual Studio\konkaticatiq\architect\bin\Debug\net5.0\architect.deps.json
+E:\VIsual Studio\konkaticatiq\architect\bin\Debug\net5.0\architect.runtimeconfig.json
+E:\VIsual Studio\konkaticatiq\architect\bin\Debug\net5.0\architect.runtimeconfig.dev.json
+E:\VIsual Studio\konkaticatiq\architect\bin\Debug\net5.0\architect.dll
+E:\VIsual Studio\konkaticatiq\architect\bin\Debug\net5.0\ref\architect.dll
+E:\VIsual Studio\konkaticatiq\architect\bin\Debug\net5.0\architect.pdb
+E:\VIsual Studio\konkaticatiq\architect\obj\Debug\net5.0\architect.csproj.AssemblyReference.cache
+E:\VIsual Studio\konkaticatiq\architect\obj\Debug\net5.0\architect.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\konkaticatiq\architect\obj\Debug\net5.0\architect.AssemblyInfoInputs.cache
+E:\VIsual Studio\konkaticatiq\architect\obj\Debug\net5.0\architect.AssemblyInfo.cs
+E:\VIsual Studio\konkaticatiq\architect\obj\Debug\net5.0\architect.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\konkaticatiq\architect\obj\Debug\net5.0\architect.dll
+E:\VIsual Studio\konkaticatiq\architect\obj\Debug\net5.0\ref\architect.dll
+E:\VIsual Studio\konkaticatiq\architect\obj\Debug\net5.0\architect.pdb
+E:\VIsual Studio\konkaticatiq\architect\obj\Debug\net5.0\architect.genruntimeconfig.cache

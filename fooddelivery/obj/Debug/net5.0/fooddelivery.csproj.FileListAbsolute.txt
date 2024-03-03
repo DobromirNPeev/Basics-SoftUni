@@ -1,0 +1,15 @@
+E:\VIsual Studio\fooddelivery\bin\Debug\net5.0\fooddelivery.exe
+E:\VIsual Studio\fooddelivery\bin\Debug\net5.0\fooddelivery.deps.json
+E:\VIsual Studio\fooddelivery\bin\Debug\net5.0\fooddelivery.runtimeconfig.json
+E:\VIsual Studio\fooddelivery\bin\Debug\net5.0\fooddelivery.runtimeconfig.dev.json
+E:\VIsual Studio\fooddelivery\bin\Debug\net5.0\fooddelivery.dll
+E:\VIsual Studio\fooddelivery\bin\Debug\net5.0\ref\fooddelivery.dll
+E:\VIsual Studio\fooddelivery\bin\Debug\net5.0\fooddelivery.pdb
+E:\VIsual Studio\fooddelivery\obj\Debug\net5.0\fooddelivery.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\fooddelivery\obj\Debug\net5.0\fooddelivery.AssemblyInfoInputs.cache
+E:\VIsual Studio\fooddelivery\obj\Debug\net5.0\fooddelivery.AssemblyInfo.cs
+E:\VIsual Studio\fooddelivery\obj\Debug\net5.0\fooddelivery.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\fooddelivery\obj\Debug\net5.0\fooddelivery.dll
+E:\VIsual Studio\fooddelivery\obj\Debug\net5.0\ref\fooddelivery.dll
+E:\VIsual Studio\fooddelivery\obj\Debug\net5.0\fooddelivery.pdb
+E:\VIsual Studio\fooddelivery\obj\Debug\net5.0\fooddelivery.genruntimeconfig.cache

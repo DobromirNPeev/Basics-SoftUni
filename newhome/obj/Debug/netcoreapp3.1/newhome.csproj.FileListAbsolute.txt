@@ -1,0 +1,14 @@
+E:\VIsual Studio\newhome\bin\Debug\netcoreapp3.1\newhome.exe
+E:\VIsual Studio\newhome\bin\Debug\netcoreapp3.1\newhome.deps.json
+E:\VIsual Studio\newhome\bin\Debug\netcoreapp3.1\newhome.runtimeconfig.json
+E:\VIsual Studio\newhome\bin\Debug\netcoreapp3.1\newhome.runtimeconfig.dev.json
+E:\VIsual Studio\newhome\bin\Debug\netcoreapp3.1\newhome.dll
+E:\VIsual Studio\newhome\bin\Debug\netcoreapp3.1\newhome.pdb
+E:\VIsual Studio\newhome\obj\Debug\netcoreapp3.1\newhome.csproj.AssemblyReference.cache
+E:\VIsual Studio\newhome\obj\Debug\netcoreapp3.1\newhome.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\newhome\obj\Debug\netcoreapp3.1\newhome.AssemblyInfoInputs.cache
+E:\VIsual Studio\newhome\obj\Debug\netcoreapp3.1\newhome.AssemblyInfo.cs
+E:\VIsual Studio\newhome\obj\Debug\netcoreapp3.1\newhome.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\newhome\obj\Debug\netcoreapp3.1\newhome.dll
+E:\VIsual Studio\newhome\obj\Debug\netcoreapp3.1\newhome.pdb
+E:\VIsual Studio\newhome\obj\Debug\netcoreapp3.1\newhome.genruntimeconfig.cache

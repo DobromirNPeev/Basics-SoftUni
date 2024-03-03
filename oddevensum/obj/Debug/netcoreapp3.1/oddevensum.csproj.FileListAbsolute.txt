@@ -1,0 +1,14 @@
+E:\VIsual Studio\oddevensum\bin\Debug\netcoreapp3.1\oddevensum.exe
+E:\VIsual Studio\oddevensum\bin\Debug\netcoreapp3.1\oddevensum.deps.json
+E:\VIsual Studio\oddevensum\bin\Debug\netcoreapp3.1\oddevensum.runtimeconfig.json
+E:\VIsual Studio\oddevensum\bin\Debug\netcoreapp3.1\oddevensum.runtimeconfig.dev.json
+E:\VIsual Studio\oddevensum\bin\Debug\netcoreapp3.1\oddevensum.dll
+E:\VIsual Studio\oddevensum\bin\Debug\netcoreapp3.1\oddevensum.pdb
+E:\VIsual Studio\oddevensum\obj\Debug\netcoreapp3.1\oddevensum.csproj.AssemblyReference.cache
+E:\VIsual Studio\oddevensum\obj\Debug\netcoreapp3.1\oddevensum.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\oddevensum\obj\Debug\netcoreapp3.1\oddevensum.AssemblyInfoInputs.cache
+E:\VIsual Studio\oddevensum\obj\Debug\netcoreapp3.1\oddevensum.AssemblyInfo.cs
+E:\VIsual Studio\oddevensum\obj\Debug\netcoreapp3.1\oddevensum.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\oddevensum\obj\Debug\netcoreapp3.1\oddevensum.dll
+E:\VIsual Studio\oddevensum\obj\Debug\netcoreapp3.1\oddevensum.pdb
+E:\VIsual Studio\oddevensum\obj\Debug\netcoreapp3.1\oddevensum.genruntimeconfig.cache

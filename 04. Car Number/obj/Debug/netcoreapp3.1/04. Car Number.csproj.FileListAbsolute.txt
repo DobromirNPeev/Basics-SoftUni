@@ -1,0 +1,14 @@
+E:\04. Car Number\bin\Debug\netcoreapp3.1\04. Car Number.exe
+E:\04. Car Number\bin\Debug\netcoreapp3.1\04. Car Number.deps.json
+E:\04. Car Number\bin\Debug\netcoreapp3.1\04. Car Number.runtimeconfig.json
+E:\04. Car Number\bin\Debug\netcoreapp3.1\04. Car Number.runtimeconfig.dev.json
+E:\04. Car Number\bin\Debug\netcoreapp3.1\04. Car Number.dll
+E:\04. Car Number\bin\Debug\netcoreapp3.1\04. Car Number.pdb
+E:\04. Car Number\obj\Debug\netcoreapp3.1\04. Car Number.csproj.AssemblyReference.cache
+E:\04. Car Number\obj\Debug\netcoreapp3.1\04. Car Number.GeneratedMSBuildEditorConfig.editorconfig
+E:\04. Car Number\obj\Debug\netcoreapp3.1\04. Car Number.AssemblyInfoInputs.cache
+E:\04. Car Number\obj\Debug\netcoreapp3.1\04. Car Number.AssemblyInfo.cs
+E:\04. Car Number\obj\Debug\netcoreapp3.1\04. Car Number.csproj.CoreCompileInputs.cache
+E:\04. Car Number\obj\Debug\netcoreapp3.1\04. Car Number.dll
+E:\04. Car Number\obj\Debug\netcoreapp3.1\04. Car Number.pdb
+E:\04. Car Number\obj\Debug\netcoreapp3.1\04. Car Number.genruntimeconfig.cache

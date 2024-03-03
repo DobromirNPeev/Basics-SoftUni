@@ -1,0 +1,15 @@
+E:\VIsual Studio\pregovor\areaoffigures\obj\Debug\net5.0\areaoffigures.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\pregovor\areaoffigures\obj\Debug\net5.0\areaoffigures.AssemblyInfoInputs.cache
+E:\VIsual Studio\pregovor\areaoffigures\obj\Debug\net5.0\areaoffigures.AssemblyInfo.cs
+E:\VIsual Studio\pregovor\areaoffigures\obj\Debug\net5.0\areaoffigures.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\pregovor\areaoffigures\bin\Debug\net5.0\areaoffigures.exe
+E:\VIsual Studio\pregovor\areaoffigures\bin\Debug\net5.0\areaoffigures.deps.json
+E:\VIsual Studio\pregovor\areaoffigures\bin\Debug\net5.0\areaoffigures.runtimeconfig.json
+E:\VIsual Studio\pregovor\areaoffigures\bin\Debug\net5.0\areaoffigures.runtimeconfig.dev.json
+E:\VIsual Studio\pregovor\areaoffigures\bin\Debug\net5.0\areaoffigures.dll
+E:\VIsual Studio\pregovor\areaoffigures\bin\Debug\net5.0\ref\areaoffigures.dll
+E:\VIsual Studio\pregovor\areaoffigures\bin\Debug\net5.0\areaoffigures.pdb
+E:\VIsual Studio\pregovor\areaoffigures\obj\Debug\net5.0\areaoffigures.dll
+E:\VIsual Studio\pregovor\areaoffigures\obj\Debug\net5.0\ref\areaoffigures.dll
+E:\VIsual Studio\pregovor\areaoffigures\obj\Debug\net5.0\areaoffigures.pdb
+E:\VIsual Studio\pregovor\areaoffigures\obj\Debug\net5.0\areaoffigures.genruntimeconfig.cache

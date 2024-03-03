@@ -1,0 +1,14 @@
+E:\VIsual Studio\06. Favorite Movie\bin\Debug\netcoreapp3.1\06. Favorite Movie.exe
+E:\VIsual Studio\06. Favorite Movie\bin\Debug\netcoreapp3.1\06. Favorite Movie.deps.json
+E:\VIsual Studio\06. Favorite Movie\bin\Debug\netcoreapp3.1\06. Favorite Movie.runtimeconfig.json
+E:\VIsual Studio\06. Favorite Movie\bin\Debug\netcoreapp3.1\06. Favorite Movie.runtimeconfig.dev.json
+E:\VIsual Studio\06. Favorite Movie\bin\Debug\netcoreapp3.1\06. Favorite Movie.dll
+E:\VIsual Studio\06. Favorite Movie\bin\Debug\netcoreapp3.1\06. Favorite Movie.pdb
+E:\VIsual Studio\06. Favorite Movie\obj\Debug\netcoreapp3.1\06. Favorite Movie.csproj.AssemblyReference.cache
+E:\VIsual Studio\06. Favorite Movie\obj\Debug\netcoreapp3.1\06. Favorite Movie.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\06. Favorite Movie\obj\Debug\netcoreapp3.1\06. Favorite Movie.AssemblyInfoInputs.cache
+E:\VIsual Studio\06. Favorite Movie\obj\Debug\netcoreapp3.1\06. Favorite Movie.AssemblyInfo.cs
+E:\VIsual Studio\06. Favorite Movie\obj\Debug\netcoreapp3.1\06. Favorite Movie.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\06. Favorite Movie\obj\Debug\netcoreapp3.1\06. Favorite Movie.dll
+E:\VIsual Studio\06. Favorite Movie\obj\Debug\netcoreapp3.1\06. Favorite Movie.pdb
+E:\VIsual Studio\06. Favorite Movie\obj\Debug\netcoreapp3.1\06. Favorite Movie.genruntimeconfig.cache

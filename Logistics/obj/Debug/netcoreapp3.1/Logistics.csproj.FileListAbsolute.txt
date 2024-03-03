@@ -1,0 +1,13 @@
+E:\VIsual Studio\Logistics\bin\Debug\netcoreapp3.1\Logistics.exe
+E:\VIsual Studio\Logistics\bin\Debug\netcoreapp3.1\Logistics.deps.json
+E:\VIsual Studio\Logistics\bin\Debug\netcoreapp3.1\Logistics.runtimeconfig.json
+E:\VIsual Studio\Logistics\bin\Debug\netcoreapp3.1\Logistics.runtimeconfig.dev.json
+E:\VIsual Studio\Logistics\bin\Debug\netcoreapp3.1\Logistics.dll
+E:\VIsual Studio\Logistics\bin\Debug\netcoreapp3.1\Logistics.pdb
+E:\VIsual Studio\Logistics\obj\Debug\netcoreapp3.1\Logistics.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Logistics\obj\Debug\netcoreapp3.1\Logistics.AssemblyInfoInputs.cache
+E:\VIsual Studio\Logistics\obj\Debug\netcoreapp3.1\Logistics.AssemblyInfo.cs
+E:\VIsual Studio\Logistics\obj\Debug\netcoreapp3.1\Logistics.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Logistics\obj\Debug\netcoreapp3.1\Logistics.dll
+E:\VIsual Studio\Logistics\obj\Debug\netcoreapp3.1\Logistics.pdb
+E:\VIsual Studio\Logistics\obj\Debug\netcoreapp3.1\Logistics.genruntimeconfig.cache

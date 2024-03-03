@@ -1,0 +1,13 @@
+E:\VIsual Studio\housepainting\bin\Debug\netcoreapp3.1\housepainting.exe
+E:\VIsual Studio\housepainting\bin\Debug\netcoreapp3.1\housepainting.deps.json
+E:\VIsual Studio\housepainting\bin\Debug\netcoreapp3.1\housepainting.runtimeconfig.json
+E:\VIsual Studio\housepainting\bin\Debug\netcoreapp3.1\housepainting.runtimeconfig.dev.json
+E:\VIsual Studio\housepainting\bin\Debug\netcoreapp3.1\housepainting.dll
+E:\VIsual Studio\housepainting\bin\Debug\netcoreapp3.1\housepainting.pdb
+E:\VIsual Studio\housepainting\obj\Debug\netcoreapp3.1\housepainting.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\housepainting\obj\Debug\netcoreapp3.1\housepainting.AssemblyInfoInputs.cache
+E:\VIsual Studio\housepainting\obj\Debug\netcoreapp3.1\housepainting.AssemblyInfo.cs
+E:\VIsual Studio\housepainting\obj\Debug\netcoreapp3.1\housepainting.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\housepainting\obj\Debug\netcoreapp3.1\housepainting.dll
+E:\VIsual Studio\housepainting\obj\Debug\netcoreapp3.1\housepainting.pdb
+E:\VIsual Studio\housepainting\obj\Debug\netcoreapp3.1\housepainting.genruntimeconfig.cache

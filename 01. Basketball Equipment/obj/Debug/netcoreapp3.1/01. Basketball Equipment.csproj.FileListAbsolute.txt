@@ -1,0 +1,14 @@
+E:\VIsual Studio\01. Basketball Equipment\bin\Debug\netcoreapp3.1\01. Basketball Equipment.exe
+E:\VIsual Studio\01. Basketball Equipment\bin\Debug\netcoreapp3.1\01. Basketball Equipment.deps.json
+E:\VIsual Studio\01. Basketball Equipment\bin\Debug\netcoreapp3.1\01. Basketball Equipment.runtimeconfig.json
+E:\VIsual Studio\01. Basketball Equipment\bin\Debug\netcoreapp3.1\01. Basketball Equipment.runtimeconfig.dev.json
+E:\VIsual Studio\01. Basketball Equipment\bin\Debug\netcoreapp3.1\01. Basketball Equipment.dll
+E:\VIsual Studio\01. Basketball Equipment\bin\Debug\netcoreapp3.1\01. Basketball Equipment.pdb
+E:\VIsual Studio\01. Basketball Equipment\obj\Debug\netcoreapp3.1\01. Basketball Equipment.csproj.AssemblyReference.cache
+E:\VIsual Studio\01. Basketball Equipment\obj\Debug\netcoreapp3.1\01. Basketball Equipment.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\01. Basketball Equipment\obj\Debug\netcoreapp3.1\01. Basketball Equipment.AssemblyInfoInputs.cache
+E:\VIsual Studio\01. Basketball Equipment\obj\Debug\netcoreapp3.1\01. Basketball Equipment.AssemblyInfo.cs
+E:\VIsual Studio\01. Basketball Equipment\obj\Debug\netcoreapp3.1\01. Basketball Equipment.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\01. Basketball Equipment\obj\Debug\netcoreapp3.1\01. Basketball Equipment.dll
+E:\VIsual Studio\01. Basketball Equipment\obj\Debug\netcoreapp3.1\01. Basketball Equipment.pdb
+E:\VIsual Studio\01. Basketball Equipment\obj\Debug\netcoreapp3.1\01. Basketball Equipment.genruntimeconfig.cache

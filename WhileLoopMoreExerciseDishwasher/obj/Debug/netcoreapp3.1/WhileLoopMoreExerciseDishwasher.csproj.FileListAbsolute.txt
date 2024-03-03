@@ -1,0 +1,14 @@
+E:\VIsual Studio\WhileLoopMoreExerciseDishwasher\bin\Debug\netcoreapp3.1\WhileLoopMoreExerciseDishwasher.exe
+E:\VIsual Studio\WhileLoopMoreExerciseDishwasher\bin\Debug\netcoreapp3.1\WhileLoopMoreExerciseDishwasher.deps.json
+E:\VIsual Studio\WhileLoopMoreExerciseDishwasher\bin\Debug\netcoreapp3.1\WhileLoopMoreExerciseDishwasher.runtimeconfig.json
+E:\VIsual Studio\WhileLoopMoreExerciseDishwasher\bin\Debug\netcoreapp3.1\WhileLoopMoreExerciseDishwasher.runtimeconfig.dev.json
+E:\VIsual Studio\WhileLoopMoreExerciseDishwasher\bin\Debug\netcoreapp3.1\WhileLoopMoreExerciseDishwasher.dll
+E:\VIsual Studio\WhileLoopMoreExerciseDishwasher\bin\Debug\netcoreapp3.1\WhileLoopMoreExerciseDishwasher.pdb
+E:\VIsual Studio\WhileLoopMoreExerciseDishwasher\obj\Debug\netcoreapp3.1\WhileLoopMoreExerciseDishwasher.csproj.AssemblyReference.cache
+E:\VIsual Studio\WhileLoopMoreExerciseDishwasher\obj\Debug\netcoreapp3.1\WhileLoopMoreExerciseDishwasher.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\WhileLoopMoreExerciseDishwasher\obj\Debug\netcoreapp3.1\WhileLoopMoreExerciseDishwasher.AssemblyInfoInputs.cache
+E:\VIsual Studio\WhileLoopMoreExerciseDishwasher\obj\Debug\netcoreapp3.1\WhileLoopMoreExerciseDishwasher.AssemblyInfo.cs
+E:\VIsual Studio\WhileLoopMoreExerciseDishwasher\obj\Debug\netcoreapp3.1\WhileLoopMoreExerciseDishwasher.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\WhileLoopMoreExerciseDishwasher\obj\Debug\netcoreapp3.1\WhileLoopMoreExerciseDishwasher.dll
+E:\VIsual Studio\WhileLoopMoreExerciseDishwasher\obj\Debug\netcoreapp3.1\WhileLoopMoreExerciseDishwasher.pdb
+E:\VIsual Studio\WhileLoopMoreExerciseDishwasher\obj\Debug\netcoreapp3.1\WhileLoopMoreExerciseDishwasher.genruntimeconfig.cache

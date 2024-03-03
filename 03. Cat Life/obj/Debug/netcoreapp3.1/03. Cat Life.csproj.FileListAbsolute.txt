@@ -1,0 +1,13 @@
+E:\VIsual Studio\03. Cat Life\bin\Debug\netcoreapp3.1\03. Cat Life.exe
+E:\VIsual Studio\03. Cat Life\bin\Debug\netcoreapp3.1\03. Cat Life.deps.json
+E:\VIsual Studio\03. Cat Life\bin\Debug\netcoreapp3.1\03. Cat Life.runtimeconfig.json
+E:\VIsual Studio\03. Cat Life\bin\Debug\netcoreapp3.1\03. Cat Life.runtimeconfig.dev.json
+E:\VIsual Studio\03. Cat Life\bin\Debug\netcoreapp3.1\03. Cat Life.dll
+E:\VIsual Studio\03. Cat Life\bin\Debug\netcoreapp3.1\03. Cat Life.pdb
+E:\VIsual Studio\03. Cat Life\obj\Debug\netcoreapp3.1\03. Cat Life.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\03. Cat Life\obj\Debug\netcoreapp3.1\03. Cat Life.AssemblyInfoInputs.cache
+E:\VIsual Studio\03. Cat Life\obj\Debug\netcoreapp3.1\03. Cat Life.AssemblyInfo.cs
+E:\VIsual Studio\03. Cat Life\obj\Debug\netcoreapp3.1\03. Cat Life.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\03. Cat Life\obj\Debug\netcoreapp3.1\03. Cat Life.dll
+E:\VIsual Studio\03. Cat Life\obj\Debug\netcoreapp3.1\03. Cat Life.pdb
+E:\VIsual Studio\03. Cat Life\obj\Debug\netcoreapp3.1\03. Cat Life.genruntimeconfig.cache

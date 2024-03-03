@@ -1,0 +1,14 @@
+E:\VIsual Studio\03. Travel Agency\bin\Debug\netcoreapp3.1\03. Travel Agency.exe
+E:\VIsual Studio\03. Travel Agency\bin\Debug\netcoreapp3.1\03. Travel Agency.deps.json
+E:\VIsual Studio\03. Travel Agency\bin\Debug\netcoreapp3.1\03. Travel Agency.runtimeconfig.json
+E:\VIsual Studio\03. Travel Agency\bin\Debug\netcoreapp3.1\03. Travel Agency.runtimeconfig.dev.json
+E:\VIsual Studio\03. Travel Agency\bin\Debug\netcoreapp3.1\03. Travel Agency.dll
+E:\VIsual Studio\03. Travel Agency\bin\Debug\netcoreapp3.1\03. Travel Agency.pdb
+E:\VIsual Studio\03. Travel Agency\obj\Debug\netcoreapp3.1\03. Travel Agency.csproj.AssemblyReference.cache
+E:\VIsual Studio\03. Travel Agency\obj\Debug\netcoreapp3.1\03. Travel Agency.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\03. Travel Agency\obj\Debug\netcoreapp3.1\03. Travel Agency.AssemblyInfoInputs.cache
+E:\VIsual Studio\03. Travel Agency\obj\Debug\netcoreapp3.1\03. Travel Agency.AssemblyInfo.cs
+E:\VIsual Studio\03. Travel Agency\obj\Debug\netcoreapp3.1\03. Travel Agency.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\03. Travel Agency\obj\Debug\netcoreapp3.1\03. Travel Agency.dll
+E:\VIsual Studio\03. Travel Agency\obj\Debug\netcoreapp3.1\03. Travel Agency.pdb
+E:\VIsual Studio\03. Travel Agency\obj\Debug\netcoreapp3.1\03. Travel Agency.genruntimeconfig.cache

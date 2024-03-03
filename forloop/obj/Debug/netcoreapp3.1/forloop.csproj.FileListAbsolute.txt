@@ -1,0 +1,14 @@
+E:\VIsual Studio\forloop\obj\Debug\netcoreapp3.1\forloop.csproj.AssemblyReference.cache
+E:\VIsual Studio\forloop\obj\Debug\netcoreapp3.1\forloop.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\forloop\obj\Debug\netcoreapp3.1\forloop.AssemblyInfoInputs.cache
+E:\VIsual Studio\forloop\obj\Debug\netcoreapp3.1\forloop.AssemblyInfo.cs
+E:\VIsual Studio\forloop\obj\Debug\netcoreapp3.1\forloop.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\forloop\bin\Debug\netcoreapp3.1\forloop.exe
+E:\VIsual Studio\forloop\bin\Debug\netcoreapp3.1\forloop.deps.json
+E:\VIsual Studio\forloop\bin\Debug\netcoreapp3.1\forloop.runtimeconfig.json
+E:\VIsual Studio\forloop\bin\Debug\netcoreapp3.1\forloop.runtimeconfig.dev.json
+E:\VIsual Studio\forloop\bin\Debug\netcoreapp3.1\forloop.dll
+E:\VIsual Studio\forloop\bin\Debug\netcoreapp3.1\forloop.pdb
+E:\VIsual Studio\forloop\obj\Debug\netcoreapp3.1\forloop.dll
+E:\VIsual Studio\forloop\obj\Debug\netcoreapp3.1\forloop.pdb
+E:\VIsual Studio\forloop\obj\Debug\netcoreapp3.1\forloop.genruntimeconfig.cache

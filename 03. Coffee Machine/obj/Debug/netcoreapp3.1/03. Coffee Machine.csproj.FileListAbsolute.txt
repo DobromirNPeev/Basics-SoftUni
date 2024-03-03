@@ -1,0 +1,13 @@
+E:\VIsual Studio\03. Coffee Machine\bin\Debug\netcoreapp3.1\03. Coffee Machine.exe
+E:\VIsual Studio\03. Coffee Machine\bin\Debug\netcoreapp3.1\03. Coffee Machine.deps.json
+E:\VIsual Studio\03. Coffee Machine\bin\Debug\netcoreapp3.1\03. Coffee Machine.runtimeconfig.json
+E:\VIsual Studio\03. Coffee Machine\bin\Debug\netcoreapp3.1\03. Coffee Machine.runtimeconfig.dev.json
+E:\VIsual Studio\03. Coffee Machine\bin\Debug\netcoreapp3.1\03. Coffee Machine.dll
+E:\VIsual Studio\03. Coffee Machine\bin\Debug\netcoreapp3.1\03. Coffee Machine.pdb
+E:\VIsual Studio\03. Coffee Machine\obj\Debug\netcoreapp3.1\03. Coffee Machine.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\03. Coffee Machine\obj\Debug\netcoreapp3.1\03. Coffee Machine.AssemblyInfoInputs.cache
+E:\VIsual Studio\03. Coffee Machine\obj\Debug\netcoreapp3.1\03. Coffee Machine.AssemblyInfo.cs
+E:\VIsual Studio\03. Coffee Machine\obj\Debug\netcoreapp3.1\03. Coffee Machine.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\03. Coffee Machine\obj\Debug\netcoreapp3.1\03. Coffee Machine.dll
+E:\VIsual Studio\03. Coffee Machine\obj\Debug\netcoreapp3.1\03. Coffee Machine.pdb
+E:\VIsual Studio\03. Coffee Machine\obj\Debug\netcoreapp3.1\03. Coffee Machine.genruntimeconfig.cache

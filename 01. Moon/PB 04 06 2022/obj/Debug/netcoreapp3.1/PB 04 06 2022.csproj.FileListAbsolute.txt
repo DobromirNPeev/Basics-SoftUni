@@ -1,0 +1,14 @@
+E:\VIsual Studio Assignments\Basics\01. Moon\PB 04 06 2022\bin\Debug\netcoreapp3.1\PB 04 06 2022.exe
+E:\VIsual Studio Assignments\Basics\01. Moon\PB 04 06 2022\bin\Debug\netcoreapp3.1\PB 04 06 2022.deps.json
+E:\VIsual Studio Assignments\Basics\01. Moon\PB 04 06 2022\bin\Debug\netcoreapp3.1\PB 04 06 2022.runtimeconfig.json
+E:\VIsual Studio Assignments\Basics\01. Moon\PB 04 06 2022\bin\Debug\netcoreapp3.1\PB 04 06 2022.runtimeconfig.dev.json
+E:\VIsual Studio Assignments\Basics\01. Moon\PB 04 06 2022\bin\Debug\netcoreapp3.1\PB 04 06 2022.dll
+E:\VIsual Studio Assignments\Basics\01. Moon\PB 04 06 2022\bin\Debug\netcoreapp3.1\PB 04 06 2022.pdb
+E:\VIsual Studio Assignments\Basics\01. Moon\PB 04 06 2022\obj\Debug\netcoreapp3.1\PB 04 06 2022.csproj.AssemblyReference.cache
+E:\VIsual Studio Assignments\Basics\01. Moon\PB 04 06 2022\obj\Debug\netcoreapp3.1\PB 04 06 2022.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio Assignments\Basics\01. Moon\PB 04 06 2022\obj\Debug\netcoreapp3.1\PB 04 06 2022.AssemblyInfoInputs.cache
+E:\VIsual Studio Assignments\Basics\01. Moon\PB 04 06 2022\obj\Debug\netcoreapp3.1\PB 04 06 2022.AssemblyInfo.cs
+E:\VIsual Studio Assignments\Basics\01. Moon\PB 04 06 2022\obj\Debug\netcoreapp3.1\PB 04 06 2022.csproj.CoreCompileInputs.cache
+E:\VIsual Studio Assignments\Basics\01. Moon\PB 04 06 2022\obj\Debug\netcoreapp3.1\PB 04 06 2022.dll
+E:\VIsual Studio Assignments\Basics\01. Moon\PB 04 06 2022\obj\Debug\netcoreapp3.1\PB 04 06 2022.pdb
+E:\VIsual Studio Assignments\Basics\01. Moon\PB 04 06 2022\obj\Debug\netcoreapp3.1\PB 04 06 2022.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\VIsual Studio\pregovor\pogolqmochislo\bin\Debug\net5.0\pogolqmochislo.exe
+E:\VIsual Studio\pregovor\pogolqmochislo\bin\Debug\net5.0\pogolqmochislo.deps.json
+E:\VIsual Studio\pregovor\pogolqmochislo\bin\Debug\net5.0\pogolqmochislo.runtimeconfig.json
+E:\VIsual Studio\pregovor\pogolqmochislo\bin\Debug\net5.0\pogolqmochislo.runtimeconfig.dev.json
+E:\VIsual Studio\pregovor\pogolqmochislo\bin\Debug\net5.0\pogolqmochislo.dll
+E:\VIsual Studio\pregovor\pogolqmochislo\bin\Debug\net5.0\ref\pogolqmochislo.dll
+E:\VIsual Studio\pregovor\pogolqmochislo\bin\Debug\net5.0\pogolqmochislo.pdb
+E:\VIsual Studio\pregovor\pogolqmochislo\obj\Debug\net5.0\pogolqmochislo.csproj.AssemblyReference.cache
+E:\VIsual Studio\pregovor\pogolqmochislo\obj\Debug\net5.0\pogolqmochislo.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\pregovor\pogolqmochislo\obj\Debug\net5.0\pogolqmochislo.AssemblyInfoInputs.cache
+E:\VIsual Studio\pregovor\pogolqmochislo\obj\Debug\net5.0\pogolqmochislo.AssemblyInfo.cs
+E:\VIsual Studio\pregovor\pogolqmochislo\obj\Debug\net5.0\pogolqmochislo.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\pregovor\pogolqmochislo\obj\Debug\net5.0\pogolqmochislo.dll
+E:\VIsual Studio\pregovor\pogolqmochislo\obj\Debug\net5.0\ref\pogolqmochislo.dll
+E:\VIsual Studio\pregovor\pogolqmochislo\obj\Debug\net5.0\pogolqmochislo.pdb
+E:\VIsual Studio\pregovor\pogolqmochislo\obj\Debug\net5.0\pogolqmochislo.genruntimeconfig.cache

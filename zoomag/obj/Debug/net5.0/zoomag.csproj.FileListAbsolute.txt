@@ -1,0 +1,16 @@
+E:\VIsual Studio\konkaticatiq\zoomag\bin\Debug\net5.0\zoomag.exe
+E:\VIsual Studio\konkaticatiq\zoomag\bin\Debug\net5.0\zoomag.deps.json
+E:\VIsual Studio\konkaticatiq\zoomag\bin\Debug\net5.0\zoomag.runtimeconfig.json
+E:\VIsual Studio\konkaticatiq\zoomag\bin\Debug\net5.0\zoomag.runtimeconfig.dev.json
+E:\VIsual Studio\konkaticatiq\zoomag\bin\Debug\net5.0\zoomag.dll
+E:\VIsual Studio\konkaticatiq\zoomag\bin\Debug\net5.0\ref\zoomag.dll
+E:\VIsual Studio\konkaticatiq\zoomag\bin\Debug\net5.0\zoomag.pdb
+E:\VIsual Studio\konkaticatiq\zoomag\obj\Debug\net5.0\zoomag.csproj.AssemblyReference.cache
+E:\VIsual Studio\konkaticatiq\zoomag\obj\Debug\net5.0\zoomag.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\konkaticatiq\zoomag\obj\Debug\net5.0\zoomag.AssemblyInfoInputs.cache
+E:\VIsual Studio\konkaticatiq\zoomag\obj\Debug\net5.0\zoomag.AssemblyInfo.cs
+E:\VIsual Studio\konkaticatiq\zoomag\obj\Debug\net5.0\zoomag.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\konkaticatiq\zoomag\obj\Debug\net5.0\zoomag.dll
+E:\VIsual Studio\konkaticatiq\zoomag\obj\Debug\net5.0\ref\zoomag.dll
+E:\VIsual Studio\konkaticatiq\zoomag\obj\Debug\net5.0\zoomag.pdb
+E:\VIsual Studio\konkaticatiq\zoomag\obj\Debug\net5.0\zoomag.genruntimeconfig.cache

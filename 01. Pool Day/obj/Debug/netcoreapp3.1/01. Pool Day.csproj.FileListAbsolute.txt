@@ -1,0 +1,14 @@
+E:\VIsual Studio\01. Pool Day\bin\Debug\netcoreapp3.1\01. Pool Day.exe
+E:\VIsual Studio\01. Pool Day\bin\Debug\netcoreapp3.1\01. Pool Day.deps.json
+E:\VIsual Studio\01. Pool Day\bin\Debug\netcoreapp3.1\01. Pool Day.runtimeconfig.json
+E:\VIsual Studio\01. Pool Day\bin\Debug\netcoreapp3.1\01. Pool Day.runtimeconfig.dev.json
+E:\VIsual Studio\01. Pool Day\bin\Debug\netcoreapp3.1\01. Pool Day.dll
+E:\VIsual Studio\01. Pool Day\bin\Debug\netcoreapp3.1\01. Pool Day.pdb
+E:\VIsual Studio\01. Pool Day\obj\Debug\netcoreapp3.1\01. Pool Day.csproj.AssemblyReference.cache
+E:\VIsual Studio\01. Pool Day\obj\Debug\netcoreapp3.1\01. Pool Day.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\01. Pool Day\obj\Debug\netcoreapp3.1\01. Pool Day.AssemblyInfoInputs.cache
+E:\VIsual Studio\01. Pool Day\obj\Debug\netcoreapp3.1\01. Pool Day.AssemblyInfo.cs
+E:\VIsual Studio\01. Pool Day\obj\Debug\netcoreapp3.1\01. Pool Day.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\01. Pool Day\obj\Debug\netcoreapp3.1\01. Pool Day.dll
+E:\VIsual Studio\01. Pool Day\obj\Debug\netcoreapp3.1\01. Pool Day.pdb
+E:\VIsual Studio\01. Pool Day\obj\Debug\netcoreapp3.1\01. Pool Day.genruntimeconfig.cache

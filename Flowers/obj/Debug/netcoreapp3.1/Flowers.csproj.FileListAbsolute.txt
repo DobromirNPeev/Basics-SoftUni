@@ -1,0 +1,14 @@
+E:\VIsual Studio\Flowers\bin\Debug\netcoreapp3.1\Flowers.exe
+E:\VIsual Studio\Flowers\bin\Debug\netcoreapp3.1\Flowers.deps.json
+E:\VIsual Studio\Flowers\bin\Debug\netcoreapp3.1\Flowers.runtimeconfig.json
+E:\VIsual Studio\Flowers\bin\Debug\netcoreapp3.1\Flowers.runtimeconfig.dev.json
+E:\VIsual Studio\Flowers\bin\Debug\netcoreapp3.1\Flowers.dll
+E:\VIsual Studio\Flowers\bin\Debug\netcoreapp3.1\Flowers.pdb
+E:\VIsual Studio\Flowers\obj\Debug\netcoreapp3.1\Flowers.csproj.AssemblyReference.cache
+E:\VIsual Studio\Flowers\obj\Debug\netcoreapp3.1\Flowers.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Flowers\obj\Debug\netcoreapp3.1\Flowers.AssemblyInfoInputs.cache
+E:\VIsual Studio\Flowers\obj\Debug\netcoreapp3.1\Flowers.AssemblyInfo.cs
+E:\VIsual Studio\Flowers\obj\Debug\netcoreapp3.1\Flowers.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Flowers\obj\Debug\netcoreapp3.1\Flowers.dll
+E:\VIsual Studio\Flowers\obj\Debug\netcoreapp3.1\Flowers.pdb
+E:\VIsual Studio\Flowers\obj\Debug\netcoreapp3.1\Flowers.genruntimeconfig.cache

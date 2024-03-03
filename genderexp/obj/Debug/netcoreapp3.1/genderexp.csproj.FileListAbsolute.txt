@@ -1,0 +1,14 @@
+E:\VIsual Studio\genderexp\bin\Debug\netcoreapp3.1\genderexp.exe
+E:\VIsual Studio\genderexp\bin\Debug\netcoreapp3.1\genderexp.deps.json
+E:\VIsual Studio\genderexp\bin\Debug\netcoreapp3.1\genderexp.runtimeconfig.json
+E:\VIsual Studio\genderexp\bin\Debug\netcoreapp3.1\genderexp.runtimeconfig.dev.json
+E:\VIsual Studio\genderexp\bin\Debug\netcoreapp3.1\genderexp.dll
+E:\VIsual Studio\genderexp\bin\Debug\netcoreapp3.1\genderexp.pdb
+E:\VIsual Studio\genderexp\obj\Debug\netcoreapp3.1\genderexp.csproj.AssemblyReference.cache
+E:\VIsual Studio\genderexp\obj\Debug\netcoreapp3.1\genderexp.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\genderexp\obj\Debug\netcoreapp3.1\genderexp.AssemblyInfoInputs.cache
+E:\VIsual Studio\genderexp\obj\Debug\netcoreapp3.1\genderexp.AssemblyInfo.cs
+E:\VIsual Studio\genderexp\obj\Debug\netcoreapp3.1\genderexp.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\genderexp\obj\Debug\netcoreapp3.1\genderexp.dll
+E:\VIsual Studio\genderexp\obj\Debug\netcoreapp3.1\genderexp.pdb
+E:\VIsual Studio\genderexp\obj\Debug\netcoreapp3.1\genderexp.genruntimeconfig.cache

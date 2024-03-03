@@ -1,0 +1,13 @@
+E:\VIsual Studio\05. PC Game Shop\bin\Debug\netcoreapp3.1\05. PC Game Shop.exe
+E:\VIsual Studio\05. PC Game Shop\bin\Debug\netcoreapp3.1\05. PC Game Shop.deps.json
+E:\VIsual Studio\05. PC Game Shop\bin\Debug\netcoreapp3.1\05. PC Game Shop.runtimeconfig.json
+E:\VIsual Studio\05. PC Game Shop\bin\Debug\netcoreapp3.1\05. PC Game Shop.runtimeconfig.dev.json
+E:\VIsual Studio\05. PC Game Shop\bin\Debug\netcoreapp3.1\05. PC Game Shop.dll
+E:\VIsual Studio\05. PC Game Shop\bin\Debug\netcoreapp3.1\05. PC Game Shop.pdb
+E:\VIsual Studio\05. PC Game Shop\obj\Debug\netcoreapp3.1\05. PC Game Shop.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\05. PC Game Shop\obj\Debug\netcoreapp3.1\05. PC Game Shop.AssemblyInfoInputs.cache
+E:\VIsual Studio\05. PC Game Shop\obj\Debug\netcoreapp3.1\05. PC Game Shop.AssemblyInfo.cs
+E:\VIsual Studio\05. PC Game Shop\obj\Debug\netcoreapp3.1\05. PC Game Shop.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\05. PC Game Shop\obj\Debug\netcoreapp3.1\05. PC Game Shop.dll
+E:\VIsual Studio\05. PC Game Shop\obj\Debug\netcoreapp3.1\05. PC Game Shop.pdb
+E:\VIsual Studio\05. PC Game Shop\obj\Debug\netcoreapp3.1\05. PC Game Shop.genruntimeconfig.cache

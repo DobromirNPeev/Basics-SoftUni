@@ -1,0 +1,14 @@
+E:\VIsual Studio\Sequence2k+1\bin\Debug\netcoreapp3.1\Sequence2k+1.exe
+E:\VIsual Studio\Sequence2k+1\bin\Debug\netcoreapp3.1\Sequence2k+1.deps.json
+E:\VIsual Studio\Sequence2k+1\bin\Debug\netcoreapp3.1\Sequence2k+1.runtimeconfig.json
+E:\VIsual Studio\Sequence2k+1\bin\Debug\netcoreapp3.1\Sequence2k+1.runtimeconfig.dev.json
+E:\VIsual Studio\Sequence2k+1\bin\Debug\netcoreapp3.1\Sequence2k+1.dll
+E:\VIsual Studio\Sequence2k+1\bin\Debug\netcoreapp3.1\Sequence2k+1.pdb
+E:\VIsual Studio\Sequence2k+1\obj\Debug\netcoreapp3.1\Sequence2k+1.csproj.AssemblyReference.cache
+E:\VIsual Studio\Sequence2k+1\obj\Debug\netcoreapp3.1\Sequence2k+1.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Sequence2k+1\obj\Debug\netcoreapp3.1\Sequence2k+1.AssemblyInfoInputs.cache
+E:\VIsual Studio\Sequence2k+1\obj\Debug\netcoreapp3.1\Sequence2k+1.AssemblyInfo.cs
+E:\VIsual Studio\Sequence2k+1\obj\Debug\netcoreapp3.1\Sequence2k+1.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Sequence2k+1\obj\Debug\netcoreapp3.1\Sequence2k+1.dll
+E:\VIsual Studio\Sequence2k+1\obj\Debug\netcoreapp3.1\Sequence2k+1.pdb
+E:\VIsual Studio\Sequence2k+1\obj\Debug\netcoreapp3.1\Sequence2k+1.genruntimeconfig.cache

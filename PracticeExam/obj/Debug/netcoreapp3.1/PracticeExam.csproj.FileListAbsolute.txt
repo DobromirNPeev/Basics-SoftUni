@@ -1,0 +1,14 @@
+E:\VIsual Studio\PracticeExam\bin\Debug\netcoreapp3.1\PracticeExam.exe
+E:\VIsual Studio\PracticeExam\bin\Debug\netcoreapp3.1\PracticeExam.deps.json
+E:\VIsual Studio\PracticeExam\bin\Debug\netcoreapp3.1\PracticeExam.runtimeconfig.json
+E:\VIsual Studio\PracticeExam\bin\Debug\netcoreapp3.1\PracticeExam.runtimeconfig.dev.json
+E:\VIsual Studio\PracticeExam\bin\Debug\netcoreapp3.1\PracticeExam.dll
+E:\VIsual Studio\PracticeExam\bin\Debug\netcoreapp3.1\PracticeExam.pdb
+E:\VIsual Studio\PracticeExam\obj\Debug\netcoreapp3.1\PracticeExam.csproj.AssemblyReference.cache
+E:\VIsual Studio\PracticeExam\obj\Debug\netcoreapp3.1\PracticeExam.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\PracticeExam\obj\Debug\netcoreapp3.1\PracticeExam.AssemblyInfoInputs.cache
+E:\VIsual Studio\PracticeExam\obj\Debug\netcoreapp3.1\PracticeExam.AssemblyInfo.cs
+E:\VIsual Studio\PracticeExam\obj\Debug\netcoreapp3.1\PracticeExam.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\PracticeExam\obj\Debug\netcoreapp3.1\PracticeExam.dll
+E:\VIsual Studio\PracticeExam\obj\Debug\netcoreapp3.1\PracticeExam.pdb
+E:\VIsual Studio\PracticeExam\obj\Debug\netcoreapp3.1\PracticeExam.genruntimeconfig.cache

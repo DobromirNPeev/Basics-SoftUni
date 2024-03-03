@@ -1,0 +1,14 @@
+E:\VIsual Studio\ontimefortheexam\bin\Debug\netcoreapp3.1\ontimefortheexam.exe
+E:\VIsual Studio\ontimefortheexam\bin\Debug\netcoreapp3.1\ontimefortheexam.deps.json
+E:\VIsual Studio\ontimefortheexam\bin\Debug\netcoreapp3.1\ontimefortheexam.runtimeconfig.json
+E:\VIsual Studio\ontimefortheexam\bin\Debug\netcoreapp3.1\ontimefortheexam.runtimeconfig.dev.json
+E:\VIsual Studio\ontimefortheexam\bin\Debug\netcoreapp3.1\ontimefortheexam.dll
+E:\VIsual Studio\ontimefortheexam\bin\Debug\netcoreapp3.1\ontimefortheexam.pdb
+E:\VIsual Studio\ontimefortheexam\obj\Debug\netcoreapp3.1\ontimefortheexam.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\ontimefortheexam\obj\Debug\netcoreapp3.1\ontimefortheexam.AssemblyInfoInputs.cache
+E:\VIsual Studio\ontimefortheexam\obj\Debug\netcoreapp3.1\ontimefortheexam.AssemblyInfo.cs
+E:\VIsual Studio\ontimefortheexam\obj\Debug\netcoreapp3.1\ontimefortheexam.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\ontimefortheexam\obj\Debug\netcoreapp3.1\ontimefortheexam.dll
+E:\VIsual Studio\ontimefortheexam\obj\Debug\netcoreapp3.1\ontimefortheexam.pdb
+E:\VIsual Studio\ontimefortheexam\obj\Debug\netcoreapp3.1\ontimefortheexam.genruntimeconfig.cache
+E:\VIsual Studio\ontimefortheexam\obj\Debug\netcoreapp3.1\ontimefortheexam.csproj.AssemblyReference.cache

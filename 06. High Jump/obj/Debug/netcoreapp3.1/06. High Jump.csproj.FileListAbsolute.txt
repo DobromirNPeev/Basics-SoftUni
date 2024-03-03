@@ -1,0 +1,14 @@
+E:\VIsual Studio\06. High Jump\bin\Debug\netcoreapp3.1\06. High Jump.exe
+E:\VIsual Studio\06. High Jump\bin\Debug\netcoreapp3.1\06. High Jump.deps.json
+E:\VIsual Studio\06. High Jump\bin\Debug\netcoreapp3.1\06. High Jump.runtimeconfig.json
+E:\VIsual Studio\06. High Jump\bin\Debug\netcoreapp3.1\06. High Jump.runtimeconfig.dev.json
+E:\VIsual Studio\06. High Jump\bin\Debug\netcoreapp3.1\06. High Jump.dll
+E:\VIsual Studio\06. High Jump\bin\Debug\netcoreapp3.1\06. High Jump.pdb
+E:\VIsual Studio\06. High Jump\obj\Debug\netcoreapp3.1\06. High Jump.csproj.AssemblyReference.cache
+E:\VIsual Studio\06. High Jump\obj\Debug\netcoreapp3.1\06. High Jump.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\06. High Jump\obj\Debug\netcoreapp3.1\06. High Jump.AssemblyInfoInputs.cache
+E:\VIsual Studio\06. High Jump\obj\Debug\netcoreapp3.1\06. High Jump.AssemblyInfo.cs
+E:\VIsual Studio\06. High Jump\obj\Debug\netcoreapp3.1\06. High Jump.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\06. High Jump\obj\Debug\netcoreapp3.1\06. High Jump.dll
+E:\VIsual Studio\06. High Jump\obj\Debug\netcoreapp3.1\06. High Jump.pdb
+E:\VIsual Studio\06. High Jump\obj\Debug\netcoreapp3.1\06. High Jump.genruntimeconfig.cache

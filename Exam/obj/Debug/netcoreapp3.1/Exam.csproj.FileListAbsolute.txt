@@ -1,0 +1,14 @@
+E:\VIsual Studio\Exam\bin\Debug\netcoreapp3.1\Exam.exe
+E:\VIsual Studio\Exam\bin\Debug\netcoreapp3.1\Exam.deps.json
+E:\VIsual Studio\Exam\bin\Debug\netcoreapp3.1\Exam.runtimeconfig.json
+E:\VIsual Studio\Exam\bin\Debug\netcoreapp3.1\Exam.runtimeconfig.dev.json
+E:\VIsual Studio\Exam\bin\Debug\netcoreapp3.1\Exam.dll
+E:\VIsual Studio\Exam\bin\Debug\netcoreapp3.1\Exam.pdb
+E:\VIsual Studio\Exam\obj\Debug\netcoreapp3.1\Exam.csproj.AssemblyReference.cache
+E:\VIsual Studio\Exam\obj\Debug\netcoreapp3.1\Exam.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Exam\obj\Debug\netcoreapp3.1\Exam.AssemblyInfoInputs.cache
+E:\VIsual Studio\Exam\obj\Debug\netcoreapp3.1\Exam.AssemblyInfo.cs
+E:\VIsual Studio\Exam\obj\Debug\netcoreapp3.1\Exam.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Exam\obj\Debug\netcoreapp3.1\Exam.dll
+E:\VIsual Studio\Exam\obj\Debug\netcoreapp3.1\Exam.pdb
+E:\VIsual Studio\Exam\obj\Debug\netcoreapp3.1\Exam.genruntimeconfig.cache

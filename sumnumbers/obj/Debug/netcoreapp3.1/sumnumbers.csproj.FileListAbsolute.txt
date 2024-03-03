@@ -1,0 +1,13 @@
+E:\VIsual Studio\sumnumbers\bin\Debug\netcoreapp3.1\sumnumbers.exe
+E:\VIsual Studio\sumnumbers\bin\Debug\netcoreapp3.1\sumnumbers.deps.json
+E:\VIsual Studio\sumnumbers\bin\Debug\netcoreapp3.1\sumnumbers.runtimeconfig.json
+E:\VIsual Studio\sumnumbers\bin\Debug\netcoreapp3.1\sumnumbers.runtimeconfig.dev.json
+E:\VIsual Studio\sumnumbers\bin\Debug\netcoreapp3.1\sumnumbers.dll
+E:\VIsual Studio\sumnumbers\bin\Debug\netcoreapp3.1\sumnumbers.pdb
+E:\VIsual Studio\sumnumbers\obj\Debug\netcoreapp3.1\sumnumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\sumnumbers\obj\Debug\netcoreapp3.1\sumnumbers.AssemblyInfoInputs.cache
+E:\VIsual Studio\sumnumbers\obj\Debug\netcoreapp3.1\sumnumbers.AssemblyInfo.cs
+E:\VIsual Studio\sumnumbers\obj\Debug\netcoreapp3.1\sumnumbers.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\sumnumbers\obj\Debug\netcoreapp3.1\sumnumbers.dll
+E:\VIsual Studio\sumnumbers\obj\Debug\netcoreapp3.1\sumnumbers.pdb
+E:\VIsual Studio\sumnumbers\obj\Debug\netcoreapp3.1\sumnumbers.genruntimeconfig.cache

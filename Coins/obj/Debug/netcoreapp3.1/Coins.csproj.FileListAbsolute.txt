@@ -1,0 +1,14 @@
+E:\VIsual Studio\Coins\bin\Debug\netcoreapp3.1\Coins.exe
+E:\VIsual Studio\Coins\bin\Debug\netcoreapp3.1\Coins.deps.json
+E:\VIsual Studio\Coins\bin\Debug\netcoreapp3.1\Coins.runtimeconfig.json
+E:\VIsual Studio\Coins\bin\Debug\netcoreapp3.1\Coins.runtimeconfig.dev.json
+E:\VIsual Studio\Coins\bin\Debug\netcoreapp3.1\Coins.dll
+E:\VIsual Studio\Coins\bin\Debug\netcoreapp3.1\Coins.pdb
+E:\VIsual Studio\Coins\obj\Debug\netcoreapp3.1\Coins.csproj.AssemblyReference.cache
+E:\VIsual Studio\Coins\obj\Debug\netcoreapp3.1\Coins.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Coins\obj\Debug\netcoreapp3.1\Coins.AssemblyInfoInputs.cache
+E:\VIsual Studio\Coins\obj\Debug\netcoreapp3.1\Coins.AssemblyInfo.cs
+E:\VIsual Studio\Coins\obj\Debug\netcoreapp3.1\Coins.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Coins\obj\Debug\netcoreapp3.1\Coins.dll
+E:\VIsual Studio\Coins\obj\Debug\netcoreapp3.1\Coins.pdb
+E:\VIsual Studio\Coins\obj\Debug\netcoreapp3.1\Coins.genruntimeconfig.cache

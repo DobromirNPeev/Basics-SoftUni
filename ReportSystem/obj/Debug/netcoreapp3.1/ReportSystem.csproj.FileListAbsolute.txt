@@ -1,0 +1,14 @@
+E:\VIsual Studio\ReportSystem\bin\Debug\netcoreapp3.1\ReportSystem.exe
+E:\VIsual Studio\ReportSystem\bin\Debug\netcoreapp3.1\ReportSystem.deps.json
+E:\VIsual Studio\ReportSystem\bin\Debug\netcoreapp3.1\ReportSystem.runtimeconfig.json
+E:\VIsual Studio\ReportSystem\bin\Debug\netcoreapp3.1\ReportSystem.runtimeconfig.dev.json
+E:\VIsual Studio\ReportSystem\bin\Debug\netcoreapp3.1\ReportSystem.dll
+E:\VIsual Studio\ReportSystem\bin\Debug\netcoreapp3.1\ReportSystem.pdb
+E:\VIsual Studio\ReportSystem\obj\Debug\netcoreapp3.1\ReportSystem.csproj.AssemblyReference.cache
+E:\VIsual Studio\ReportSystem\obj\Debug\netcoreapp3.1\ReportSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\ReportSystem\obj\Debug\netcoreapp3.1\ReportSystem.AssemblyInfoInputs.cache
+E:\VIsual Studio\ReportSystem\obj\Debug\netcoreapp3.1\ReportSystem.AssemblyInfo.cs
+E:\VIsual Studio\ReportSystem\obj\Debug\netcoreapp3.1\ReportSystem.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\ReportSystem\obj\Debug\netcoreapp3.1\ReportSystem.dll
+E:\VIsual Studio\ReportSystem\obj\Debug\netcoreapp3.1\ReportSystem.pdb
+E:\VIsual Studio\ReportSystem\obj\Debug\netcoreapp3.1\ReportSystem.genruntimeconfig.cache

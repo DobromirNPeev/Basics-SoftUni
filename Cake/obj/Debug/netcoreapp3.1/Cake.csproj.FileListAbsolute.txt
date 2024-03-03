@@ -1,0 +1,14 @@
+E:\VIsual Studio\Cake\bin\Debug\netcoreapp3.1\Cake.exe
+E:\VIsual Studio\Cake\bin\Debug\netcoreapp3.1\Cake.deps.json
+E:\VIsual Studio\Cake\bin\Debug\netcoreapp3.1\Cake.runtimeconfig.json
+E:\VIsual Studio\Cake\bin\Debug\netcoreapp3.1\Cake.runtimeconfig.dev.json
+E:\VIsual Studio\Cake\bin\Debug\netcoreapp3.1\Cake.dll
+E:\VIsual Studio\Cake\bin\Debug\netcoreapp3.1\Cake.pdb
+E:\VIsual Studio\Cake\obj\Debug\netcoreapp3.1\Cake.csproj.AssemblyReference.cache
+E:\VIsual Studio\Cake\obj\Debug\netcoreapp3.1\Cake.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Cake\obj\Debug\netcoreapp3.1\Cake.AssemblyInfoInputs.cache
+E:\VIsual Studio\Cake\obj\Debug\netcoreapp3.1\Cake.AssemblyInfo.cs
+E:\VIsual Studio\Cake\obj\Debug\netcoreapp3.1\Cake.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Cake\obj\Debug\netcoreapp3.1\Cake.dll
+E:\VIsual Studio\Cake\obj\Debug\netcoreapp3.1\Cake.pdb
+E:\VIsual Studio\Cake\obj\Debug\netcoreapp3.1\Cake.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\dobo2\source\repos\zadulliteratura\repainting\bin\Debug\net5.0\repainting.exe
+C:\Users\dobo2\source\repos\zadulliteratura\repainting\bin\Debug\net5.0\repainting.deps.json
+C:\Users\dobo2\source\repos\zadulliteratura\repainting\bin\Debug\net5.0\repainting.runtimeconfig.json
+C:\Users\dobo2\source\repos\zadulliteratura\repainting\bin\Debug\net5.0\repainting.runtimeconfig.dev.json
+C:\Users\dobo2\source\repos\zadulliteratura\repainting\bin\Debug\net5.0\repainting.dll
+C:\Users\dobo2\source\repos\zadulliteratura\repainting\bin\Debug\net5.0\ref\repainting.dll
+C:\Users\dobo2\source\repos\zadulliteratura\repainting\bin\Debug\net5.0\repainting.pdb
+C:\Users\dobo2\source\repos\zadulliteratura\repainting\obj\Debug\net5.0\repainting.csproj.AssemblyReference.cache
+C:\Users\dobo2\source\repos\zadulliteratura\repainting\obj\Debug\net5.0\repainting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dobo2\source\repos\zadulliteratura\repainting\obj\Debug\net5.0\repainting.AssemblyInfoInputs.cache
+C:\Users\dobo2\source\repos\zadulliteratura\repainting\obj\Debug\net5.0\repainting.AssemblyInfo.cs
+C:\Users\dobo2\source\repos\zadulliteratura\repainting\obj\Debug\net5.0\repainting.csproj.CoreCompileInputs.cache
+C:\Users\dobo2\source\repos\zadulliteratura\repainting\obj\Debug\net5.0\repainting.dll
+C:\Users\dobo2\source\repos\zadulliteratura\repainting\obj\Debug\net5.0\ref\repainting.dll
+C:\Users\dobo2\source\repos\zadulliteratura\repainting\obj\Debug\net5.0\repainting.pdb
+C:\Users\dobo2\source\repos\zadulliteratura\repainting\obj\Debug\net5.0\repainting.genruntimeconfig.cache

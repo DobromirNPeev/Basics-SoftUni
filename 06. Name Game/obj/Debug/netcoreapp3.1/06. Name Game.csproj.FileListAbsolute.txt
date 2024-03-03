@@ -1,0 +1,14 @@
+E:\VIsual Studio\06. Name Game\bin\Debug\netcoreapp3.1\06. Name Game.exe
+E:\VIsual Studio\06. Name Game\bin\Debug\netcoreapp3.1\06. Name Game.deps.json
+E:\VIsual Studio\06. Name Game\bin\Debug\netcoreapp3.1\06. Name Game.runtimeconfig.json
+E:\VIsual Studio\06. Name Game\bin\Debug\netcoreapp3.1\06. Name Game.runtimeconfig.dev.json
+E:\VIsual Studio\06. Name Game\bin\Debug\netcoreapp3.1\06. Name Game.dll
+E:\VIsual Studio\06. Name Game\bin\Debug\netcoreapp3.1\06. Name Game.pdb
+E:\VIsual Studio\06. Name Game\obj\Debug\netcoreapp3.1\06. Name Game.csproj.AssemblyReference.cache
+E:\VIsual Studio\06. Name Game\obj\Debug\netcoreapp3.1\06. Name Game.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\06. Name Game\obj\Debug\netcoreapp3.1\06. Name Game.AssemblyInfoInputs.cache
+E:\VIsual Studio\06. Name Game\obj\Debug\netcoreapp3.1\06. Name Game.AssemblyInfo.cs
+E:\VIsual Studio\06. Name Game\obj\Debug\netcoreapp3.1\06. Name Game.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\06. Name Game\obj\Debug\netcoreapp3.1\06. Name Game.dll
+E:\VIsual Studio\06. Name Game\obj\Debug\netcoreapp3.1\06. Name Game.pdb
+E:\VIsual Studio\06. Name Game\obj\Debug\netcoreapp3.1\06. Name Game.genruntimeconfig.cache

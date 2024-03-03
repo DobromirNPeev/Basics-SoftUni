@@ -1,0 +1,14 @@
+E:\VIsual Studio\BarcodeGenerator\bin\Debug\netcoreapp3.1\BarcodeGenerator.exe
+E:\VIsual Studio\BarcodeGenerator\bin\Debug\netcoreapp3.1\BarcodeGenerator.deps.json
+E:\VIsual Studio\BarcodeGenerator\bin\Debug\netcoreapp3.1\BarcodeGenerator.runtimeconfig.json
+E:\VIsual Studio\BarcodeGenerator\bin\Debug\netcoreapp3.1\BarcodeGenerator.runtimeconfig.dev.json
+E:\VIsual Studio\BarcodeGenerator\bin\Debug\netcoreapp3.1\BarcodeGenerator.dll
+E:\VIsual Studio\BarcodeGenerator\bin\Debug\netcoreapp3.1\BarcodeGenerator.pdb
+E:\VIsual Studio\BarcodeGenerator\obj\Debug\netcoreapp3.1\BarcodeGenerator.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\BarcodeGenerator\obj\Debug\netcoreapp3.1\BarcodeGenerator.AssemblyInfoInputs.cache
+E:\VIsual Studio\BarcodeGenerator\obj\Debug\netcoreapp3.1\BarcodeGenerator.AssemblyInfo.cs
+E:\VIsual Studio\BarcodeGenerator\obj\Debug\netcoreapp3.1\BarcodeGenerator.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\BarcodeGenerator\obj\Debug\netcoreapp3.1\BarcodeGenerator.dll
+E:\VIsual Studio\BarcodeGenerator\obj\Debug\netcoreapp3.1\BarcodeGenerator.pdb
+E:\VIsual Studio\BarcodeGenerator\obj\Debug\netcoreapp3.1\BarcodeGenerator.genruntimeconfig.cache
+E:\VIsual Studio\BarcodeGenerator\obj\Debug\netcoreapp3.1\BarcodeGenerator.csproj.AssemblyReference.cache

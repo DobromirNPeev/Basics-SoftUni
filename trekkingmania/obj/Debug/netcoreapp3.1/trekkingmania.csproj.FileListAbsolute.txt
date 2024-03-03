@@ -1,0 +1,14 @@
+E:\VIsual Studio\trekkingmania\obj\Debug\netcoreapp3.1\trekkingmania.csproj.AssemblyReference.cache
+E:\VIsual Studio\trekkingmania\obj\Debug\netcoreapp3.1\trekkingmania.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\trekkingmania\obj\Debug\netcoreapp3.1\trekkingmania.AssemblyInfoInputs.cache
+E:\VIsual Studio\trekkingmania\obj\Debug\netcoreapp3.1\trekkingmania.AssemblyInfo.cs
+E:\VIsual Studio\trekkingmania\obj\Debug\netcoreapp3.1\trekkingmania.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\trekkingmania\bin\Debug\netcoreapp3.1\trekkingmania.exe
+E:\VIsual Studio\trekkingmania\bin\Debug\netcoreapp3.1\trekkingmania.deps.json
+E:\VIsual Studio\trekkingmania\bin\Debug\netcoreapp3.1\trekkingmania.runtimeconfig.json
+E:\VIsual Studio\trekkingmania\bin\Debug\netcoreapp3.1\trekkingmania.runtimeconfig.dev.json
+E:\VIsual Studio\trekkingmania\bin\Debug\netcoreapp3.1\trekkingmania.dll
+E:\VIsual Studio\trekkingmania\bin\Debug\netcoreapp3.1\trekkingmania.pdb
+E:\VIsual Studio\trekkingmania\obj\Debug\netcoreapp3.1\trekkingmania.dll
+E:\VIsual Studio\trekkingmania\obj\Debug\netcoreapp3.1\trekkingmania.pdb
+E:\VIsual Studio\trekkingmania\obj\Debug\netcoreapp3.1\trekkingmania.genruntimeconfig.cache

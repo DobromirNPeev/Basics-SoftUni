@@ -1,0 +1,14 @@
+E:\VIsual Studio\oscars\bin\Debug\netcoreapp3.1\oscars.exe
+E:\VIsual Studio\oscars\bin\Debug\netcoreapp3.1\oscars.deps.json
+E:\VIsual Studio\oscars\bin\Debug\netcoreapp3.1\oscars.runtimeconfig.json
+E:\VIsual Studio\oscars\bin\Debug\netcoreapp3.1\oscars.runtimeconfig.dev.json
+E:\VIsual Studio\oscars\bin\Debug\netcoreapp3.1\oscars.dll
+E:\VIsual Studio\oscars\bin\Debug\netcoreapp3.1\oscars.pdb
+E:\VIsual Studio\oscars\obj\Debug\netcoreapp3.1\oscars.csproj.AssemblyReference.cache
+E:\VIsual Studio\oscars\obj\Debug\netcoreapp3.1\oscars.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\oscars\obj\Debug\netcoreapp3.1\oscars.AssemblyInfoInputs.cache
+E:\VIsual Studio\oscars\obj\Debug\netcoreapp3.1\oscars.AssemblyInfo.cs
+E:\VIsual Studio\oscars\obj\Debug\netcoreapp3.1\oscars.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\oscars\obj\Debug\netcoreapp3.1\oscars.dll
+E:\VIsual Studio\oscars\obj\Debug\netcoreapp3.1\oscars.pdb
+E:\VIsual Studio\oscars\obj\Debug\netcoreapp3.1\oscars.genruntimeconfig.cache

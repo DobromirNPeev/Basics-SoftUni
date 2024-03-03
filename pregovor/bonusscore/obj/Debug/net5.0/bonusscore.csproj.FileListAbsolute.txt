@@ -1,0 +1,15 @@
+E:\VIsual Studio\pregovor\bonusscore\obj\Debug\net5.0\bonusscore.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\pregovor\bonusscore\obj\Debug\net5.0\bonusscore.AssemblyInfoInputs.cache
+E:\VIsual Studio\pregovor\bonusscore\obj\Debug\net5.0\bonusscore.AssemblyInfo.cs
+E:\VIsual Studio\pregovor\bonusscore\obj\Debug\net5.0\bonusscore.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\pregovor\bonusscore\bin\Debug\net5.0\bonusscore.exe
+E:\VIsual Studio\pregovor\bonusscore\bin\Debug\net5.0\bonusscore.deps.json
+E:\VIsual Studio\pregovor\bonusscore\bin\Debug\net5.0\bonusscore.runtimeconfig.json
+E:\VIsual Studio\pregovor\bonusscore\bin\Debug\net5.0\bonusscore.runtimeconfig.dev.json
+E:\VIsual Studio\pregovor\bonusscore\bin\Debug\net5.0\bonusscore.dll
+E:\VIsual Studio\pregovor\bonusscore\bin\Debug\net5.0\ref\bonusscore.dll
+E:\VIsual Studio\pregovor\bonusscore\bin\Debug\net5.0\bonusscore.pdb
+E:\VIsual Studio\pregovor\bonusscore\obj\Debug\net5.0\bonusscore.dll
+E:\VIsual Studio\pregovor\bonusscore\obj\Debug\net5.0\ref\bonusscore.dll
+E:\VIsual Studio\pregovor\bonusscore\obj\Debug\net5.0\bonusscore.pdb
+E:\VIsual Studio\pregovor\bonusscore\obj\Debug\net5.0\bonusscore.genruntimeconfig.cache

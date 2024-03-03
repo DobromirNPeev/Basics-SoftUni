@@ -1,0 +1,14 @@
+E:\VIsual Studio\TruckDriver\obj\Debug\netcoreapp3.1\TruckDriver.csproj.AssemblyReference.cache
+E:\VIsual Studio\TruckDriver\obj\Debug\netcoreapp3.1\TruckDriver.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\TruckDriver\obj\Debug\netcoreapp3.1\TruckDriver.AssemblyInfoInputs.cache
+E:\VIsual Studio\TruckDriver\obj\Debug\netcoreapp3.1\TruckDriver.AssemblyInfo.cs
+E:\VIsual Studio\TruckDriver\obj\Debug\netcoreapp3.1\TruckDriver.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\TruckDriver\bin\Debug\netcoreapp3.1\TruckDriver.exe
+E:\VIsual Studio\TruckDriver\bin\Debug\netcoreapp3.1\TruckDriver.deps.json
+E:\VIsual Studio\TruckDriver\bin\Debug\netcoreapp3.1\TruckDriver.runtimeconfig.json
+E:\VIsual Studio\TruckDriver\bin\Debug\netcoreapp3.1\TruckDriver.runtimeconfig.dev.json
+E:\VIsual Studio\TruckDriver\bin\Debug\netcoreapp3.1\TruckDriver.dll
+E:\VIsual Studio\TruckDriver\bin\Debug\netcoreapp3.1\TruckDriver.pdb
+E:\VIsual Studio\TruckDriver\obj\Debug\netcoreapp3.1\TruckDriver.dll
+E:\VIsual Studio\TruckDriver\obj\Debug\netcoreapp3.1\TruckDriver.pdb
+E:\VIsual Studio\TruckDriver\obj\Debug\netcoreapp3.1\TruckDriver.genruntimeconfig.cache

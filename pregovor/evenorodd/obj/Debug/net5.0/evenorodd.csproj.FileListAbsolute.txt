@@ -1,0 +1,16 @@
+E:\VIsual Studio\pregovor\evenorodd\obj\Debug\net5.0\evenorodd.csproj.AssemblyReference.cache
+E:\VIsual Studio\pregovor\evenorodd\obj\Debug\net5.0\evenorodd.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\pregovor\evenorodd\obj\Debug\net5.0\evenorodd.AssemblyInfoInputs.cache
+E:\VIsual Studio\pregovor\evenorodd\obj\Debug\net5.0\evenorodd.AssemblyInfo.cs
+E:\VIsual Studio\pregovor\evenorodd\obj\Debug\net5.0\evenorodd.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\pregovor\evenorodd\bin\Debug\net5.0\evenorodd.exe
+E:\VIsual Studio\pregovor\evenorodd\bin\Debug\net5.0\evenorodd.deps.json
+E:\VIsual Studio\pregovor\evenorodd\bin\Debug\net5.0\evenorodd.runtimeconfig.json
+E:\VIsual Studio\pregovor\evenorodd\bin\Debug\net5.0\evenorodd.runtimeconfig.dev.json
+E:\VIsual Studio\pregovor\evenorodd\bin\Debug\net5.0\evenorodd.dll
+E:\VIsual Studio\pregovor\evenorodd\bin\Debug\net5.0\ref\evenorodd.dll
+E:\VIsual Studio\pregovor\evenorodd\bin\Debug\net5.0\evenorodd.pdb
+E:\VIsual Studio\pregovor\evenorodd\obj\Debug\net5.0\evenorodd.dll
+E:\VIsual Studio\pregovor\evenorodd\obj\Debug\net5.0\ref\evenorodd.dll
+E:\VIsual Studio\pregovor\evenorodd\obj\Debug\net5.0\evenorodd.pdb
+E:\VIsual Studio\pregovor\evenorodd\obj\Debug\net5.0\evenorodd.genruntimeconfig.cache

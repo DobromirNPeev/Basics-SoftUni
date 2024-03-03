@@ -1,0 +1,13 @@
+E:\VIsual Studio\CarToGo\bin\Debug\netcoreapp3.1\CarToGo.exe
+E:\VIsual Studio\CarToGo\bin\Debug\netcoreapp3.1\CarToGo.deps.json
+E:\VIsual Studio\CarToGo\bin\Debug\netcoreapp3.1\CarToGo.runtimeconfig.json
+E:\VIsual Studio\CarToGo\bin\Debug\netcoreapp3.1\CarToGo.runtimeconfig.dev.json
+E:\VIsual Studio\CarToGo\bin\Debug\netcoreapp3.1\CarToGo.dll
+E:\VIsual Studio\CarToGo\bin\Debug\netcoreapp3.1\CarToGo.pdb
+E:\VIsual Studio\CarToGo\obj\Debug\netcoreapp3.1\CarToGo.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\CarToGo\obj\Debug\netcoreapp3.1\CarToGo.AssemblyInfoInputs.cache
+E:\VIsual Studio\CarToGo\obj\Debug\netcoreapp3.1\CarToGo.AssemblyInfo.cs
+E:\VIsual Studio\CarToGo\obj\Debug\netcoreapp3.1\CarToGo.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\CarToGo\obj\Debug\netcoreapp3.1\CarToGo.dll
+E:\VIsual Studio\CarToGo\obj\Debug\netcoreapp3.1\CarToGo.pdb
+E:\VIsual Studio\CarToGo\obj\Debug\netcoreapp3.1\CarToGo.genruntimeconfig.cache

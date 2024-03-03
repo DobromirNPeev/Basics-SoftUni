@@ -1,0 +1,14 @@
+E:\VIsual Studio\uprjif\lunchbreak\bin\Debug\netcoreapp3.1\lunchbreak.exe
+E:\VIsual Studio\uprjif\lunchbreak\bin\Debug\netcoreapp3.1\lunchbreak.deps.json
+E:\VIsual Studio\uprjif\lunchbreak\bin\Debug\netcoreapp3.1\lunchbreak.runtimeconfig.json
+E:\VIsual Studio\uprjif\lunchbreak\bin\Debug\netcoreapp3.1\lunchbreak.runtimeconfig.dev.json
+E:\VIsual Studio\uprjif\lunchbreak\bin\Debug\netcoreapp3.1\lunchbreak.dll
+E:\VIsual Studio\uprjif\lunchbreak\bin\Debug\netcoreapp3.1\lunchbreak.pdb
+E:\VIsual Studio\uprjif\lunchbreak\obj\Debug\netcoreapp3.1\lunchbreak.csproj.AssemblyReference.cache
+E:\VIsual Studio\uprjif\lunchbreak\obj\Debug\netcoreapp3.1\lunchbreak.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\uprjif\lunchbreak\obj\Debug\netcoreapp3.1\lunchbreak.AssemblyInfoInputs.cache
+E:\VIsual Studio\uprjif\lunchbreak\obj\Debug\netcoreapp3.1\lunchbreak.AssemblyInfo.cs
+E:\VIsual Studio\uprjif\lunchbreak\obj\Debug\netcoreapp3.1\lunchbreak.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\uprjif\lunchbreak\obj\Debug\netcoreapp3.1\lunchbreak.dll
+E:\VIsual Studio\uprjif\lunchbreak\obj\Debug\netcoreapp3.1\lunchbreak.pdb
+E:\VIsual Studio\uprjif\lunchbreak\obj\Debug\netcoreapp3.1\lunchbreak.genruntimeconfig.cache

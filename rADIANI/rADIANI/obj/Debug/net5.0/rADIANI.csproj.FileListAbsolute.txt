@@ -1,0 +1,15 @@
+E:\VIsual Studio\rADIANI\rADIANI\bin\Debug\net5.0\rADIANI.exe
+E:\VIsual Studio\rADIANI\rADIANI\bin\Debug\net5.0\rADIANI.deps.json
+E:\VIsual Studio\rADIANI\rADIANI\bin\Debug\net5.0\rADIANI.runtimeconfig.json
+E:\VIsual Studio\rADIANI\rADIANI\bin\Debug\net5.0\rADIANI.runtimeconfig.dev.json
+E:\VIsual Studio\rADIANI\rADIANI\bin\Debug\net5.0\rADIANI.dll
+E:\VIsual Studio\rADIANI\rADIANI\bin\Debug\net5.0\ref\rADIANI.dll
+E:\VIsual Studio\rADIANI\rADIANI\bin\Debug\net5.0\rADIANI.pdb
+E:\VIsual Studio\rADIANI\rADIANI\obj\Debug\net5.0\rADIANI.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\rADIANI\rADIANI\obj\Debug\net5.0\rADIANI.AssemblyInfoInputs.cache
+E:\VIsual Studio\rADIANI\rADIANI\obj\Debug\net5.0\rADIANI.AssemblyInfo.cs
+E:\VIsual Studio\rADIANI\rADIANI\obj\Debug\net5.0\rADIANI.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\rADIANI\rADIANI\obj\Debug\net5.0\rADIANI.dll
+E:\VIsual Studio\rADIANI\rADIANI\obj\Debug\net5.0\ref\rADIANI.dll
+E:\VIsual Studio\rADIANI\rADIANI\obj\Debug\net5.0\rADIANI.pdb
+E:\VIsual Studio\rADIANI\rADIANI\obj\Debug\net5.0\rADIANI.genruntimeconfig.cache

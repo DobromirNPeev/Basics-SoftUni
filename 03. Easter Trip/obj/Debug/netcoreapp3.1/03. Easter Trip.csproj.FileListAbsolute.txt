@@ -1,0 +1,13 @@
+E:\03. Easter Trip\bin\Debug\netcoreapp3.1\03. Easter Trip.exe
+E:\03. Easter Trip\bin\Debug\netcoreapp3.1\03. Easter Trip.deps.json
+E:\03. Easter Trip\bin\Debug\netcoreapp3.1\03. Easter Trip.runtimeconfig.json
+E:\03. Easter Trip\bin\Debug\netcoreapp3.1\03. Easter Trip.runtimeconfig.dev.json
+E:\03. Easter Trip\bin\Debug\netcoreapp3.1\03. Easter Trip.dll
+E:\03. Easter Trip\bin\Debug\netcoreapp3.1\03. Easter Trip.pdb
+E:\03. Easter Trip\obj\Debug\netcoreapp3.1\03. Easter Trip.GeneratedMSBuildEditorConfig.editorconfig
+E:\03. Easter Trip\obj\Debug\netcoreapp3.1\03. Easter Trip.AssemblyInfoInputs.cache
+E:\03. Easter Trip\obj\Debug\netcoreapp3.1\03. Easter Trip.AssemblyInfo.cs
+E:\03. Easter Trip\obj\Debug\netcoreapp3.1\03. Easter Trip.csproj.CoreCompileInputs.cache
+E:\03. Easter Trip\obj\Debug\netcoreapp3.1\03. Easter Trip.dll
+E:\03. Easter Trip\obj\Debug\netcoreapp3.1\03. Easter Trip.pdb
+E:\03. Easter Trip\obj\Debug\netcoreapp3.1\03. Easter Trip.genruntimeconfig.cache

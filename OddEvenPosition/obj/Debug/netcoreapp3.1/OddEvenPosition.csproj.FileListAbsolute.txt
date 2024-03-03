@@ -1,0 +1,14 @@
+E:\VIsual Studio\OddEvenPosition\bin\Debug\netcoreapp3.1\OddEvenPosition.exe
+E:\VIsual Studio\OddEvenPosition\bin\Debug\netcoreapp3.1\OddEvenPosition.deps.json
+E:\VIsual Studio\OddEvenPosition\bin\Debug\netcoreapp3.1\OddEvenPosition.runtimeconfig.json
+E:\VIsual Studio\OddEvenPosition\bin\Debug\netcoreapp3.1\OddEvenPosition.runtimeconfig.dev.json
+E:\VIsual Studio\OddEvenPosition\bin\Debug\netcoreapp3.1\OddEvenPosition.dll
+E:\VIsual Studio\OddEvenPosition\bin\Debug\netcoreapp3.1\OddEvenPosition.pdb
+E:\VIsual Studio\OddEvenPosition\obj\Debug\netcoreapp3.1\OddEvenPosition.csproj.AssemblyReference.cache
+E:\VIsual Studio\OddEvenPosition\obj\Debug\netcoreapp3.1\OddEvenPosition.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\OddEvenPosition\obj\Debug\netcoreapp3.1\OddEvenPosition.AssemblyInfoInputs.cache
+E:\VIsual Studio\OddEvenPosition\obj\Debug\netcoreapp3.1\OddEvenPosition.AssemblyInfo.cs
+E:\VIsual Studio\OddEvenPosition\obj\Debug\netcoreapp3.1\OddEvenPosition.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\OddEvenPosition\obj\Debug\netcoreapp3.1\OddEvenPosition.dll
+E:\VIsual Studio\OddEvenPosition\obj\Debug\netcoreapp3.1\OddEvenPosition.pdb
+E:\VIsual Studio\OddEvenPosition\obj\Debug\netcoreapp3.1\OddEvenPosition.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\VIsual Studio\Programming Basics Online Exam - 15 and 16 June 2019\bin\Debug\netcoreapp3.1\Programming Basics Online Exam - 15 and 16 June 2019.exe
+E:\VIsual Studio\Programming Basics Online Exam - 15 and 16 June 2019\bin\Debug\netcoreapp3.1\Programming Basics Online Exam - 15 and 16 June 2019.deps.json
+E:\VIsual Studio\Programming Basics Online Exam - 15 and 16 June 2019\bin\Debug\netcoreapp3.1\Programming Basics Online Exam - 15 and 16 June 2019.runtimeconfig.json
+E:\VIsual Studio\Programming Basics Online Exam - 15 and 16 June 2019\bin\Debug\netcoreapp3.1\Programming Basics Online Exam - 15 and 16 June 2019.runtimeconfig.dev.json
+E:\VIsual Studio\Programming Basics Online Exam - 15 and 16 June 2019\bin\Debug\netcoreapp3.1\Programming Basics Online Exam - 15 and 16 June 2019.dll
+E:\VIsual Studio\Programming Basics Online Exam - 15 and 16 June 2019\bin\Debug\netcoreapp3.1\Programming Basics Online Exam - 15 and 16 June 2019.pdb
+E:\VIsual Studio\Programming Basics Online Exam - 15 and 16 June 2019\obj\Debug\netcoreapp3.1\Programming Basics Online Exam - 15 and 16 June 2019.csproj.AssemblyReference.cache
+E:\VIsual Studio\Programming Basics Online Exam - 15 and 16 June 2019\obj\Debug\netcoreapp3.1\Programming Basics Online Exam - 15 and 16 June 2019.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Programming Basics Online Exam - 15 and 16 June 2019\obj\Debug\netcoreapp3.1\Programming Basics Online Exam - 15 and 16 June 2019.AssemblyInfoInputs.cache
+E:\VIsual Studio\Programming Basics Online Exam - 15 and 16 June 2019\obj\Debug\netcoreapp3.1\Programming Basics Online Exam - 15 and 16 June 2019.AssemblyInfo.cs
+E:\VIsual Studio\Programming Basics Online Exam - 15 and 16 June 2019\obj\Debug\netcoreapp3.1\Programming Basics Online Exam - 15 and 16 June 2019.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Programming Basics Online Exam - 15 and 16 June 2019\obj\Debug\netcoreapp3.1\Programming Basics Online Exam - 15 and 16 June 2019.dll
+E:\VIsual Studio\Programming Basics Online Exam - 15 and 16 June 2019\obj\Debug\netcoreapp3.1\Programming Basics Online Exam - 15 and 16 June 2019.pdb
+E:\VIsual Studio\Programming Basics Online Exam - 15 and 16 June 2019\obj\Debug\netcoreapp3.1\Programming Basics Online Exam - 15 and 16 June 2019.genruntimeconfig.cache

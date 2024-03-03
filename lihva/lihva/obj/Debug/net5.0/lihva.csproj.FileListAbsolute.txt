@@ -1,0 +1,15 @@
+E:\VIsual Studio\lihva\lihva\bin\Debug\net5.0\lihva.exe
+E:\VIsual Studio\lihva\lihva\bin\Debug\net5.0\lihva.deps.json
+E:\VIsual Studio\lihva\lihva\bin\Debug\net5.0\lihva.runtimeconfig.json
+E:\VIsual Studio\lihva\lihva\bin\Debug\net5.0\lihva.runtimeconfig.dev.json
+E:\VIsual Studio\lihva\lihva\bin\Debug\net5.0\lihva.dll
+E:\VIsual Studio\lihva\lihva\bin\Debug\net5.0\ref\lihva.dll
+E:\VIsual Studio\lihva\lihva\bin\Debug\net5.0\lihva.pdb
+E:\VIsual Studio\lihva\lihva\obj\Debug\net5.0\lihva.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\lihva\lihva\obj\Debug\net5.0\lihva.AssemblyInfoInputs.cache
+E:\VIsual Studio\lihva\lihva\obj\Debug\net5.0\lihva.AssemblyInfo.cs
+E:\VIsual Studio\lihva\lihva\obj\Debug\net5.0\lihva.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\lihva\lihva\obj\Debug\net5.0\lihva.dll
+E:\VIsual Studio\lihva\lihva\obj\Debug\net5.0\ref\lihva.dll
+E:\VIsual Studio\lihva\lihva\obj\Debug\net5.0\lihva.pdb
+E:\VIsual Studio\lihva\lihva\obj\Debug\net5.0\lihva.genruntimeconfig.cache

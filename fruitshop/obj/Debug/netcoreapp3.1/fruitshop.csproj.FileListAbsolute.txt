@@ -1,0 +1,14 @@
+E:\VIsual Studio\fruitshop\bin\Debug\netcoreapp3.1\fruitshop.exe
+E:\VIsual Studio\fruitshop\bin\Debug\netcoreapp3.1\fruitshop.deps.json
+E:\VIsual Studio\fruitshop\bin\Debug\netcoreapp3.1\fruitshop.runtimeconfig.json
+E:\VIsual Studio\fruitshop\bin\Debug\netcoreapp3.1\fruitshop.runtimeconfig.dev.json
+E:\VIsual Studio\fruitshop\bin\Debug\netcoreapp3.1\fruitshop.dll
+E:\VIsual Studio\fruitshop\bin\Debug\netcoreapp3.1\fruitshop.pdb
+E:\VIsual Studio\fruitshop\obj\Debug\netcoreapp3.1\fruitshop.csproj.AssemblyReference.cache
+E:\VIsual Studio\fruitshop\obj\Debug\netcoreapp3.1\fruitshop.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\fruitshop\obj\Debug\netcoreapp3.1\fruitshop.AssemblyInfoInputs.cache
+E:\VIsual Studio\fruitshop\obj\Debug\netcoreapp3.1\fruitshop.AssemblyInfo.cs
+E:\VIsual Studio\fruitshop\obj\Debug\netcoreapp3.1\fruitshop.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\fruitshop\obj\Debug\netcoreapp3.1\fruitshop.dll
+E:\VIsual Studio\fruitshop\obj\Debug\netcoreapp3.1\fruitshop.pdb
+E:\VIsual Studio\fruitshop\obj\Debug\netcoreapp3.1\fruitshop.genruntimeconfig.cache

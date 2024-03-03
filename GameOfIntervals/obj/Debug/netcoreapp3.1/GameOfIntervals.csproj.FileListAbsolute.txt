@@ -1,0 +1,14 @@
+E:\VIsual Studio\GameOfIntervals\bin\Debug\netcoreapp3.1\GameOfIntervals.exe
+E:\VIsual Studio\GameOfIntervals\bin\Debug\netcoreapp3.1\GameOfIntervals.deps.json
+E:\VIsual Studio\GameOfIntervals\bin\Debug\netcoreapp3.1\GameOfIntervals.runtimeconfig.json
+E:\VIsual Studio\GameOfIntervals\bin\Debug\netcoreapp3.1\GameOfIntervals.runtimeconfig.dev.json
+E:\VIsual Studio\GameOfIntervals\bin\Debug\netcoreapp3.1\GameOfIntervals.dll
+E:\VIsual Studio\GameOfIntervals\bin\Debug\netcoreapp3.1\GameOfIntervals.pdb
+E:\VIsual Studio\GameOfIntervals\obj\Debug\netcoreapp3.1\GameOfIntervals.csproj.AssemblyReference.cache
+E:\VIsual Studio\GameOfIntervals\obj\Debug\netcoreapp3.1\GameOfIntervals.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\GameOfIntervals\obj\Debug\netcoreapp3.1\GameOfIntervals.AssemblyInfoInputs.cache
+E:\VIsual Studio\GameOfIntervals\obj\Debug\netcoreapp3.1\GameOfIntervals.AssemblyInfo.cs
+E:\VIsual Studio\GameOfIntervals\obj\Debug\netcoreapp3.1\GameOfIntervals.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\GameOfIntervals\obj\Debug\netcoreapp3.1\GameOfIntervals.dll
+E:\VIsual Studio\GameOfIntervals\obj\Debug\netcoreapp3.1\GameOfIntervals.pdb
+E:\VIsual Studio\GameOfIntervals\obj\Debug\netcoreapp3.1\GameOfIntervals.genruntimeconfig.cache

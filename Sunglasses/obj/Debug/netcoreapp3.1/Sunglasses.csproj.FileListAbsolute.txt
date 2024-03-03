@@ -1,0 +1,13 @@
+E:\VIsual Studio\Sunglasses\bin\Debug\netcoreapp3.1\Sunglasses.exe
+E:\VIsual Studio\Sunglasses\bin\Debug\netcoreapp3.1\Sunglasses.deps.json
+E:\VIsual Studio\Sunglasses\bin\Debug\netcoreapp3.1\Sunglasses.runtimeconfig.json
+E:\VIsual Studio\Sunglasses\bin\Debug\netcoreapp3.1\Sunglasses.runtimeconfig.dev.json
+E:\VIsual Studio\Sunglasses\bin\Debug\netcoreapp3.1\Sunglasses.dll
+E:\VIsual Studio\Sunglasses\bin\Debug\netcoreapp3.1\Sunglasses.pdb
+E:\VIsual Studio\Sunglasses\obj\Debug\netcoreapp3.1\Sunglasses.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Sunglasses\obj\Debug\netcoreapp3.1\Sunglasses.AssemblyInfoInputs.cache
+E:\VIsual Studio\Sunglasses\obj\Debug\netcoreapp3.1\Sunglasses.AssemblyInfo.cs
+E:\VIsual Studio\Sunglasses\obj\Debug\netcoreapp3.1\Sunglasses.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Sunglasses\obj\Debug\netcoreapp3.1\Sunglasses.dll
+E:\VIsual Studio\Sunglasses\obj\Debug\netcoreapp3.1\Sunglasses.pdb
+E:\VIsual Studio\Sunglasses\obj\Debug\netcoreapp3.1\Sunglasses.genruntimeconfig.cache

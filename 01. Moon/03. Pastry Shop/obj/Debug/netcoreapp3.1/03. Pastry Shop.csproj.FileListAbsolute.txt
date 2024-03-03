@@ -1,0 +1,14 @@
+E:\VIsual Studio Assignments\Basics\01. Moon\03. Pastry Shop\bin\Debug\netcoreapp3.1\03. Pastry Shop.exe
+E:\VIsual Studio Assignments\Basics\01. Moon\03. Pastry Shop\bin\Debug\netcoreapp3.1\03. Pastry Shop.deps.json
+E:\VIsual Studio Assignments\Basics\01. Moon\03. Pastry Shop\bin\Debug\netcoreapp3.1\03. Pastry Shop.runtimeconfig.json
+E:\VIsual Studio Assignments\Basics\01. Moon\03. Pastry Shop\bin\Debug\netcoreapp3.1\03. Pastry Shop.runtimeconfig.dev.json
+E:\VIsual Studio Assignments\Basics\01. Moon\03. Pastry Shop\bin\Debug\netcoreapp3.1\03. Pastry Shop.dll
+E:\VIsual Studio Assignments\Basics\01. Moon\03. Pastry Shop\bin\Debug\netcoreapp3.1\03. Pastry Shop.pdb
+E:\VIsual Studio Assignments\Basics\01. Moon\03. Pastry Shop\obj\Debug\netcoreapp3.1\03. Pastry Shop.csproj.AssemblyReference.cache
+E:\VIsual Studio Assignments\Basics\01. Moon\03. Pastry Shop\obj\Debug\netcoreapp3.1\03. Pastry Shop.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio Assignments\Basics\01. Moon\03. Pastry Shop\obj\Debug\netcoreapp3.1\03. Pastry Shop.AssemblyInfoInputs.cache
+E:\VIsual Studio Assignments\Basics\01. Moon\03. Pastry Shop\obj\Debug\netcoreapp3.1\03. Pastry Shop.AssemblyInfo.cs
+E:\VIsual Studio Assignments\Basics\01. Moon\03. Pastry Shop\obj\Debug\netcoreapp3.1\03. Pastry Shop.csproj.CoreCompileInputs.cache
+E:\VIsual Studio Assignments\Basics\01. Moon\03. Pastry Shop\obj\Debug\netcoreapp3.1\03. Pastry Shop.dll
+E:\VIsual Studio Assignments\Basics\01. Moon\03. Pastry Shop\obj\Debug\netcoreapp3.1\03. Pastry Shop.pdb
+E:\VIsual Studio Assignments\Basics\01. Moon\03. Pastry Shop\obj\Debug\netcoreapp3.1\03. Pastry Shop.genruntimeconfig.cache

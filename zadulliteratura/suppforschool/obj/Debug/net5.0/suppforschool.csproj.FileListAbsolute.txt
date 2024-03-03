@@ -1,0 +1,16 @@
+C:\Users\dobo2\source\repos\zadulliteratura\suppforschool\obj\Debug\net5.0\suppforschool.csproj.AssemblyReference.cache
+C:\Users\dobo2\source\repos\zadulliteratura\suppforschool\obj\Debug\net5.0\suppforschool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dobo2\source\repos\zadulliteratura\suppforschool\obj\Debug\net5.0\suppforschool.AssemblyInfoInputs.cache
+C:\Users\dobo2\source\repos\zadulliteratura\suppforschool\obj\Debug\net5.0\suppforschool.AssemblyInfo.cs
+C:\Users\dobo2\source\repos\zadulliteratura\suppforschool\obj\Debug\net5.0\suppforschool.csproj.CoreCompileInputs.cache
+C:\Users\dobo2\source\repos\zadulliteratura\suppforschool\bin\Debug\net5.0\suppforschool.exe
+C:\Users\dobo2\source\repos\zadulliteratura\suppforschool\bin\Debug\net5.0\suppforschool.deps.json
+C:\Users\dobo2\source\repos\zadulliteratura\suppforschool\bin\Debug\net5.0\suppforschool.runtimeconfig.json
+C:\Users\dobo2\source\repos\zadulliteratura\suppforschool\bin\Debug\net5.0\suppforschool.runtimeconfig.dev.json
+C:\Users\dobo2\source\repos\zadulliteratura\suppforschool\bin\Debug\net5.0\suppforschool.dll
+C:\Users\dobo2\source\repos\zadulliteratura\suppforschool\bin\Debug\net5.0\ref\suppforschool.dll
+C:\Users\dobo2\source\repos\zadulliteratura\suppforschool\bin\Debug\net5.0\suppforschool.pdb
+C:\Users\dobo2\source\repos\zadulliteratura\suppforschool\obj\Debug\net5.0\suppforschool.dll
+C:\Users\dobo2\source\repos\zadulliteratura\suppforschool\obj\Debug\net5.0\ref\suppforschool.dll
+C:\Users\dobo2\source\repos\zadulliteratura\suppforschool\obj\Debug\net5.0\suppforschool.pdb
+C:\Users\dobo2\source\repos\zadulliteratura\suppforschool\obj\Debug\net5.0\suppforschool.genruntimeconfig.cache

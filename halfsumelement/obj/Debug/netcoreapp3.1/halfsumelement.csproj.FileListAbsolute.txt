@@ -1,0 +1,14 @@
+E:\VIsual Studio\halfsumelement\obj\Debug\netcoreapp3.1\halfsumelement.csproj.AssemblyReference.cache
+E:\VIsual Studio\halfsumelement\obj\Debug\netcoreapp3.1\halfsumelement.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\halfsumelement\obj\Debug\netcoreapp3.1\halfsumelement.AssemblyInfoInputs.cache
+E:\VIsual Studio\halfsumelement\obj\Debug\netcoreapp3.1\halfsumelement.AssemblyInfo.cs
+E:\VIsual Studio\halfsumelement\obj\Debug\netcoreapp3.1\halfsumelement.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\halfsumelement\bin\Debug\netcoreapp3.1\halfsumelement.exe
+E:\VIsual Studio\halfsumelement\bin\Debug\netcoreapp3.1\halfsumelement.deps.json
+E:\VIsual Studio\halfsumelement\bin\Debug\netcoreapp3.1\halfsumelement.runtimeconfig.json
+E:\VIsual Studio\halfsumelement\bin\Debug\netcoreapp3.1\halfsumelement.runtimeconfig.dev.json
+E:\VIsual Studio\halfsumelement\bin\Debug\netcoreapp3.1\halfsumelement.dll
+E:\VIsual Studio\halfsumelement\bin\Debug\netcoreapp3.1\halfsumelement.pdb
+E:\VIsual Studio\halfsumelement\obj\Debug\netcoreapp3.1\halfsumelement.dll
+E:\VIsual Studio\halfsumelement\obj\Debug\netcoreapp3.1\halfsumelement.pdb
+E:\VIsual Studio\halfsumelement\obj\Debug\netcoreapp3.1\halfsumelement.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\VIsual Studio\journey\bin\Debug\netcoreapp3.1\journey.exe
+E:\VIsual Studio\journey\bin\Debug\netcoreapp3.1\journey.deps.json
+E:\VIsual Studio\journey\bin\Debug\netcoreapp3.1\journey.runtimeconfig.json
+E:\VIsual Studio\journey\bin\Debug\netcoreapp3.1\journey.runtimeconfig.dev.json
+E:\VIsual Studio\journey\bin\Debug\netcoreapp3.1\journey.dll
+E:\VIsual Studio\journey\bin\Debug\netcoreapp3.1\journey.pdb
+E:\VIsual Studio\journey\obj\Debug\netcoreapp3.1\journey.csproj.AssemblyReference.cache
+E:\VIsual Studio\journey\obj\Debug\netcoreapp3.1\journey.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\journey\obj\Debug\netcoreapp3.1\journey.AssemblyInfoInputs.cache
+E:\VIsual Studio\journey\obj\Debug\netcoreapp3.1\journey.AssemblyInfo.cs
+E:\VIsual Studio\journey\obj\Debug\netcoreapp3.1\journey.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\journey\obj\Debug\netcoreapp3.1\journey.dll
+E:\VIsual Studio\journey\obj\Debug\netcoreapp3.1\journey.pdb
+E:\VIsual Studio\journey\obj\Debug\netcoreapp3.1\journey.genruntimeconfig.cache

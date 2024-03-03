@@ -1,0 +1,14 @@
+E:\VIsual Studio\pbmoreexercise\bin\Debug\netcoreapp3.1\pbmoreexercise.exe
+E:\VIsual Studio\pbmoreexercise\bin\Debug\netcoreapp3.1\pbmoreexercise.deps.json
+E:\VIsual Studio\pbmoreexercise\bin\Debug\netcoreapp3.1\pbmoreexercise.runtimeconfig.json
+E:\VIsual Studio\pbmoreexercise\bin\Debug\netcoreapp3.1\pbmoreexercise.runtimeconfig.dev.json
+E:\VIsual Studio\pbmoreexercise\bin\Debug\netcoreapp3.1\pbmoreexercise.dll
+E:\VIsual Studio\pbmoreexercise\bin\Debug\netcoreapp3.1\pbmoreexercise.pdb
+E:\VIsual Studio\pbmoreexercise\obj\Debug\netcoreapp3.1\pbmoreexercise.csproj.AssemblyReference.cache
+E:\VIsual Studio\pbmoreexercise\obj\Debug\netcoreapp3.1\pbmoreexercise.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\pbmoreexercise\obj\Debug\netcoreapp3.1\pbmoreexercise.AssemblyInfoInputs.cache
+E:\VIsual Studio\pbmoreexercise\obj\Debug\netcoreapp3.1\pbmoreexercise.AssemblyInfo.cs
+E:\VIsual Studio\pbmoreexercise\obj\Debug\netcoreapp3.1\pbmoreexercise.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\pbmoreexercise\obj\Debug\netcoreapp3.1\pbmoreexercise.dll
+E:\VIsual Studio\pbmoreexercise\obj\Debug\netcoreapp3.1\pbmoreexercise.pdb
+E:\VIsual Studio\pbmoreexercise\obj\Debug\netcoreapp3.1\pbmoreexercise.genruntimeconfig.cache

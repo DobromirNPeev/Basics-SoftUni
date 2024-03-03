@@ -1,0 +1,28 @@
+E:\02. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\03. Film Premiere.exe
+E:\02. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\03. Film Premiere.deps.json
+E:\02. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\03. Film Premiere.runtimeconfig.json
+E:\02. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\03. Film Premiere.runtimeconfig.dev.json
+E:\02. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\03. Film Premiere.dll
+E:\02. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\03. Film Premiere.pdb
+E:\02. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\03. Film Premiere.csproj.AssemblyReference.cache
+E:\02. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\03. Film Premiere.GeneratedMSBuildEditorConfig.editorconfig
+E:\02. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\03. Film Premiere.AssemblyInfoInputs.cache
+E:\02. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\03. Film Premiere.AssemblyInfo.cs
+E:\02. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\03. Film Premiere.csproj.CoreCompileInputs.cache
+E:\02. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\03. Film Premiere.dll
+E:\02. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\03. Film Premiere.pdb
+E:\02. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\03. Film Premiere.genruntimeconfig.cache
+E:\VIsual Studio\02. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\03. Film Premiere.exe
+E:\VIsual Studio\02. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\03. Film Premiere.deps.json
+E:\VIsual Studio\02. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\03. Film Premiere.runtimeconfig.json
+E:\VIsual Studio\02. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\03. Film Premiere.runtimeconfig.dev.json
+E:\VIsual Studio\02. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\03. Film Premiere.dll
+E:\VIsual Studio\02. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\03. Film Premiere.pdb
+E:\VIsual Studio\02. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\03. Film Premiere.csproj.AssemblyReference.cache
+E:\VIsual Studio\02. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\03. Film Premiere.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\02. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\03. Film Premiere.AssemblyInfoInputs.cache
+E:\VIsual Studio\02. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\03. Film Premiere.AssemblyInfo.cs
+E:\VIsual Studio\02. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\03. Film Premiere.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\02. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\03. Film Premiere.dll
+E:\VIsual Studio\02. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\03. Film Premiere.pdb
+E:\VIsual Studio\02. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\03. Film Premiere.genruntimeconfig.cache

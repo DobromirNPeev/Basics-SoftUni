@@ -1,0 +1,14 @@
+E:\VIsual Studio\trianglearea\bin\Debug\netcoreapp3.1\trianglearea.exe
+E:\VIsual Studio\trianglearea\bin\Debug\netcoreapp3.1\trianglearea.deps.json
+E:\VIsual Studio\trianglearea\bin\Debug\netcoreapp3.1\trianglearea.runtimeconfig.json
+E:\VIsual Studio\trianglearea\bin\Debug\netcoreapp3.1\trianglearea.runtimeconfig.dev.json
+E:\VIsual Studio\trianglearea\bin\Debug\netcoreapp3.1\trianglearea.dll
+E:\VIsual Studio\trianglearea\bin\Debug\netcoreapp3.1\trianglearea.pdb
+E:\VIsual Studio\trianglearea\obj\Debug\netcoreapp3.1\trianglearea.csproj.AssemblyReference.cache
+E:\VIsual Studio\trianglearea\obj\Debug\netcoreapp3.1\trianglearea.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\trianglearea\obj\Debug\netcoreapp3.1\trianglearea.AssemblyInfoInputs.cache
+E:\VIsual Studio\trianglearea\obj\Debug\netcoreapp3.1\trianglearea.AssemblyInfo.cs
+E:\VIsual Studio\trianglearea\obj\Debug\netcoreapp3.1\trianglearea.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\trianglearea\obj\Debug\netcoreapp3.1\trianglearea.dll
+E:\VIsual Studio\trianglearea\obj\Debug\netcoreapp3.1\trianglearea.pdb
+E:\VIsual Studio\trianglearea\obj\Debug\netcoreapp3.1\trianglearea.genruntimeconfig.cache

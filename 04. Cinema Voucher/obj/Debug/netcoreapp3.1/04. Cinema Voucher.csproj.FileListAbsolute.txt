@@ -1,0 +1,14 @@
+E:\VIsual Studio\04. Cinema Voucher\bin\Debug\netcoreapp3.1\04. Cinema Voucher.exe
+E:\VIsual Studio\04. Cinema Voucher\bin\Debug\netcoreapp3.1\04. Cinema Voucher.deps.json
+E:\VIsual Studio\04. Cinema Voucher\bin\Debug\netcoreapp3.1\04. Cinema Voucher.runtimeconfig.json
+E:\VIsual Studio\04. Cinema Voucher\bin\Debug\netcoreapp3.1\04. Cinema Voucher.runtimeconfig.dev.json
+E:\VIsual Studio\04. Cinema Voucher\bin\Debug\netcoreapp3.1\04. Cinema Voucher.dll
+E:\VIsual Studio\04. Cinema Voucher\bin\Debug\netcoreapp3.1\04. Cinema Voucher.pdb
+E:\VIsual Studio\04. Cinema Voucher\obj\Debug\netcoreapp3.1\04. Cinema Voucher.csproj.AssemblyReference.cache
+E:\VIsual Studio\04. Cinema Voucher\obj\Debug\netcoreapp3.1\04. Cinema Voucher.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\04. Cinema Voucher\obj\Debug\netcoreapp3.1\04. Cinema Voucher.AssemblyInfoInputs.cache
+E:\VIsual Studio\04. Cinema Voucher\obj\Debug\netcoreapp3.1\04. Cinema Voucher.AssemblyInfo.cs
+E:\VIsual Studio\04. Cinema Voucher\obj\Debug\netcoreapp3.1\04. Cinema Voucher.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\04. Cinema Voucher\obj\Debug\netcoreapp3.1\04. Cinema Voucher.dll
+E:\VIsual Studio\04. Cinema Voucher\obj\Debug\netcoreapp3.1\04. Cinema Voucher.pdb
+E:\VIsual Studio\04. Cinema Voucher\obj\Debug\netcoreapp3.1\04. Cinema Voucher.genruntimeconfig.cache

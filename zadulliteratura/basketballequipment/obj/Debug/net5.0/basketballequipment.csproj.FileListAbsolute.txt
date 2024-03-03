@@ -1,0 +1,16 @@
+C:\Users\dobo2\source\repos\zadulliteratura\basketballequipment\bin\Debug\net5.0\basketballequipment.exe
+C:\Users\dobo2\source\repos\zadulliteratura\basketballequipment\bin\Debug\net5.0\basketballequipment.deps.json
+C:\Users\dobo2\source\repos\zadulliteratura\basketballequipment\bin\Debug\net5.0\basketballequipment.runtimeconfig.json
+C:\Users\dobo2\source\repos\zadulliteratura\basketballequipment\bin\Debug\net5.0\basketballequipment.runtimeconfig.dev.json
+C:\Users\dobo2\source\repos\zadulliteratura\basketballequipment\bin\Debug\net5.0\basketballequipment.dll
+C:\Users\dobo2\source\repos\zadulliteratura\basketballequipment\bin\Debug\net5.0\ref\basketballequipment.dll
+C:\Users\dobo2\source\repos\zadulliteratura\basketballequipment\bin\Debug\net5.0\basketballequipment.pdb
+C:\Users\dobo2\source\repos\zadulliteratura\basketballequipment\obj\Debug\net5.0\basketballequipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dobo2\source\repos\zadulliteratura\basketballequipment\obj\Debug\net5.0\basketballequipment.AssemblyInfoInputs.cache
+C:\Users\dobo2\source\repos\zadulliteratura\basketballequipment\obj\Debug\net5.0\basketballequipment.AssemblyInfo.cs
+C:\Users\dobo2\source\repos\zadulliteratura\basketballequipment\obj\Debug\net5.0\basketballequipment.csproj.CoreCompileInputs.cache
+C:\Users\dobo2\source\repos\zadulliteratura\basketballequipment\obj\Debug\net5.0\basketballequipment.dll
+C:\Users\dobo2\source\repos\zadulliteratura\basketballequipment\obj\Debug\net5.0\ref\basketballequipment.dll
+C:\Users\dobo2\source\repos\zadulliteratura\basketballequipment\obj\Debug\net5.0\basketballequipment.pdb
+C:\Users\dobo2\source\repos\zadulliteratura\basketballequipment\obj\Debug\net5.0\basketballequipment.genruntimeconfig.cache
+C:\Users\dobo2\source\repos\zadulliteratura\basketballequipment\obj\Debug\net5.0\basketballequipment.csproj.AssemblyReference.cache

@@ -1,0 +1,14 @@
+E:\VIsual Studio\Rhombus of Stars\bin\Debug\netcoreapp3.1\Rhombus of Stars.exe
+E:\VIsual Studio\Rhombus of Stars\bin\Debug\netcoreapp3.1\Rhombus of Stars.deps.json
+E:\VIsual Studio\Rhombus of Stars\bin\Debug\netcoreapp3.1\Rhombus of Stars.runtimeconfig.json
+E:\VIsual Studio\Rhombus of Stars\bin\Debug\netcoreapp3.1\Rhombus of Stars.runtimeconfig.dev.json
+E:\VIsual Studio\Rhombus of Stars\bin\Debug\netcoreapp3.1\Rhombus of Stars.dll
+E:\VIsual Studio\Rhombus of Stars\bin\Debug\netcoreapp3.1\Rhombus of Stars.pdb
+E:\VIsual Studio\Rhombus of Stars\obj\Debug\netcoreapp3.1\Rhombus of Stars.csproj.AssemblyReference.cache
+E:\VIsual Studio\Rhombus of Stars\obj\Debug\netcoreapp3.1\Rhombus of Stars.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Rhombus of Stars\obj\Debug\netcoreapp3.1\Rhombus of Stars.AssemblyInfoInputs.cache
+E:\VIsual Studio\Rhombus of Stars\obj\Debug\netcoreapp3.1\Rhombus of Stars.AssemblyInfo.cs
+E:\VIsual Studio\Rhombus of Stars\obj\Debug\netcoreapp3.1\Rhombus of Stars.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Rhombus of Stars\obj\Debug\netcoreapp3.1\Rhombus of Stars.dll
+E:\VIsual Studio\Rhombus of Stars\obj\Debug\netcoreapp3.1\Rhombus of Stars.pdb
+E:\VIsual Studio\Rhombus of Stars\obj\Debug\netcoreapp3.1\Rhombus of Stars.genruntimeconfig.cache

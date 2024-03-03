@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "konkaticatiq/1.0.0": {
+        "runtime": {
+          "konkaticatiq.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "konkaticatiq/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

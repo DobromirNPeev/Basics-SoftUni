@@ -1,0 +1,16 @@
+E:\VIsual Studio\pregovor\pregovor\bin\Debug\net5.0\pregovor.exe
+E:\VIsual Studio\pregovor\pregovor\bin\Debug\net5.0\pregovor.deps.json
+E:\VIsual Studio\pregovor\pregovor\bin\Debug\net5.0\pregovor.runtimeconfig.json
+E:\VIsual Studio\pregovor\pregovor\bin\Debug\net5.0\pregovor.runtimeconfig.dev.json
+E:\VIsual Studio\pregovor\pregovor\bin\Debug\net5.0\pregovor.dll
+E:\VIsual Studio\pregovor\pregovor\bin\Debug\net5.0\ref\pregovor.dll
+E:\VIsual Studio\pregovor\pregovor\bin\Debug\net5.0\pregovor.pdb
+E:\VIsual Studio\pregovor\pregovor\obj\Debug\net5.0\pregovor.csproj.AssemblyReference.cache
+E:\VIsual Studio\pregovor\pregovor\obj\Debug\net5.0\pregovor.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\pregovor\pregovor\obj\Debug\net5.0\pregovor.AssemblyInfoInputs.cache
+E:\VIsual Studio\pregovor\pregovor\obj\Debug\net5.0\pregovor.AssemblyInfo.cs
+E:\VIsual Studio\pregovor\pregovor\obj\Debug\net5.0\pregovor.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\pregovor\pregovor\obj\Debug\net5.0\pregovor.dll
+E:\VIsual Studio\pregovor\pregovor\obj\Debug\net5.0\ref\pregovor.dll
+E:\VIsual Studio\pregovor\pregovor\obj\Debug\net5.0\pregovor.pdb
+E:\VIsual Studio\pregovor\pregovor\obj\Debug\net5.0\pregovor.genruntimeconfig.cache

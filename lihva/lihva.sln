@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lihva", "lihva\lihva.csproj", "{BDE9C567-6364-452C-9173-965B1EB9BF82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDE9C567-6364-452C-9173-965B1EB9BF82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDE9C567-6364-452C-9173-965B1EB9BF82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDE9C567-6364-452C-9173-965B1EB9BF82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDE9C567-6364-452C-9173-965B1EB9BF82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B592A891-79AC-4525-A7E3-8E269B43B0C1}
+	EndGlobalSection
+EndGlobal

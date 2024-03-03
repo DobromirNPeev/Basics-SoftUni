@@ -1,0 +1,14 @@
+E:\VIsual Studio\morecomplicatedproverki\bin\Debug\netcoreapp3.1\morecomplicatedproverki.exe
+E:\VIsual Studio\morecomplicatedproverki\bin\Debug\netcoreapp3.1\morecomplicatedproverki.deps.json
+E:\VIsual Studio\morecomplicatedproverki\bin\Debug\netcoreapp3.1\morecomplicatedproverki.runtimeconfig.json
+E:\VIsual Studio\morecomplicatedproverki\bin\Debug\netcoreapp3.1\morecomplicatedproverki.runtimeconfig.dev.json
+E:\VIsual Studio\morecomplicatedproverki\bin\Debug\netcoreapp3.1\morecomplicatedproverki.dll
+E:\VIsual Studio\morecomplicatedproverki\bin\Debug\netcoreapp3.1\morecomplicatedproverki.pdb
+E:\VIsual Studio\morecomplicatedproverki\obj\Debug\netcoreapp3.1\morecomplicatedproverki.csproj.AssemblyReference.cache
+E:\VIsual Studio\morecomplicatedproverki\obj\Debug\netcoreapp3.1\morecomplicatedproverki.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\morecomplicatedproverki\obj\Debug\netcoreapp3.1\morecomplicatedproverki.AssemblyInfoInputs.cache
+E:\VIsual Studio\morecomplicatedproverki\obj\Debug\netcoreapp3.1\morecomplicatedproverki.AssemblyInfo.cs
+E:\VIsual Studio\morecomplicatedproverki\obj\Debug\netcoreapp3.1\morecomplicatedproverki.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\morecomplicatedproverki\obj\Debug\netcoreapp3.1\morecomplicatedproverki.dll
+E:\VIsual Studio\morecomplicatedproverki\obj\Debug\netcoreapp3.1\morecomplicatedproverki.pdb
+E:\VIsual Studio\morecomplicatedproverki\obj\Debug\netcoreapp3.1\morecomplicatedproverki.genruntimeconfig.cache

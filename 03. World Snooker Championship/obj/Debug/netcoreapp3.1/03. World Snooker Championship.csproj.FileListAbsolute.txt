@@ -1,0 +1,14 @@
+E:\VIsual Studio\03. World Snooker Championship\bin\Debug\netcoreapp3.1\03. World Snooker Championship.exe
+E:\VIsual Studio\03. World Snooker Championship\bin\Debug\netcoreapp3.1\03. World Snooker Championship.deps.json
+E:\VIsual Studio\03. World Snooker Championship\bin\Debug\netcoreapp3.1\03. World Snooker Championship.runtimeconfig.json
+E:\VIsual Studio\03. World Snooker Championship\bin\Debug\netcoreapp3.1\03. World Snooker Championship.runtimeconfig.dev.json
+E:\VIsual Studio\03. World Snooker Championship\bin\Debug\netcoreapp3.1\03. World Snooker Championship.dll
+E:\VIsual Studio\03. World Snooker Championship\bin\Debug\netcoreapp3.1\03. World Snooker Championship.pdb
+E:\VIsual Studio\03. World Snooker Championship\obj\Debug\netcoreapp3.1\03. World Snooker Championship.csproj.AssemblyReference.cache
+E:\VIsual Studio\03. World Snooker Championship\obj\Debug\netcoreapp3.1\03. World Snooker Championship.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\03. World Snooker Championship\obj\Debug\netcoreapp3.1\03. World Snooker Championship.AssemblyInfoInputs.cache
+E:\VIsual Studio\03. World Snooker Championship\obj\Debug\netcoreapp3.1\03. World Snooker Championship.AssemblyInfo.cs
+E:\VIsual Studio\03. World Snooker Championship\obj\Debug\netcoreapp3.1\03. World Snooker Championship.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\03. World Snooker Championship\obj\Debug\netcoreapp3.1\03. World Snooker Championship.dll
+E:\VIsual Studio\03. World Snooker Championship\obj\Debug\netcoreapp3.1\03. World Snooker Championship.pdb
+E:\VIsual Studio\03. World Snooker Championship\obj\Debug\netcoreapp3.1\03. World Snooker Championship.genruntimeconfig.cache

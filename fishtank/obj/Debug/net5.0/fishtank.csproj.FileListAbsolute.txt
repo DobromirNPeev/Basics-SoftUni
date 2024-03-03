@@ -1,0 +1,16 @@
+E:\VIsual Studio\fishtank\bin\Debug\net5.0\fishtank.exe
+E:\VIsual Studio\fishtank\bin\Debug\net5.0\fishtank.deps.json
+E:\VIsual Studio\fishtank\bin\Debug\net5.0\fishtank.runtimeconfig.json
+E:\VIsual Studio\fishtank\bin\Debug\net5.0\fishtank.runtimeconfig.dev.json
+E:\VIsual Studio\fishtank\bin\Debug\net5.0\fishtank.dll
+E:\VIsual Studio\fishtank\bin\Debug\net5.0\ref\fishtank.dll
+E:\VIsual Studio\fishtank\bin\Debug\net5.0\fishtank.pdb
+E:\VIsual Studio\fishtank\obj\Debug\net5.0\fishtank.csproj.AssemblyReference.cache
+E:\VIsual Studio\fishtank\obj\Debug\net5.0\fishtank.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\fishtank\obj\Debug\net5.0\fishtank.AssemblyInfoInputs.cache
+E:\VIsual Studio\fishtank\obj\Debug\net5.0\fishtank.AssemblyInfo.cs
+E:\VIsual Studio\fishtank\obj\Debug\net5.0\fishtank.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\fishtank\obj\Debug\net5.0\fishtank.dll
+E:\VIsual Studio\fishtank\obj\Debug\net5.0\ref\fishtank.dll
+E:\VIsual Studio\fishtank\obj\Debug\net5.0\fishtank.pdb
+E:\VIsual Studio\fishtank\obj\Debug\net5.0\fishtank.genruntimeconfig.cache

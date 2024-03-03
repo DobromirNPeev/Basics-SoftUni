@@ -1,0 +1,14 @@
+E:\VIsual Studio\FootballLeague\bin\Debug\netcoreapp3.1\FootballLeague.exe
+E:\VIsual Studio\FootballLeague\bin\Debug\netcoreapp3.1\FootballLeague.deps.json
+E:\VIsual Studio\FootballLeague\bin\Debug\netcoreapp3.1\FootballLeague.runtimeconfig.json
+E:\VIsual Studio\FootballLeague\bin\Debug\netcoreapp3.1\FootballLeague.runtimeconfig.dev.json
+E:\VIsual Studio\FootballLeague\bin\Debug\netcoreapp3.1\FootballLeague.dll
+E:\VIsual Studio\FootballLeague\bin\Debug\netcoreapp3.1\FootballLeague.pdb
+E:\VIsual Studio\FootballLeague\obj\Debug\netcoreapp3.1\FootballLeague.csproj.AssemblyReference.cache
+E:\VIsual Studio\FootballLeague\obj\Debug\netcoreapp3.1\FootballLeague.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\FootballLeague\obj\Debug\netcoreapp3.1\FootballLeague.AssemblyInfoInputs.cache
+E:\VIsual Studio\FootballLeague\obj\Debug\netcoreapp3.1\FootballLeague.AssemblyInfo.cs
+E:\VIsual Studio\FootballLeague\obj\Debug\netcoreapp3.1\FootballLeague.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\FootballLeague\obj\Debug\netcoreapp3.1\FootballLeague.dll
+E:\VIsual Studio\FootballLeague\obj\Debug\netcoreapp3.1\FootballLeague.pdb
+E:\VIsual Studio\FootballLeague\obj\Debug\netcoreapp3.1\FootballLeague.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "zadulliteratura/1.0.0": {
+        "runtime": {
+          "zadulliteratura.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "zadulliteratura/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

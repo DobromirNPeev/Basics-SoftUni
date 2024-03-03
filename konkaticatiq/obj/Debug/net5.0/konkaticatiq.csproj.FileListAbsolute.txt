@@ -1,0 +1,15 @@
+E:\VIsual Studio\konkaticatiq\konkaticatiq\obj\Debug\net5.0\konkaticatiq.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\konkaticatiq\konkaticatiq\obj\Debug\net5.0\konkaticatiq.AssemblyInfoInputs.cache
+E:\VIsual Studio\konkaticatiq\konkaticatiq\obj\Debug\net5.0\konkaticatiq.AssemblyInfo.cs
+E:\VIsual Studio\konkaticatiq\konkaticatiq\obj\Debug\net5.0\konkaticatiq.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\konkaticatiq\konkaticatiq\bin\Debug\net5.0\konkaticatiq.exe
+E:\VIsual Studio\konkaticatiq\konkaticatiq\bin\Debug\net5.0\konkaticatiq.deps.json
+E:\VIsual Studio\konkaticatiq\konkaticatiq\bin\Debug\net5.0\konkaticatiq.runtimeconfig.json
+E:\VIsual Studio\konkaticatiq\konkaticatiq\bin\Debug\net5.0\konkaticatiq.runtimeconfig.dev.json
+E:\VIsual Studio\konkaticatiq\konkaticatiq\bin\Debug\net5.0\konkaticatiq.dll
+E:\VIsual Studio\konkaticatiq\konkaticatiq\bin\Debug\net5.0\ref\konkaticatiq.dll
+E:\VIsual Studio\konkaticatiq\konkaticatiq\bin\Debug\net5.0\konkaticatiq.pdb
+E:\VIsual Studio\konkaticatiq\konkaticatiq\obj\Debug\net5.0\konkaticatiq.dll
+E:\VIsual Studio\konkaticatiq\konkaticatiq\obj\Debug\net5.0\ref\konkaticatiq.dll
+E:\VIsual Studio\konkaticatiq\konkaticatiq\obj\Debug\net5.0\konkaticatiq.pdb
+E:\VIsual Studio\konkaticatiq\konkaticatiq\obj\Debug\net5.0\konkaticatiq.genruntimeconfig.cache

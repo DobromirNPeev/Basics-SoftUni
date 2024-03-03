@@ -1,0 +1,14 @@
+E:\VIsual Studio\02. AND Processors\bin\Debug\netcoreapp3.1\02. AND Processors.exe
+E:\VIsual Studio\02. AND Processors\bin\Debug\netcoreapp3.1\02. AND Processors.deps.json
+E:\VIsual Studio\02. AND Processors\bin\Debug\netcoreapp3.1\02. AND Processors.runtimeconfig.json
+E:\VIsual Studio\02. AND Processors\bin\Debug\netcoreapp3.1\02. AND Processors.runtimeconfig.dev.json
+E:\VIsual Studio\02. AND Processors\bin\Debug\netcoreapp3.1\02. AND Processors.dll
+E:\VIsual Studio\02. AND Processors\bin\Debug\netcoreapp3.1\02. AND Processors.pdb
+E:\VIsual Studio\02. AND Processors\obj\Debug\netcoreapp3.1\02. AND Processors.csproj.AssemblyReference.cache
+E:\VIsual Studio\02. AND Processors\obj\Debug\netcoreapp3.1\02. AND Processors.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\02. AND Processors\obj\Debug\netcoreapp3.1\02. AND Processors.AssemblyInfoInputs.cache
+E:\VIsual Studio\02. AND Processors\obj\Debug\netcoreapp3.1\02. AND Processors.AssemblyInfo.cs
+E:\VIsual Studio\02. AND Processors\obj\Debug\netcoreapp3.1\02. AND Processors.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\02. AND Processors\obj\Debug\netcoreapp3.1\02. AND Processors.dll
+E:\VIsual Studio\02. AND Processors\obj\Debug\netcoreapp3.1\02. AND Processors.pdb
+E:\VIsual Studio\02. AND Processors\obj\Debug\netcoreapp3.1\02. AND Processors.genruntimeconfig.cache

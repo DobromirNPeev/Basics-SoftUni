@@ -1,0 +1,13 @@
+E:\VIsual Studio\biletzakino\bin\Debug\netcoreapp3.1\biletzakino.exe
+E:\VIsual Studio\biletzakino\bin\Debug\netcoreapp3.1\biletzakino.deps.json
+E:\VIsual Studio\biletzakino\bin\Debug\netcoreapp3.1\biletzakino.runtimeconfig.json
+E:\VIsual Studio\biletzakino\bin\Debug\netcoreapp3.1\biletzakino.runtimeconfig.dev.json
+E:\VIsual Studio\biletzakino\bin\Debug\netcoreapp3.1\biletzakino.dll
+E:\VIsual Studio\biletzakino\bin\Debug\netcoreapp3.1\biletzakino.pdb
+E:\VIsual Studio\biletzakino\obj\Debug\netcoreapp3.1\biletzakino.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\biletzakino\obj\Debug\netcoreapp3.1\biletzakino.AssemblyInfoInputs.cache
+E:\VIsual Studio\biletzakino\obj\Debug\netcoreapp3.1\biletzakino.AssemblyInfo.cs
+E:\VIsual Studio\biletzakino\obj\Debug\netcoreapp3.1\biletzakino.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\biletzakino\obj\Debug\netcoreapp3.1\biletzakino.dll
+E:\VIsual Studio\biletzakino\obj\Debug\netcoreapp3.1\biletzakino.pdb
+E:\VIsual Studio\biletzakino\obj\Debug\netcoreapp3.1\biletzakino.genruntimeconfig.cache

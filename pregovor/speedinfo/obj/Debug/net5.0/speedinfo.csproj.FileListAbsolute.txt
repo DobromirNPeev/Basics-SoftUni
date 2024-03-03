@@ -1,0 +1,15 @@
+E:\VIsual Studio\pregovor\speedinfo\bin\Debug\net5.0\speedinfo.exe
+E:\VIsual Studio\pregovor\speedinfo\bin\Debug\net5.0\speedinfo.deps.json
+E:\VIsual Studio\pregovor\speedinfo\bin\Debug\net5.0\speedinfo.runtimeconfig.json
+E:\VIsual Studio\pregovor\speedinfo\bin\Debug\net5.0\speedinfo.runtimeconfig.dev.json
+E:\VIsual Studio\pregovor\speedinfo\bin\Debug\net5.0\speedinfo.dll
+E:\VIsual Studio\pregovor\speedinfo\bin\Debug\net5.0\ref\speedinfo.dll
+E:\VIsual Studio\pregovor\speedinfo\bin\Debug\net5.0\speedinfo.pdb
+E:\VIsual Studio\pregovor\speedinfo\obj\Debug\net5.0\speedinfo.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\pregovor\speedinfo\obj\Debug\net5.0\speedinfo.AssemblyInfoInputs.cache
+E:\VIsual Studio\pregovor\speedinfo\obj\Debug\net5.0\speedinfo.AssemblyInfo.cs
+E:\VIsual Studio\pregovor\speedinfo\obj\Debug\net5.0\speedinfo.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\pregovor\speedinfo\obj\Debug\net5.0\speedinfo.dll
+E:\VIsual Studio\pregovor\speedinfo\obj\Debug\net5.0\ref\speedinfo.dll
+E:\VIsual Studio\pregovor\speedinfo\obj\Debug\net5.0\speedinfo.pdb
+E:\VIsual Studio\pregovor\speedinfo\obj\Debug\net5.0\speedinfo.genruntimeconfig.cache

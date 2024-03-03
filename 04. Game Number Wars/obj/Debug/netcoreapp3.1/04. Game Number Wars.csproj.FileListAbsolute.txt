@@ -1,0 +1,14 @@
+E:\VIsual Studio\04. Game Number Wars\bin\Debug\netcoreapp3.1\04. Game Number Wars.exe
+E:\VIsual Studio\04. Game Number Wars\bin\Debug\netcoreapp3.1\04. Game Number Wars.deps.json
+E:\VIsual Studio\04. Game Number Wars\bin\Debug\netcoreapp3.1\04. Game Number Wars.runtimeconfig.json
+E:\VIsual Studio\04. Game Number Wars\bin\Debug\netcoreapp3.1\04. Game Number Wars.runtimeconfig.dev.json
+E:\VIsual Studio\04. Game Number Wars\bin\Debug\netcoreapp3.1\04. Game Number Wars.dll
+E:\VIsual Studio\04. Game Number Wars\bin\Debug\netcoreapp3.1\04. Game Number Wars.pdb
+E:\VIsual Studio\04. Game Number Wars\obj\Debug\netcoreapp3.1\04. Game Number Wars.csproj.AssemblyReference.cache
+E:\VIsual Studio\04. Game Number Wars\obj\Debug\netcoreapp3.1\04. Game Number Wars.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\04. Game Number Wars\obj\Debug\netcoreapp3.1\04. Game Number Wars.AssemblyInfoInputs.cache
+E:\VIsual Studio\04. Game Number Wars\obj\Debug\netcoreapp3.1\04. Game Number Wars.AssemblyInfo.cs
+E:\VIsual Studio\04. Game Number Wars\obj\Debug\netcoreapp3.1\04. Game Number Wars.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\04. Game Number Wars\obj\Debug\netcoreapp3.1\04. Game Number Wars.dll
+E:\VIsual Studio\04. Game Number Wars\obj\Debug\netcoreapp3.1\04. Game Number Wars.pdb
+E:\VIsual Studio\04. Game Number Wars\obj\Debug\netcoreapp3.1\04. Game Number Wars.genruntimeconfig.cache

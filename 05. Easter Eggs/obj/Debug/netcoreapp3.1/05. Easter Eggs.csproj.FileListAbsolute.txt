@@ -1,0 +1,13 @@
+E:\05. Easter Eggs\bin\Debug\netcoreapp3.1\05. Easter Eggs.exe
+E:\05. Easter Eggs\bin\Debug\netcoreapp3.1\05. Easter Eggs.deps.json
+E:\05. Easter Eggs\bin\Debug\netcoreapp3.1\05. Easter Eggs.runtimeconfig.json
+E:\05. Easter Eggs\bin\Debug\netcoreapp3.1\05. Easter Eggs.runtimeconfig.dev.json
+E:\05. Easter Eggs\bin\Debug\netcoreapp3.1\05. Easter Eggs.dll
+E:\05. Easter Eggs\bin\Debug\netcoreapp3.1\05. Easter Eggs.pdb
+E:\05. Easter Eggs\obj\Debug\netcoreapp3.1\05. Easter Eggs.GeneratedMSBuildEditorConfig.editorconfig
+E:\05. Easter Eggs\obj\Debug\netcoreapp3.1\05. Easter Eggs.AssemblyInfoInputs.cache
+E:\05. Easter Eggs\obj\Debug\netcoreapp3.1\05. Easter Eggs.AssemblyInfo.cs
+E:\05. Easter Eggs\obj\Debug\netcoreapp3.1\05. Easter Eggs.csproj.CoreCompileInputs.cache
+E:\05. Easter Eggs\obj\Debug\netcoreapp3.1\05. Easter Eggs.dll
+E:\05. Easter Eggs\obj\Debug\netcoreapp3.1\05. Easter Eggs.pdb
+E:\05. Easter Eggs\obj\Debug\netcoreapp3.1\05. Easter Eggs.genruntimeconfig.cache

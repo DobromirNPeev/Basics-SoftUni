@@ -1,0 +1,14 @@
+E:\VIsual Studio\evenpowersof2\bin\Debug\netcoreapp3.1\evenpowersof2.exe
+E:\VIsual Studio\evenpowersof2\bin\Debug\netcoreapp3.1\evenpowersof2.deps.json
+E:\VIsual Studio\evenpowersof2\bin\Debug\netcoreapp3.1\evenpowersof2.runtimeconfig.json
+E:\VIsual Studio\evenpowersof2\bin\Debug\netcoreapp3.1\evenpowersof2.runtimeconfig.dev.json
+E:\VIsual Studio\evenpowersof2\bin\Debug\netcoreapp3.1\evenpowersof2.dll
+E:\VIsual Studio\evenpowersof2\bin\Debug\netcoreapp3.1\evenpowersof2.pdb
+E:\VIsual Studio\evenpowersof2\obj\Debug\netcoreapp3.1\evenpowersof2.csproj.AssemblyReference.cache
+E:\VIsual Studio\evenpowersof2\obj\Debug\netcoreapp3.1\evenpowersof2.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\evenpowersof2\obj\Debug\netcoreapp3.1\evenpowersof2.AssemblyInfoInputs.cache
+E:\VIsual Studio\evenpowersof2\obj\Debug\netcoreapp3.1\evenpowersof2.AssemblyInfo.cs
+E:\VIsual Studio\evenpowersof2\obj\Debug\netcoreapp3.1\evenpowersof2.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\evenpowersof2\obj\Debug\netcoreapp3.1\evenpowersof2.dll
+E:\VIsual Studio\evenpowersof2\obj\Debug\netcoreapp3.1\evenpowersof2.pdb
+E:\VIsual Studio\evenpowersof2\obj\Debug\netcoreapp3.1\evenpowersof2.genruntimeconfig.cache

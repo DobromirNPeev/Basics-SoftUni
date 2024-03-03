@@ -1,0 +1,13 @@
+E:\05. Challenge the Wedding\bin\Debug\netcoreapp3.1\05. Challenge the Wedding.exe
+E:\05. Challenge the Wedding\bin\Debug\netcoreapp3.1\05. Challenge the Wedding.deps.json
+E:\05. Challenge the Wedding\bin\Debug\netcoreapp3.1\05. Challenge the Wedding.runtimeconfig.json
+E:\05. Challenge the Wedding\bin\Debug\netcoreapp3.1\05. Challenge the Wedding.runtimeconfig.dev.json
+E:\05. Challenge the Wedding\bin\Debug\netcoreapp3.1\05. Challenge the Wedding.dll
+E:\05. Challenge the Wedding\bin\Debug\netcoreapp3.1\05. Challenge the Wedding.pdb
+E:\05. Challenge the Wedding\obj\Debug\netcoreapp3.1\05. Challenge the Wedding.GeneratedMSBuildEditorConfig.editorconfig
+E:\05. Challenge the Wedding\obj\Debug\netcoreapp3.1\05. Challenge the Wedding.AssemblyInfoInputs.cache
+E:\05. Challenge the Wedding\obj\Debug\netcoreapp3.1\05. Challenge the Wedding.AssemblyInfo.cs
+E:\05. Challenge the Wedding\obj\Debug\netcoreapp3.1\05. Challenge the Wedding.csproj.CoreCompileInputs.cache
+E:\05. Challenge the Wedding\obj\Debug\netcoreapp3.1\05. Challenge the Wedding.dll
+E:\05. Challenge the Wedding\obj\Debug\netcoreapp3.1\05. Challenge the Wedding.pdb
+E:\05. Challenge the Wedding\obj\Debug\netcoreapp3.1\05. Challenge the Wedding.genruntimeconfig.cache

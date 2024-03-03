@@ -1,0 +1,14 @@
+E:\VIsual Studio\Balls\bin\Debug\netcoreapp3.1\Balls.exe
+E:\VIsual Studio\Balls\bin\Debug\netcoreapp3.1\Balls.deps.json
+E:\VIsual Studio\Balls\bin\Debug\netcoreapp3.1\Balls.runtimeconfig.json
+E:\VIsual Studio\Balls\bin\Debug\netcoreapp3.1\Balls.runtimeconfig.dev.json
+E:\VIsual Studio\Balls\bin\Debug\netcoreapp3.1\Balls.dll
+E:\VIsual Studio\Balls\bin\Debug\netcoreapp3.1\Balls.pdb
+E:\VIsual Studio\Balls\obj\Debug\netcoreapp3.1\Balls.csproj.AssemblyReference.cache
+E:\VIsual Studio\Balls\obj\Debug\netcoreapp3.1\Balls.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Balls\obj\Debug\netcoreapp3.1\Balls.AssemblyInfoInputs.cache
+E:\VIsual Studio\Balls\obj\Debug\netcoreapp3.1\Balls.AssemblyInfo.cs
+E:\VIsual Studio\Balls\obj\Debug\netcoreapp3.1\Balls.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Balls\obj\Debug\netcoreapp3.1\Balls.dll
+E:\VIsual Studio\Balls\obj\Debug\netcoreapp3.1\Balls.pdb
+E:\VIsual Studio\Balls\obj\Debug\netcoreapp3.1\Balls.genruntimeconfig.cache

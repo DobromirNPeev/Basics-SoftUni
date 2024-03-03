@@ -1,0 +1,13 @@
+E:\VIsual Studio\MinNumber\bin\Debug\netcoreapp3.1\MinNumber.exe
+E:\VIsual Studio\MinNumber\bin\Debug\netcoreapp3.1\MinNumber.deps.json
+E:\VIsual Studio\MinNumber\bin\Debug\netcoreapp3.1\MinNumber.runtimeconfig.json
+E:\VIsual Studio\MinNumber\bin\Debug\netcoreapp3.1\MinNumber.runtimeconfig.dev.json
+E:\VIsual Studio\MinNumber\bin\Debug\netcoreapp3.1\MinNumber.dll
+E:\VIsual Studio\MinNumber\bin\Debug\netcoreapp3.1\MinNumber.pdb
+E:\VIsual Studio\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.AssemblyInfoInputs.cache
+E:\VIsual Studio\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.AssemblyInfo.cs
+E:\VIsual Studio\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.dll
+E:\VIsual Studio\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.pdb
+E:\VIsual Studio\MinNumber\obj\Debug\netcoreapp3.1\MinNumber.genruntimeconfig.cache

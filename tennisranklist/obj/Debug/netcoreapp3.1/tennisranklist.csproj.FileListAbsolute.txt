@@ -1,0 +1,14 @@
+E:\VIsual Studio\tennisranklist\bin\Debug\netcoreapp3.1\tennisranklist.exe
+E:\VIsual Studio\tennisranklist\bin\Debug\netcoreapp3.1\tennisranklist.deps.json
+E:\VIsual Studio\tennisranklist\bin\Debug\netcoreapp3.1\tennisranklist.runtimeconfig.json
+E:\VIsual Studio\tennisranklist\bin\Debug\netcoreapp3.1\tennisranklist.runtimeconfig.dev.json
+E:\VIsual Studio\tennisranklist\bin\Debug\netcoreapp3.1\tennisranklist.dll
+E:\VIsual Studio\tennisranklist\bin\Debug\netcoreapp3.1\tennisranklist.pdb
+E:\VIsual Studio\tennisranklist\obj\Debug\netcoreapp3.1\tennisranklist.csproj.AssemblyReference.cache
+E:\VIsual Studio\tennisranklist\obj\Debug\netcoreapp3.1\tennisranklist.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\tennisranklist\obj\Debug\netcoreapp3.1\tennisranklist.AssemblyInfoInputs.cache
+E:\VIsual Studio\tennisranklist\obj\Debug\netcoreapp3.1\tennisranklist.AssemblyInfo.cs
+E:\VIsual Studio\tennisranklist\obj\Debug\netcoreapp3.1\tennisranklist.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\tennisranklist\obj\Debug\netcoreapp3.1\tennisranklist.dll
+E:\VIsual Studio\tennisranklist\obj\Debug\netcoreapp3.1\tennisranklist.pdb
+E:\VIsual Studio\tennisranklist\obj\Debug\netcoreapp3.1\tennisranklist.genruntimeconfig.cache

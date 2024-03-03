@@ -1,0 +1,13 @@
+E:\VIsual Studio\numbersequence\bin\Debug\netcoreapp3.1\numbersequence.exe
+E:\VIsual Studio\numbersequence\bin\Debug\netcoreapp3.1\numbersequence.deps.json
+E:\VIsual Studio\numbersequence\bin\Debug\netcoreapp3.1\numbersequence.runtimeconfig.json
+E:\VIsual Studio\numbersequence\bin\Debug\netcoreapp3.1\numbersequence.runtimeconfig.dev.json
+E:\VIsual Studio\numbersequence\bin\Debug\netcoreapp3.1\numbersequence.dll
+E:\VIsual Studio\numbersequence\bin\Debug\netcoreapp3.1\numbersequence.pdb
+E:\VIsual Studio\numbersequence\obj\Debug\netcoreapp3.1\numbersequence.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\numbersequence\obj\Debug\netcoreapp3.1\numbersequence.AssemblyInfoInputs.cache
+E:\VIsual Studio\numbersequence\obj\Debug\netcoreapp3.1\numbersequence.AssemblyInfo.cs
+E:\VIsual Studio\numbersequence\obj\Debug\netcoreapp3.1\numbersequence.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\numbersequence\obj\Debug\netcoreapp3.1\numbersequence.dll
+E:\VIsual Studio\numbersequence\obj\Debug\netcoreapp3.1\numbersequence.pdb
+E:\VIsual Studio\numbersequence\obj\Debug\netcoreapp3.1\numbersequence.genruntimeconfig.cache

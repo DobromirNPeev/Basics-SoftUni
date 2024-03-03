@@ -1,0 +1,14 @@
+E:\VIsual Studio\vegorfruit\obj\Debug\netcoreapp3.1\vegorfruit.csproj.AssemblyReference.cache
+E:\VIsual Studio\vegorfruit\obj\Debug\netcoreapp3.1\vegorfruit.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\vegorfruit\obj\Debug\netcoreapp3.1\vegorfruit.AssemblyInfoInputs.cache
+E:\VIsual Studio\vegorfruit\obj\Debug\netcoreapp3.1\vegorfruit.AssemblyInfo.cs
+E:\VIsual Studio\vegorfruit\obj\Debug\netcoreapp3.1\vegorfruit.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\vegorfruit\bin\Debug\netcoreapp3.1\vegorfruit.exe
+E:\VIsual Studio\vegorfruit\bin\Debug\netcoreapp3.1\vegorfruit.deps.json
+E:\VIsual Studio\vegorfruit\bin\Debug\netcoreapp3.1\vegorfruit.runtimeconfig.json
+E:\VIsual Studio\vegorfruit\bin\Debug\netcoreapp3.1\vegorfruit.runtimeconfig.dev.json
+E:\VIsual Studio\vegorfruit\bin\Debug\netcoreapp3.1\vegorfruit.dll
+E:\VIsual Studio\vegorfruit\bin\Debug\netcoreapp3.1\vegorfruit.pdb
+E:\VIsual Studio\vegorfruit\obj\Debug\netcoreapp3.1\vegorfruit.dll
+E:\VIsual Studio\vegorfruit\obj\Debug\netcoreapp3.1\vegorfruit.pdb
+E:\VIsual Studio\vegorfruit\obj\Debug\netcoreapp3.1\vegorfruit.genruntimeconfig.cache

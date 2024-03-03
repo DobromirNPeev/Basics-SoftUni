@@ -1,0 +1,16 @@
+E:\VIsual Studio\pregovor\excellentresult\bin\Debug\net5.0\excellentresult.exe
+E:\VIsual Studio\pregovor\excellentresult\bin\Debug\net5.0\excellentresult.deps.json
+E:\VIsual Studio\pregovor\excellentresult\bin\Debug\net5.0\excellentresult.runtimeconfig.json
+E:\VIsual Studio\pregovor\excellentresult\bin\Debug\net5.0\excellentresult.runtimeconfig.dev.json
+E:\VIsual Studio\pregovor\excellentresult\bin\Debug\net5.0\excellentresult.dll
+E:\VIsual Studio\pregovor\excellentresult\bin\Debug\net5.0\ref\excellentresult.dll
+E:\VIsual Studio\pregovor\excellentresult\bin\Debug\net5.0\excellentresult.pdb
+E:\VIsual Studio\pregovor\excellentresult\obj\Debug\net5.0\excellentresult.csproj.AssemblyReference.cache
+E:\VIsual Studio\pregovor\excellentresult\obj\Debug\net5.0\excellentresult.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\pregovor\excellentresult\obj\Debug\net5.0\excellentresult.AssemblyInfoInputs.cache
+E:\VIsual Studio\pregovor\excellentresult\obj\Debug\net5.0\excellentresult.AssemblyInfo.cs
+E:\VIsual Studio\pregovor\excellentresult\obj\Debug\net5.0\excellentresult.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\pregovor\excellentresult\obj\Debug\net5.0\excellentresult.dll
+E:\VIsual Studio\pregovor\excellentresult\obj\Debug\net5.0\ref\excellentresult.dll
+E:\VIsual Studio\pregovor\excellentresult\obj\Debug\net5.0\excellentresult.pdb
+E:\VIsual Studio\pregovor\excellentresult\obj\Debug\net5.0\excellentresult.genruntimeconfig.cache

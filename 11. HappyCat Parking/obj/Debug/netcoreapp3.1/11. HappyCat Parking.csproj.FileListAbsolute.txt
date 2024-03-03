@@ -1,0 +1,14 @@
+E:\11. HappyCat Parking\obj\Debug\netcoreapp3.1\11. HappyCat Parking.csproj.AssemblyReference.cache
+E:\11. HappyCat Parking\obj\Debug\netcoreapp3.1\11. HappyCat Parking.GeneratedMSBuildEditorConfig.editorconfig
+E:\11. HappyCat Parking\obj\Debug\netcoreapp3.1\11. HappyCat Parking.AssemblyInfoInputs.cache
+E:\11. HappyCat Parking\obj\Debug\netcoreapp3.1\11. HappyCat Parking.AssemblyInfo.cs
+E:\11. HappyCat Parking\obj\Debug\netcoreapp3.1\11. HappyCat Parking.csproj.CoreCompileInputs.cache
+E:\11. HappyCat Parking\bin\Debug\netcoreapp3.1\11. HappyCat Parking.exe
+E:\11. HappyCat Parking\bin\Debug\netcoreapp3.1\11. HappyCat Parking.deps.json
+E:\11. HappyCat Parking\bin\Debug\netcoreapp3.1\11. HappyCat Parking.runtimeconfig.json
+E:\11. HappyCat Parking\bin\Debug\netcoreapp3.1\11. HappyCat Parking.runtimeconfig.dev.json
+E:\11. HappyCat Parking\bin\Debug\netcoreapp3.1\11. HappyCat Parking.dll
+E:\11. HappyCat Parking\bin\Debug\netcoreapp3.1\11. HappyCat Parking.pdb
+E:\11. HappyCat Parking\obj\Debug\netcoreapp3.1\11. HappyCat Parking.dll
+E:\11. HappyCat Parking\obj\Debug\netcoreapp3.1\11. HappyCat Parking.pdb
+E:\11. HappyCat Parking\obj\Debug\netcoreapp3.1\11. HappyCat Parking.genruntimeconfig.cache

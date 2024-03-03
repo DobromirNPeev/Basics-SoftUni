@@ -1,0 +1,13 @@
+E:\VIsual Studio\PointOnRectangleBorder\bin\Debug\netcoreapp3.1\PointOnRectangleBorder.exe
+E:\VIsual Studio\PointOnRectangleBorder\bin\Debug\netcoreapp3.1\PointOnRectangleBorder.deps.json
+E:\VIsual Studio\PointOnRectangleBorder\bin\Debug\netcoreapp3.1\PointOnRectangleBorder.runtimeconfig.json
+E:\VIsual Studio\PointOnRectangleBorder\bin\Debug\netcoreapp3.1\PointOnRectangleBorder.runtimeconfig.dev.json
+E:\VIsual Studio\PointOnRectangleBorder\bin\Debug\netcoreapp3.1\PointOnRectangleBorder.dll
+E:\VIsual Studio\PointOnRectangleBorder\bin\Debug\netcoreapp3.1\PointOnRectangleBorder.pdb
+E:\VIsual Studio\PointOnRectangleBorder\obj\Debug\netcoreapp3.1\PointOnRectangleBorder.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\PointOnRectangleBorder\obj\Debug\netcoreapp3.1\PointOnRectangleBorder.AssemblyInfoInputs.cache
+E:\VIsual Studio\PointOnRectangleBorder\obj\Debug\netcoreapp3.1\PointOnRectangleBorder.AssemblyInfo.cs
+E:\VIsual Studio\PointOnRectangleBorder\obj\Debug\netcoreapp3.1\PointOnRectangleBorder.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\PointOnRectangleBorder\obj\Debug\netcoreapp3.1\PointOnRectangleBorder.dll
+E:\VIsual Studio\PointOnRectangleBorder\obj\Debug\netcoreapp3.1\PointOnRectangleBorder.pdb
+E:\VIsual Studio\PointOnRectangleBorder\obj\Debug\netcoreapp3.1\PointOnRectangleBorder.genruntimeconfig.cache

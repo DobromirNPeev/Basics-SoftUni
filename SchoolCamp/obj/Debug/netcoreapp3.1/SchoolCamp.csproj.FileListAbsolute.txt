@@ -1,0 +1,14 @@
+E:\VIsual Studio\SchoolCamp\bin\Debug\netcoreapp3.1\SchoolCamp.exe
+E:\VIsual Studio\SchoolCamp\bin\Debug\netcoreapp3.1\SchoolCamp.deps.json
+E:\VIsual Studio\SchoolCamp\bin\Debug\netcoreapp3.1\SchoolCamp.runtimeconfig.json
+E:\VIsual Studio\SchoolCamp\bin\Debug\netcoreapp3.1\SchoolCamp.runtimeconfig.dev.json
+E:\VIsual Studio\SchoolCamp\bin\Debug\netcoreapp3.1\SchoolCamp.dll
+E:\VIsual Studio\SchoolCamp\bin\Debug\netcoreapp3.1\SchoolCamp.pdb
+E:\VIsual Studio\SchoolCamp\obj\Debug\netcoreapp3.1\SchoolCamp.csproj.AssemblyReference.cache
+E:\VIsual Studio\SchoolCamp\obj\Debug\netcoreapp3.1\SchoolCamp.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\SchoolCamp\obj\Debug\netcoreapp3.1\SchoolCamp.AssemblyInfoInputs.cache
+E:\VIsual Studio\SchoolCamp\obj\Debug\netcoreapp3.1\SchoolCamp.AssemblyInfo.cs
+E:\VIsual Studio\SchoolCamp\obj\Debug\netcoreapp3.1\SchoolCamp.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\SchoolCamp\obj\Debug\netcoreapp3.1\SchoolCamp.dll
+E:\VIsual Studio\SchoolCamp\obj\Debug\netcoreapp3.1\SchoolCamp.pdb
+E:\VIsual Studio\SchoolCamp\obj\Debug\netcoreapp3.1\SchoolCamp.genruntimeconfig.cache

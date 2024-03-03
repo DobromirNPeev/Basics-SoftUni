@@ -1,0 +1,14 @@
+E:\VIsual Studio\summeroutfit\obj\Debug\netcoreapp3.1\summeroutfit.csproj.AssemblyReference.cache
+E:\VIsual Studio\summeroutfit\obj\Debug\netcoreapp3.1\summeroutfit.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\summeroutfit\obj\Debug\netcoreapp3.1\summeroutfit.AssemblyInfoInputs.cache
+E:\VIsual Studio\summeroutfit\obj\Debug\netcoreapp3.1\summeroutfit.AssemblyInfo.cs
+E:\VIsual Studio\summeroutfit\obj\Debug\netcoreapp3.1\summeroutfit.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\summeroutfit\bin\Debug\netcoreapp3.1\summeroutfit.exe
+E:\VIsual Studio\summeroutfit\bin\Debug\netcoreapp3.1\summeroutfit.deps.json
+E:\VIsual Studio\summeroutfit\bin\Debug\netcoreapp3.1\summeroutfit.runtimeconfig.json
+E:\VIsual Studio\summeroutfit\bin\Debug\netcoreapp3.1\summeroutfit.runtimeconfig.dev.json
+E:\VIsual Studio\summeroutfit\bin\Debug\netcoreapp3.1\summeroutfit.dll
+E:\VIsual Studio\summeroutfit\bin\Debug\netcoreapp3.1\summeroutfit.pdb
+E:\VIsual Studio\summeroutfit\obj\Debug\netcoreapp3.1\summeroutfit.dll
+E:\VIsual Studio\summeroutfit\obj\Debug\netcoreapp3.1\summeroutfit.pdb
+E:\VIsual Studio\summeroutfit\obj\Debug\netcoreapp3.1\summeroutfit.genruntimeconfig.cache

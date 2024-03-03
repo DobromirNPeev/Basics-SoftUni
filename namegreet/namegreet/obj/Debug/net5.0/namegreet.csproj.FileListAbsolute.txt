@@ -1,0 +1,15 @@
+E:\VIsual Studio\namegreet\namegreet\bin\Debug\net5.0\namegreet.exe
+E:\VIsual Studio\namegreet\namegreet\bin\Debug\net5.0\namegreet.deps.json
+E:\VIsual Studio\namegreet\namegreet\bin\Debug\net5.0\namegreet.runtimeconfig.json
+E:\VIsual Studio\namegreet\namegreet\bin\Debug\net5.0\namegreet.runtimeconfig.dev.json
+E:\VIsual Studio\namegreet\namegreet\bin\Debug\net5.0\namegreet.dll
+E:\VIsual Studio\namegreet\namegreet\bin\Debug\net5.0\ref\namegreet.dll
+E:\VIsual Studio\namegreet\namegreet\bin\Debug\net5.0\namegreet.pdb
+E:\VIsual Studio\namegreet\namegreet\obj\Debug\net5.0\namegreet.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\namegreet\namegreet\obj\Debug\net5.0\namegreet.AssemblyInfoInputs.cache
+E:\VIsual Studio\namegreet\namegreet\obj\Debug\net5.0\namegreet.AssemblyInfo.cs
+E:\VIsual Studio\namegreet\namegreet\obj\Debug\net5.0\namegreet.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\namegreet\namegreet\obj\Debug\net5.0\namegreet.dll
+E:\VIsual Studio\namegreet\namegreet\obj\Debug\net5.0\ref\namegreet.dll
+E:\VIsual Studio\namegreet\namegreet\obj\Debug\net5.0\namegreet.pdb
+E:\VIsual Studio\namegreet\namegreet\obj\Debug\net5.0\namegreet.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\VIsual Studio\AverageNumber\bin\Debug\netcoreapp3.1\AverageNumber.exe
+E:\VIsual Studio\AverageNumber\bin\Debug\netcoreapp3.1\AverageNumber.deps.json
+E:\VIsual Studio\AverageNumber\bin\Debug\netcoreapp3.1\AverageNumber.runtimeconfig.json
+E:\VIsual Studio\AverageNumber\bin\Debug\netcoreapp3.1\AverageNumber.runtimeconfig.dev.json
+E:\VIsual Studio\AverageNumber\bin\Debug\netcoreapp3.1\AverageNumber.dll
+E:\VIsual Studio\AverageNumber\bin\Debug\netcoreapp3.1\AverageNumber.pdb
+E:\VIsual Studio\AverageNumber\obj\Debug\netcoreapp3.1\AverageNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\AverageNumber\obj\Debug\netcoreapp3.1\AverageNumber.AssemblyInfoInputs.cache
+E:\VIsual Studio\AverageNumber\obj\Debug\netcoreapp3.1\AverageNumber.AssemblyInfo.cs
+E:\VIsual Studio\AverageNumber\obj\Debug\netcoreapp3.1\AverageNumber.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\AverageNumber\obj\Debug\netcoreapp3.1\AverageNumber.dll
+E:\VIsual Studio\AverageNumber\obj\Debug\netcoreapp3.1\AverageNumber.pdb
+E:\VIsual Studio\AverageNumber\obj\Debug\netcoreapp3.1\AverageNumber.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\VIsual Studio\AluminumJoinery\bin\Debug\netcoreapp3.1\AluminumJoinery.exe
+E:\VIsual Studio\AluminumJoinery\bin\Debug\netcoreapp3.1\AluminumJoinery.deps.json
+E:\VIsual Studio\AluminumJoinery\bin\Debug\netcoreapp3.1\AluminumJoinery.runtimeconfig.json
+E:\VIsual Studio\AluminumJoinery\bin\Debug\netcoreapp3.1\AluminumJoinery.runtimeconfig.dev.json
+E:\VIsual Studio\AluminumJoinery\bin\Debug\netcoreapp3.1\AluminumJoinery.dll
+E:\VIsual Studio\AluminumJoinery\bin\Debug\netcoreapp3.1\AluminumJoinery.pdb
+E:\VIsual Studio\AluminumJoinery\obj\Debug\netcoreapp3.1\AluminumJoinery.csproj.AssemblyReference.cache
+E:\VIsual Studio\AluminumJoinery\obj\Debug\netcoreapp3.1\AluminumJoinery.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\AluminumJoinery\obj\Debug\netcoreapp3.1\AluminumJoinery.AssemblyInfoInputs.cache
+E:\VIsual Studio\AluminumJoinery\obj\Debug\netcoreapp3.1\AluminumJoinery.AssemblyInfo.cs
+E:\VIsual Studio\AluminumJoinery\obj\Debug\netcoreapp3.1\AluminumJoinery.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\AluminumJoinery\obj\Debug\netcoreapp3.1\AluminumJoinery.dll
+E:\VIsual Studio\AluminumJoinery\obj\Debug\netcoreapp3.1\AluminumJoinery.pdb
+E:\VIsual Studio\AluminumJoinery\obj\Debug\netcoreapp3.1\AluminumJoinery.genruntimeconfig.cache

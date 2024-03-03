@@ -1,0 +1,14 @@
+E:\VIsual Studio\tradecomission\bin\Debug\netcoreapp3.1\tradecomission.exe
+E:\VIsual Studio\tradecomission\bin\Debug\netcoreapp3.1\tradecomission.deps.json
+E:\VIsual Studio\tradecomission\bin\Debug\netcoreapp3.1\tradecomission.runtimeconfig.json
+E:\VIsual Studio\tradecomission\bin\Debug\netcoreapp3.1\tradecomission.runtimeconfig.dev.json
+E:\VIsual Studio\tradecomission\bin\Debug\netcoreapp3.1\tradecomission.dll
+E:\VIsual Studio\tradecomission\bin\Debug\netcoreapp3.1\tradecomission.pdb
+E:\VIsual Studio\tradecomission\obj\Debug\netcoreapp3.1\tradecomission.csproj.AssemblyReference.cache
+E:\VIsual Studio\tradecomission\obj\Debug\netcoreapp3.1\tradecomission.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\tradecomission\obj\Debug\netcoreapp3.1\tradecomission.AssemblyInfoInputs.cache
+E:\VIsual Studio\tradecomission\obj\Debug\netcoreapp3.1\tradecomission.AssemblyInfo.cs
+E:\VIsual Studio\tradecomission\obj\Debug\netcoreapp3.1\tradecomission.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\tradecomission\obj\Debug\netcoreapp3.1\tradecomission.dll
+E:\VIsual Studio\tradecomission\obj\Debug\netcoreapp3.1\tradecomission.pdb
+E:\VIsual Studio\tradecomission\obj\Debug\netcoreapp3.1\tradecomission.genruntimeconfig.cache

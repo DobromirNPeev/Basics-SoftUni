@@ -1,0 +1,14 @@
+E:\VIsual Studio\number1-nwithstep3\bin\Debug\netcoreapp3.1\number1-nwithstep3.exe
+E:\VIsual Studio\number1-nwithstep3\bin\Debug\netcoreapp3.1\number1-nwithstep3.deps.json
+E:\VIsual Studio\number1-nwithstep3\bin\Debug\netcoreapp3.1\number1-nwithstep3.runtimeconfig.json
+E:\VIsual Studio\number1-nwithstep3\bin\Debug\netcoreapp3.1\number1-nwithstep3.runtimeconfig.dev.json
+E:\VIsual Studio\number1-nwithstep3\bin\Debug\netcoreapp3.1\number1-nwithstep3.dll
+E:\VIsual Studio\number1-nwithstep3\bin\Debug\netcoreapp3.1\number1-nwithstep3.pdb
+E:\VIsual Studio\number1-nwithstep3\obj\Debug\netcoreapp3.1\number1-nwithstep3.csproj.AssemblyReference.cache
+E:\VIsual Studio\number1-nwithstep3\obj\Debug\netcoreapp3.1\number1-nwithstep3.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\number1-nwithstep3\obj\Debug\netcoreapp3.1\number1-nwithstep3.AssemblyInfoInputs.cache
+E:\VIsual Studio\number1-nwithstep3\obj\Debug\netcoreapp3.1\number1-nwithstep3.AssemblyInfo.cs
+E:\VIsual Studio\number1-nwithstep3\obj\Debug\netcoreapp3.1\number1-nwithstep3.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\number1-nwithstep3\obj\Debug\netcoreapp3.1\number1-nwithstep3.dll
+E:\VIsual Studio\number1-nwithstep3\obj\Debug\netcoreapp3.1\number1-nwithstep3.pdb
+E:\VIsual Studio\number1-nwithstep3\obj\Debug\netcoreapp3.1\number1-nwithstep3.genruntimeconfig.cache

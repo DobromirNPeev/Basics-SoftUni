@@ -1,0 +1,14 @@
+E:\VIsual Studio\Programming Basics Online Exam - 28 and 29 March 2020\bin\Debug\netcoreapp3.1\Programming Basics Online Exam - 28 and 29 March 2020.exe
+E:\VIsual Studio\Programming Basics Online Exam - 28 and 29 March 2020\bin\Debug\netcoreapp3.1\Programming Basics Online Exam - 28 and 29 March 2020.deps.json
+E:\VIsual Studio\Programming Basics Online Exam - 28 and 29 March 2020\bin\Debug\netcoreapp3.1\Programming Basics Online Exam - 28 and 29 March 2020.runtimeconfig.json
+E:\VIsual Studio\Programming Basics Online Exam - 28 and 29 March 2020\bin\Debug\netcoreapp3.1\Programming Basics Online Exam - 28 and 29 March 2020.runtimeconfig.dev.json
+E:\VIsual Studio\Programming Basics Online Exam - 28 and 29 March 2020\bin\Debug\netcoreapp3.1\Programming Basics Online Exam - 28 and 29 March 2020.dll
+E:\VIsual Studio\Programming Basics Online Exam - 28 and 29 March 2020\bin\Debug\netcoreapp3.1\Programming Basics Online Exam - 28 and 29 March 2020.pdb
+E:\VIsual Studio\Programming Basics Online Exam - 28 and 29 March 2020\obj\Debug\netcoreapp3.1\Programming Basics Online Exam - 28 and 29 March 2020.csproj.AssemblyReference.cache
+E:\VIsual Studio\Programming Basics Online Exam - 28 and 29 March 2020\obj\Debug\netcoreapp3.1\Programming Basics Online Exam - 28 and 29 March 2020.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Programming Basics Online Exam - 28 and 29 March 2020\obj\Debug\netcoreapp3.1\Programming Basics Online Exam - 28 and 29 March 2020.AssemblyInfoInputs.cache
+E:\VIsual Studio\Programming Basics Online Exam - 28 and 29 March 2020\obj\Debug\netcoreapp3.1\Programming Basics Online Exam - 28 and 29 March 2020.AssemblyInfo.cs
+E:\VIsual Studio\Programming Basics Online Exam - 28 and 29 March 2020\obj\Debug\netcoreapp3.1\Programming Basics Online Exam - 28 and 29 March 2020.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Programming Basics Online Exam - 28 and 29 March 2020\obj\Debug\netcoreapp3.1\Programming Basics Online Exam - 28 and 29 March 2020.dll
+E:\VIsual Studio\Programming Basics Online Exam - 28 and 29 March 2020\obj\Debug\netcoreapp3.1\Programming Basics Online Exam - 28 and 29 March 2020.pdb
+E:\VIsual Studio\Programming Basics Online Exam - 28 and 29 March 2020\obj\Debug\netcoreapp3.1\Programming Basics Online Exam - 28 and 29 March 2020.genruntimeconfig.cache

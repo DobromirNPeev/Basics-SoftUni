@@ -1,0 +1,13 @@
+E:\VIsual Studio\02. Godzilla vs. Kong1\bin\Debug\netcoreapp3.1\02. Godzilla vs. Kong1.exe
+E:\VIsual Studio\02. Godzilla vs. Kong1\bin\Debug\netcoreapp3.1\02. Godzilla vs. Kong1.deps.json
+E:\VIsual Studio\02. Godzilla vs. Kong1\bin\Debug\netcoreapp3.1\02. Godzilla vs. Kong1.runtimeconfig.json
+E:\VIsual Studio\02. Godzilla vs. Kong1\bin\Debug\netcoreapp3.1\02. Godzilla vs. Kong1.runtimeconfig.dev.json
+E:\VIsual Studio\02. Godzilla vs. Kong1\bin\Debug\netcoreapp3.1\02. Godzilla vs. Kong1.dll
+E:\VIsual Studio\02. Godzilla vs. Kong1\bin\Debug\netcoreapp3.1\02. Godzilla vs. Kong1.pdb
+E:\VIsual Studio\02. Godzilla vs. Kong1\obj\Debug\netcoreapp3.1\02. Godzilla vs. Kong1.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\02. Godzilla vs. Kong1\obj\Debug\netcoreapp3.1\02. Godzilla vs. Kong1.AssemblyInfoInputs.cache
+E:\VIsual Studio\02. Godzilla vs. Kong1\obj\Debug\netcoreapp3.1\02. Godzilla vs. Kong1.AssemblyInfo.cs
+E:\VIsual Studio\02. Godzilla vs. Kong1\obj\Debug\netcoreapp3.1\02. Godzilla vs. Kong1.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\02. Godzilla vs. Kong1\obj\Debug\netcoreapp3.1\02. Godzilla vs. Kong1.dll
+E:\VIsual Studio\02. Godzilla vs. Kong1\obj\Debug\netcoreapp3.1\02. Godzilla vs. Kong1.pdb
+E:\VIsual Studio\02. Godzilla vs. Kong1\obj\Debug\netcoreapp3.1\02. Godzilla vs. Kong1.genruntimeconfig.cache

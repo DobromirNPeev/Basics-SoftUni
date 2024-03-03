@@ -1,0 +1,14 @@
+E:\VIsual Studio\numberrange\bin\Debug\netcoreapp3.1\numberrange.exe
+E:\VIsual Studio\numberrange\bin\Debug\netcoreapp3.1\numberrange.deps.json
+E:\VIsual Studio\numberrange\bin\Debug\netcoreapp3.1\numberrange.runtimeconfig.json
+E:\VIsual Studio\numberrange\bin\Debug\netcoreapp3.1\numberrange.runtimeconfig.dev.json
+E:\VIsual Studio\numberrange\bin\Debug\netcoreapp3.1\numberrange.dll
+E:\VIsual Studio\numberrange\bin\Debug\netcoreapp3.1\numberrange.pdb
+E:\VIsual Studio\numberrange\obj\Debug\netcoreapp3.1\numberrange.csproj.AssemblyReference.cache
+E:\VIsual Studio\numberrange\obj\Debug\netcoreapp3.1\numberrange.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\numberrange\obj\Debug\netcoreapp3.1\numberrange.AssemblyInfoInputs.cache
+E:\VIsual Studio\numberrange\obj\Debug\netcoreapp3.1\numberrange.AssemblyInfo.cs
+E:\VIsual Studio\numberrange\obj\Debug\netcoreapp3.1\numberrange.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\numberrange\obj\Debug\netcoreapp3.1\numberrange.dll
+E:\VIsual Studio\numberrange\obj\Debug\netcoreapp3.1\numberrange.pdb
+E:\VIsual Studio\numberrange\obj\Debug\netcoreapp3.1\numberrange.genruntimeconfig.cache

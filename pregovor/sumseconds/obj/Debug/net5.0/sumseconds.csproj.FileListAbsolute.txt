@@ -1,0 +1,16 @@
+E:\VIsual Studio\pregovor\sumseconds\obj\Debug\net5.0\sumseconds.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\pregovor\sumseconds\obj\Debug\net5.0\sumseconds.AssemblyInfoInputs.cache
+E:\VIsual Studio\pregovor\sumseconds\obj\Debug\net5.0\sumseconds.AssemblyInfo.cs
+E:\VIsual Studio\pregovor\sumseconds\obj\Debug\net5.0\sumseconds.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\pregovor\sumseconds\bin\Debug\net5.0\sumseconds.exe
+E:\VIsual Studio\pregovor\sumseconds\bin\Debug\net5.0\sumseconds.deps.json
+E:\VIsual Studio\pregovor\sumseconds\bin\Debug\net5.0\sumseconds.runtimeconfig.json
+E:\VIsual Studio\pregovor\sumseconds\bin\Debug\net5.0\sumseconds.runtimeconfig.dev.json
+E:\VIsual Studio\pregovor\sumseconds\bin\Debug\net5.0\sumseconds.dll
+E:\VIsual Studio\pregovor\sumseconds\bin\Debug\net5.0\ref\sumseconds.dll
+E:\VIsual Studio\pregovor\sumseconds\bin\Debug\net5.0\sumseconds.pdb
+E:\VIsual Studio\pregovor\sumseconds\obj\Debug\net5.0\sumseconds.dll
+E:\VIsual Studio\pregovor\sumseconds\obj\Debug\net5.0\ref\sumseconds.dll
+E:\VIsual Studio\pregovor\sumseconds\obj\Debug\net5.0\sumseconds.pdb
+E:\VIsual Studio\pregovor\sumseconds\obj\Debug\net5.0\sumseconds.genruntimeconfig.cache
+E:\VIsual Studio\pregovor\sumseconds\obj\Debug\net5.0\sumseconds.csproj.AssemblyReference.cache

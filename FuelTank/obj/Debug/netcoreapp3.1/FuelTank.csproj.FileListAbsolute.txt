@@ -1,0 +1,13 @@
+E:\VIsual Studio\FuelTank\bin\Debug\netcoreapp3.1\FuelTank.exe
+E:\VIsual Studio\FuelTank\bin\Debug\netcoreapp3.1\FuelTank.deps.json
+E:\VIsual Studio\FuelTank\bin\Debug\netcoreapp3.1\FuelTank.runtimeconfig.json
+E:\VIsual Studio\FuelTank\bin\Debug\netcoreapp3.1\FuelTank.runtimeconfig.dev.json
+E:\VIsual Studio\FuelTank\bin\Debug\netcoreapp3.1\FuelTank.dll
+E:\VIsual Studio\FuelTank\bin\Debug\netcoreapp3.1\FuelTank.pdb
+E:\VIsual Studio\FuelTank\obj\Debug\netcoreapp3.1\FuelTank.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\FuelTank\obj\Debug\netcoreapp3.1\FuelTank.AssemblyInfoInputs.cache
+E:\VIsual Studio\FuelTank\obj\Debug\netcoreapp3.1\FuelTank.AssemblyInfo.cs
+E:\VIsual Studio\FuelTank\obj\Debug\netcoreapp3.1\FuelTank.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\FuelTank\obj\Debug\netcoreapp3.1\FuelTank.dll
+E:\VIsual Studio\FuelTank\obj\Debug\netcoreapp3.1\FuelTank.pdb
+E:\VIsual Studio\FuelTank\obj\Debug\netcoreapp3.1\FuelTank.genruntimeconfig.cache

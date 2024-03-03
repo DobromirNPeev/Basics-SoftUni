@@ -1,0 +1,13 @@
+E:\VIsual Studio\weatherforecast\obj\Debug\netcoreapp3.1\weatherforecast.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\weatherforecast\obj\Debug\netcoreapp3.1\weatherforecast.AssemblyInfoInputs.cache
+E:\VIsual Studio\weatherforecast\obj\Debug\netcoreapp3.1\weatherforecast.AssemblyInfo.cs
+E:\VIsual Studio\weatherforecast\obj\Debug\netcoreapp3.1\weatherforecast.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\weatherforecast\bin\Debug\netcoreapp3.1\weatherforecast.exe
+E:\VIsual Studio\weatherforecast\bin\Debug\netcoreapp3.1\weatherforecast.deps.json
+E:\VIsual Studio\weatherforecast\bin\Debug\netcoreapp3.1\weatherforecast.runtimeconfig.json
+E:\VIsual Studio\weatherforecast\bin\Debug\netcoreapp3.1\weatherforecast.runtimeconfig.dev.json
+E:\VIsual Studio\weatherforecast\bin\Debug\netcoreapp3.1\weatherforecast.dll
+E:\VIsual Studio\weatherforecast\bin\Debug\netcoreapp3.1\weatherforecast.pdb
+E:\VIsual Studio\weatherforecast\obj\Debug\netcoreapp3.1\weatherforecast.dll
+E:\VIsual Studio\weatherforecast\obj\Debug\netcoreapp3.1\weatherforecast.pdb
+E:\VIsual Studio\weatherforecast\obj\Debug\netcoreapp3.1\weatherforecast.genruntimeconfig.cache

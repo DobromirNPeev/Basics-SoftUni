@@ -1,0 +1,14 @@
+E:\VIsual Studio\Equal Sums Even Odd Position\bin\Debug\netcoreapp3.1\Equal Sums Even Odd Position.exe
+E:\VIsual Studio\Equal Sums Even Odd Position\bin\Debug\netcoreapp3.1\Equal Sums Even Odd Position.deps.json
+E:\VIsual Studio\Equal Sums Even Odd Position\bin\Debug\netcoreapp3.1\Equal Sums Even Odd Position.runtimeconfig.json
+E:\VIsual Studio\Equal Sums Even Odd Position\bin\Debug\netcoreapp3.1\Equal Sums Even Odd Position.runtimeconfig.dev.json
+E:\VIsual Studio\Equal Sums Even Odd Position\bin\Debug\netcoreapp3.1\Equal Sums Even Odd Position.dll
+E:\VIsual Studio\Equal Sums Even Odd Position\bin\Debug\netcoreapp3.1\Equal Sums Even Odd Position.pdb
+E:\VIsual Studio\Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\Equal Sums Even Odd Position.csproj.AssemblyReference.cache
+E:\VIsual Studio\Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\Equal Sums Even Odd Position.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\Equal Sums Even Odd Position.AssemblyInfoInputs.cache
+E:\VIsual Studio\Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\Equal Sums Even Odd Position.AssemblyInfo.cs
+E:\VIsual Studio\Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\Equal Sums Even Odd Position.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\Equal Sums Even Odd Position.dll
+E:\VIsual Studio\Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\Equal Sums Even Odd Position.pdb
+E:\VIsual Studio\Equal Sums Even Odd Position\obj\Debug\netcoreapp3.1\Equal Sums Even Odd Position.genruntimeconfig.cache

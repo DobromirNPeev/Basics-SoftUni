@@ -1,0 +1,14 @@
+E:\VIsual Studio\VacationWhile\bin\Debug\netcoreapp3.1\VacationWhile.exe
+E:\VIsual Studio\VacationWhile\bin\Debug\netcoreapp3.1\VacationWhile.deps.json
+E:\VIsual Studio\VacationWhile\bin\Debug\netcoreapp3.1\VacationWhile.runtimeconfig.json
+E:\VIsual Studio\VacationWhile\bin\Debug\netcoreapp3.1\VacationWhile.runtimeconfig.dev.json
+E:\VIsual Studio\VacationWhile\bin\Debug\netcoreapp3.1\VacationWhile.dll
+E:\VIsual Studio\VacationWhile\bin\Debug\netcoreapp3.1\VacationWhile.pdb
+E:\VIsual Studio\VacationWhile\obj\Debug\netcoreapp3.1\VacationWhile.csproj.AssemblyReference.cache
+E:\VIsual Studio\VacationWhile\obj\Debug\netcoreapp3.1\VacationWhile.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\VacationWhile\obj\Debug\netcoreapp3.1\VacationWhile.AssemblyInfoInputs.cache
+E:\VIsual Studio\VacationWhile\obj\Debug\netcoreapp3.1\VacationWhile.AssemblyInfo.cs
+E:\VIsual Studio\VacationWhile\obj\Debug\netcoreapp3.1\VacationWhile.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\VacationWhile\obj\Debug\netcoreapp3.1\VacationWhile.dll
+E:\VIsual Studio\VacationWhile\obj\Debug\netcoreapp3.1\VacationWhile.pdb
+E:\VIsual Studio\VacationWhile\obj\Debug\netcoreapp3.1\VacationWhile.genruntimeconfig.cache

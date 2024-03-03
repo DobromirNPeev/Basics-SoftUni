@@ -1,0 +1,14 @@
+E:\VIsual Studio\celsiustofahrenheit\bin\Debug\netcoreapp3.1\celsiustofahrenheit.exe
+E:\VIsual Studio\celsiustofahrenheit\bin\Debug\netcoreapp3.1\celsiustofahrenheit.deps.json
+E:\VIsual Studio\celsiustofahrenheit\bin\Debug\netcoreapp3.1\celsiustofahrenheit.runtimeconfig.json
+E:\VIsual Studio\celsiustofahrenheit\bin\Debug\netcoreapp3.1\celsiustofahrenheit.runtimeconfig.dev.json
+E:\VIsual Studio\celsiustofahrenheit\bin\Debug\netcoreapp3.1\celsiustofahrenheit.dll
+E:\VIsual Studio\celsiustofahrenheit\bin\Debug\netcoreapp3.1\celsiustofahrenheit.pdb
+E:\VIsual Studio\celsiustofahrenheit\obj\Debug\netcoreapp3.1\celsiustofahrenheit.csproj.AssemblyReference.cache
+E:\VIsual Studio\celsiustofahrenheit\obj\Debug\netcoreapp3.1\celsiustofahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\celsiustofahrenheit\obj\Debug\netcoreapp3.1\celsiustofahrenheit.AssemblyInfoInputs.cache
+E:\VIsual Studio\celsiustofahrenheit\obj\Debug\netcoreapp3.1\celsiustofahrenheit.AssemblyInfo.cs
+E:\VIsual Studio\celsiustofahrenheit\obj\Debug\netcoreapp3.1\celsiustofahrenheit.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\celsiustofahrenheit\obj\Debug\netcoreapp3.1\celsiustofahrenheit.dll
+E:\VIsual Studio\celsiustofahrenheit\obj\Debug\netcoreapp3.1\celsiustofahrenheit.pdb
+E:\VIsual Studio\celsiustofahrenheit\obj\Debug\netcoreapp3.1\celsiustofahrenheit.genruntimeconfig.cache

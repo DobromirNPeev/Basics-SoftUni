@@ -1,0 +1,14 @@
+E:\VIsual Studio\hristogram\bin\Debug\netcoreapp3.1\hristogram.exe
+E:\VIsual Studio\hristogram\bin\Debug\netcoreapp3.1\hristogram.deps.json
+E:\VIsual Studio\hristogram\bin\Debug\netcoreapp3.1\hristogram.runtimeconfig.json
+E:\VIsual Studio\hristogram\bin\Debug\netcoreapp3.1\hristogram.runtimeconfig.dev.json
+E:\VIsual Studio\hristogram\bin\Debug\netcoreapp3.1\hristogram.dll
+E:\VIsual Studio\hristogram\bin\Debug\netcoreapp3.1\hristogram.pdb
+E:\VIsual Studio\hristogram\obj\Debug\netcoreapp3.1\hristogram.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\hristogram\obj\Debug\netcoreapp3.1\hristogram.AssemblyInfoInputs.cache
+E:\VIsual Studio\hristogram\obj\Debug\netcoreapp3.1\hristogram.AssemblyInfo.cs
+E:\VIsual Studio\hristogram\obj\Debug\netcoreapp3.1\hristogram.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\hristogram\obj\Debug\netcoreapp3.1\hristogram.dll
+E:\VIsual Studio\hristogram\obj\Debug\netcoreapp3.1\hristogram.pdb
+E:\VIsual Studio\hristogram\obj\Debug\netcoreapp3.1\hristogram.genruntimeconfig.cache
+E:\VIsual Studio\hristogram\obj\Debug\netcoreapp3.1\hristogram.csproj.AssemblyReference.cache

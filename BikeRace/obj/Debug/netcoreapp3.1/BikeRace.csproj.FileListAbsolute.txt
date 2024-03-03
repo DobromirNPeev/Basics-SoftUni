@@ -1,0 +1,14 @@
+E:\VIsual Studio\BikeRace\obj\Debug\netcoreapp3.1\BikeRace.csproj.AssemblyReference.cache
+E:\VIsual Studio\BikeRace\obj\Debug\netcoreapp3.1\BikeRace.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\BikeRace\obj\Debug\netcoreapp3.1\BikeRace.AssemblyInfoInputs.cache
+E:\VIsual Studio\BikeRace\obj\Debug\netcoreapp3.1\BikeRace.AssemblyInfo.cs
+E:\VIsual Studio\BikeRace\obj\Debug\netcoreapp3.1\BikeRace.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\BikeRace\bin\Debug\netcoreapp3.1\BikeRace.exe
+E:\VIsual Studio\BikeRace\bin\Debug\netcoreapp3.1\BikeRace.deps.json
+E:\VIsual Studio\BikeRace\bin\Debug\netcoreapp3.1\BikeRace.runtimeconfig.json
+E:\VIsual Studio\BikeRace\bin\Debug\netcoreapp3.1\BikeRace.runtimeconfig.dev.json
+E:\VIsual Studio\BikeRace\bin\Debug\netcoreapp3.1\BikeRace.dll
+E:\VIsual Studio\BikeRace\bin\Debug\netcoreapp3.1\BikeRace.pdb
+E:\VIsual Studio\BikeRace\obj\Debug\netcoreapp3.1\BikeRace.dll
+E:\VIsual Studio\BikeRace\obj\Debug\netcoreapp3.1\BikeRace.pdb
+E:\VIsual Studio\BikeRace\obj\Debug\netcoreapp3.1\BikeRace.genruntimeconfig.cache

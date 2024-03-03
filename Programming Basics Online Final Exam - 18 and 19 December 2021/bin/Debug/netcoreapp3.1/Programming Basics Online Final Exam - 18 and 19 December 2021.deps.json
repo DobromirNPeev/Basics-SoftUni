@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Programming Basics Online Final Exam - 18 and 19 December 2021/1.0.0": {
+        "runtime": {
+          "Programming Basics Online Final Exam - 18 and 19 December 2021.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Programming Basics Online Final Exam - 18 and 19 December 2021/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

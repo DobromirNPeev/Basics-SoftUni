@@ -1,0 +1,14 @@
+E:\VIsual Studio\uprjif\godzillavskong\bin\Debug\netcoreapp3.1\godzillavskong.exe
+E:\VIsual Studio\uprjif\godzillavskong\bin\Debug\netcoreapp3.1\godzillavskong.deps.json
+E:\VIsual Studio\uprjif\godzillavskong\bin\Debug\netcoreapp3.1\godzillavskong.runtimeconfig.json
+E:\VIsual Studio\uprjif\godzillavskong\bin\Debug\netcoreapp3.1\godzillavskong.runtimeconfig.dev.json
+E:\VIsual Studio\uprjif\godzillavskong\bin\Debug\netcoreapp3.1\godzillavskong.dll
+E:\VIsual Studio\uprjif\godzillavskong\bin\Debug\netcoreapp3.1\godzillavskong.pdb
+E:\VIsual Studio\uprjif\godzillavskong\obj\Debug\netcoreapp3.1\godzillavskong.csproj.AssemblyReference.cache
+E:\VIsual Studio\uprjif\godzillavskong\obj\Debug\netcoreapp3.1\godzillavskong.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\uprjif\godzillavskong\obj\Debug\netcoreapp3.1\godzillavskong.AssemblyInfoInputs.cache
+E:\VIsual Studio\uprjif\godzillavskong\obj\Debug\netcoreapp3.1\godzillavskong.AssemblyInfo.cs
+E:\VIsual Studio\uprjif\godzillavskong\obj\Debug\netcoreapp3.1\godzillavskong.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\uprjif\godzillavskong\obj\Debug\netcoreapp3.1\godzillavskong.dll
+E:\VIsual Studio\uprjif\godzillavskong\obj\Debug\netcoreapp3.1\godzillavskong.pdb
+E:\VIsual Studio\uprjif\godzillavskong\obj\Debug\netcoreapp3.1\godzillavskong.genruntimeconfig.cache

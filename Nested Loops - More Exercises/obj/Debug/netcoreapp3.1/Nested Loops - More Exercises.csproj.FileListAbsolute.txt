@@ -1,0 +1,14 @@
+E:\Nested Loops - More Exercises\bin\Debug\netcoreapp3.1\Nested Loops - More Exercises.exe
+E:\Nested Loops - More Exercises\bin\Debug\netcoreapp3.1\Nested Loops - More Exercises.deps.json
+E:\Nested Loops - More Exercises\bin\Debug\netcoreapp3.1\Nested Loops - More Exercises.runtimeconfig.json
+E:\Nested Loops - More Exercises\bin\Debug\netcoreapp3.1\Nested Loops - More Exercises.runtimeconfig.dev.json
+E:\Nested Loops - More Exercises\bin\Debug\netcoreapp3.1\Nested Loops - More Exercises.dll
+E:\Nested Loops - More Exercises\bin\Debug\netcoreapp3.1\Nested Loops - More Exercises.pdb
+E:\Nested Loops - More Exercises\obj\Debug\netcoreapp3.1\Nested Loops - More Exercises.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nested Loops - More Exercises\obj\Debug\netcoreapp3.1\Nested Loops - More Exercises.AssemblyInfoInputs.cache
+E:\Nested Loops - More Exercises\obj\Debug\netcoreapp3.1\Nested Loops - More Exercises.AssemblyInfo.cs
+E:\Nested Loops - More Exercises\obj\Debug\netcoreapp3.1\Nested Loops - More Exercises.csproj.CoreCompileInputs.cache
+E:\Nested Loops - More Exercises\obj\Debug\netcoreapp3.1\Nested Loops - More Exercises.dll
+E:\Nested Loops - More Exercises\obj\Debug\netcoreapp3.1\Nested Loops - More Exercises.pdb
+E:\Nested Loops - More Exercises\obj\Debug\netcoreapp3.1\Nested Loops - More Exercises.genruntimeconfig.cache
+E:\Nested Loops - More Exercises\obj\Debug\netcoreapp3.1\Nested Loops - More Exercises.csproj.AssemblyReference.cache

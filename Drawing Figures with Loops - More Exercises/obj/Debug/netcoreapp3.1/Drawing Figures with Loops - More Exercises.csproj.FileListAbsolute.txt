@@ -1,0 +1,14 @@
+E:\VIsual Studio\Drawing Figures with Loops - More Exercises\bin\Debug\netcoreapp3.1\Drawing Figures with Loops - More Exercises.exe
+E:\VIsual Studio\Drawing Figures with Loops - More Exercises\bin\Debug\netcoreapp3.1\Drawing Figures with Loops - More Exercises.deps.json
+E:\VIsual Studio\Drawing Figures with Loops - More Exercises\bin\Debug\netcoreapp3.1\Drawing Figures with Loops - More Exercises.runtimeconfig.json
+E:\VIsual Studio\Drawing Figures with Loops - More Exercises\bin\Debug\netcoreapp3.1\Drawing Figures with Loops - More Exercises.runtimeconfig.dev.json
+E:\VIsual Studio\Drawing Figures with Loops - More Exercises\bin\Debug\netcoreapp3.1\Drawing Figures with Loops - More Exercises.dll
+E:\VIsual Studio\Drawing Figures with Loops - More Exercises\bin\Debug\netcoreapp3.1\Drawing Figures with Loops - More Exercises.pdb
+E:\VIsual Studio\Drawing Figures with Loops - More Exercises\obj\Debug\netcoreapp3.1\Drawing Figures with Loops - More Exercises.csproj.AssemblyReference.cache
+E:\VIsual Studio\Drawing Figures with Loops - More Exercises\obj\Debug\netcoreapp3.1\Drawing Figures with Loops - More Exercises.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Drawing Figures with Loops - More Exercises\obj\Debug\netcoreapp3.1\Drawing Figures with Loops - More Exercises.AssemblyInfoInputs.cache
+E:\VIsual Studio\Drawing Figures with Loops - More Exercises\obj\Debug\netcoreapp3.1\Drawing Figures with Loops - More Exercises.AssemblyInfo.cs
+E:\VIsual Studio\Drawing Figures with Loops - More Exercises\obj\Debug\netcoreapp3.1\Drawing Figures with Loops - More Exercises.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Drawing Figures with Loops - More Exercises\obj\Debug\netcoreapp3.1\Drawing Figures with Loops - More Exercises.dll
+E:\VIsual Studio\Drawing Figures with Loops - More Exercises\obj\Debug\netcoreapp3.1\Drawing Figures with Loops - More Exercises.pdb
+E:\VIsual Studio\Drawing Figures with Loops - More Exercises\obj\Debug\netcoreapp3.1\Drawing Figures with Loops - More Exercises.genruntimeconfig.cache

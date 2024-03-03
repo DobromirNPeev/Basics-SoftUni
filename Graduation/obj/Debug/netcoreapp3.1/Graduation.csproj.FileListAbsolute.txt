@@ -1,0 +1,13 @@
+E:\VIsual Studio\Graduation\obj\Debug\netcoreapp3.1\Graduation.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Graduation\obj\Debug\netcoreapp3.1\Graduation.AssemblyInfoInputs.cache
+E:\VIsual Studio\Graduation\obj\Debug\netcoreapp3.1\Graduation.AssemblyInfo.cs
+E:\VIsual Studio\Graduation\obj\Debug\netcoreapp3.1\Graduation.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Graduation\bin\Debug\netcoreapp3.1\Graduation.exe
+E:\VIsual Studio\Graduation\bin\Debug\netcoreapp3.1\Graduation.deps.json
+E:\VIsual Studio\Graduation\bin\Debug\netcoreapp3.1\Graduation.runtimeconfig.json
+E:\VIsual Studio\Graduation\bin\Debug\netcoreapp3.1\Graduation.runtimeconfig.dev.json
+E:\VIsual Studio\Graduation\bin\Debug\netcoreapp3.1\Graduation.dll
+E:\VIsual Studio\Graduation\bin\Debug\netcoreapp3.1\Graduation.pdb
+E:\VIsual Studio\Graduation\obj\Debug\netcoreapp3.1\Graduation.dll
+E:\VIsual Studio\Graduation\obj\Debug\netcoreapp3.1\Graduation.pdb
+E:\VIsual Studio\Graduation\obj\Debug\netcoreapp3.1\Graduation.genruntimeconfig.cache

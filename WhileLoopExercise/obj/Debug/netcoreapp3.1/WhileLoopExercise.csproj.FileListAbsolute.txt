@@ -1,0 +1,14 @@
+E:\VIsual Studio\WhileLoopExercise\bin\Debug\netcoreapp3.1\WhileLoopExercise.exe
+E:\VIsual Studio\WhileLoopExercise\bin\Debug\netcoreapp3.1\WhileLoopExercise.deps.json
+E:\VIsual Studio\WhileLoopExercise\bin\Debug\netcoreapp3.1\WhileLoopExercise.runtimeconfig.json
+E:\VIsual Studio\WhileLoopExercise\bin\Debug\netcoreapp3.1\WhileLoopExercise.runtimeconfig.dev.json
+E:\VIsual Studio\WhileLoopExercise\bin\Debug\netcoreapp3.1\WhileLoopExercise.dll
+E:\VIsual Studio\WhileLoopExercise\bin\Debug\netcoreapp3.1\WhileLoopExercise.pdb
+E:\VIsual Studio\WhileLoopExercise\obj\Debug\netcoreapp3.1\WhileLoopExercise.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\WhileLoopExercise\obj\Debug\netcoreapp3.1\WhileLoopExercise.AssemblyInfoInputs.cache
+E:\VIsual Studio\WhileLoopExercise\obj\Debug\netcoreapp3.1\WhileLoopExercise.AssemblyInfo.cs
+E:\VIsual Studio\WhileLoopExercise\obj\Debug\netcoreapp3.1\WhileLoopExercise.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\WhileLoopExercise\obj\Debug\netcoreapp3.1\WhileLoopExercise.dll
+E:\VIsual Studio\WhileLoopExercise\obj\Debug\netcoreapp3.1\WhileLoopExercise.pdb
+E:\VIsual Studio\WhileLoopExercise\obj\Debug\netcoreapp3.1\WhileLoopExercise.genruntimeconfig.cache
+E:\VIsual Studio\WhileLoopExercise\obj\Debug\netcoreapp3.1\WhileLoopExercise.csproj.AssemblyReference.cache

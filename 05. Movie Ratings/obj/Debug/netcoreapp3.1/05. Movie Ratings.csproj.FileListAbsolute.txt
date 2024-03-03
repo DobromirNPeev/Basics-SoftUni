@@ -1,0 +1,13 @@
+E:\VIsual Studio\05. Movie Ratings\obj\Debug\netcoreapp3.1\05. Movie Ratings.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\05. Movie Ratings\obj\Debug\netcoreapp3.1\05. Movie Ratings.AssemblyInfoInputs.cache
+E:\VIsual Studio\05. Movie Ratings\obj\Debug\netcoreapp3.1\05. Movie Ratings.AssemblyInfo.cs
+E:\VIsual Studio\05. Movie Ratings\obj\Debug\netcoreapp3.1\05. Movie Ratings.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\05. Movie Ratings\bin\Debug\netcoreapp3.1\05. Movie Ratings.exe
+E:\VIsual Studio\05. Movie Ratings\bin\Debug\netcoreapp3.1\05. Movie Ratings.deps.json
+E:\VIsual Studio\05. Movie Ratings\bin\Debug\netcoreapp3.1\05. Movie Ratings.runtimeconfig.json
+E:\VIsual Studio\05. Movie Ratings\bin\Debug\netcoreapp3.1\05. Movie Ratings.runtimeconfig.dev.json
+E:\VIsual Studio\05. Movie Ratings\bin\Debug\netcoreapp3.1\05. Movie Ratings.dll
+E:\VIsual Studio\05. Movie Ratings\bin\Debug\netcoreapp3.1\05. Movie Ratings.pdb
+E:\VIsual Studio\05. Movie Ratings\obj\Debug\netcoreapp3.1\05. Movie Ratings.dll
+E:\VIsual Studio\05. Movie Ratings\obj\Debug\netcoreapp3.1\05. Movie Ratings.pdb
+E:\VIsual Studio\05. Movie Ratings\obj\Debug\netcoreapp3.1\05. Movie Ratings.genruntimeconfig.cache

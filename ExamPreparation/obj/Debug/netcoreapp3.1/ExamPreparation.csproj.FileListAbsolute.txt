@@ -1,0 +1,14 @@
+E:\VIsual Studio\ExamPreparation\obj\Debug\netcoreapp3.1\ExamPreparation.csproj.AssemblyReference.cache
+E:\VIsual Studio\ExamPreparation\obj\Debug\netcoreapp3.1\ExamPreparation.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\ExamPreparation\obj\Debug\netcoreapp3.1\ExamPreparation.AssemblyInfoInputs.cache
+E:\VIsual Studio\ExamPreparation\obj\Debug\netcoreapp3.1\ExamPreparation.AssemblyInfo.cs
+E:\VIsual Studio\ExamPreparation\obj\Debug\netcoreapp3.1\ExamPreparation.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\ExamPreparation\bin\Debug\netcoreapp3.1\ExamPreparation.exe
+E:\VIsual Studio\ExamPreparation\bin\Debug\netcoreapp3.1\ExamPreparation.deps.json
+E:\VIsual Studio\ExamPreparation\bin\Debug\netcoreapp3.1\ExamPreparation.runtimeconfig.json
+E:\VIsual Studio\ExamPreparation\bin\Debug\netcoreapp3.1\ExamPreparation.runtimeconfig.dev.json
+E:\VIsual Studio\ExamPreparation\bin\Debug\netcoreapp3.1\ExamPreparation.dll
+E:\VIsual Studio\ExamPreparation\bin\Debug\netcoreapp3.1\ExamPreparation.pdb
+E:\VIsual Studio\ExamPreparation\obj\Debug\netcoreapp3.1\ExamPreparation.dll
+E:\VIsual Studio\ExamPreparation\obj\Debug\netcoreapp3.1\ExamPreparation.pdb
+E:\VIsual Studio\ExamPreparation\obj\Debug\netcoreapp3.1\ExamPreparation.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\VIsual Studio\vowelssum\obj\Debug\netcoreapp3.1\vowelssum.csproj.AssemblyReference.cache
+E:\VIsual Studio\vowelssum\obj\Debug\netcoreapp3.1\vowelssum.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\vowelssum\obj\Debug\netcoreapp3.1\vowelssum.AssemblyInfoInputs.cache
+E:\VIsual Studio\vowelssum\obj\Debug\netcoreapp3.1\vowelssum.AssemblyInfo.cs
+E:\VIsual Studio\vowelssum\obj\Debug\netcoreapp3.1\vowelssum.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\vowelssum\bin\Debug\netcoreapp3.1\vowelssum.exe
+E:\VIsual Studio\vowelssum\bin\Debug\netcoreapp3.1\vowelssum.deps.json
+E:\VIsual Studio\vowelssum\bin\Debug\netcoreapp3.1\vowelssum.runtimeconfig.json
+E:\VIsual Studio\vowelssum\bin\Debug\netcoreapp3.1\vowelssum.runtimeconfig.dev.json
+E:\VIsual Studio\vowelssum\bin\Debug\netcoreapp3.1\vowelssum.dll
+E:\VIsual Studio\vowelssum\bin\Debug\netcoreapp3.1\vowelssum.pdb
+E:\VIsual Studio\vowelssum\obj\Debug\netcoreapp3.1\vowelssum.dll
+E:\VIsual Studio\vowelssum\obj\Debug\netcoreapp3.1\vowelssum.pdb
+E:\VIsual Studio\vowelssum\obj\Debug\netcoreapp3.1\vowelssum.genruntimeconfig.cache

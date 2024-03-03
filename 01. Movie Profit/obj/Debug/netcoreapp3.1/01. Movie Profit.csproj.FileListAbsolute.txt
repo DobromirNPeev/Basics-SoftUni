@@ -1,0 +1,14 @@
+E:\VIsual Studio\01. Movie Profit\bin\Debug\netcoreapp3.1\01. Movie Profit.exe
+E:\VIsual Studio\01. Movie Profit\bin\Debug\netcoreapp3.1\01. Movie Profit.deps.json
+E:\VIsual Studio\01. Movie Profit\bin\Debug\netcoreapp3.1\01. Movie Profit.runtimeconfig.json
+E:\VIsual Studio\01. Movie Profit\bin\Debug\netcoreapp3.1\01. Movie Profit.runtimeconfig.dev.json
+E:\VIsual Studio\01. Movie Profit\bin\Debug\netcoreapp3.1\01. Movie Profit.dll
+E:\VIsual Studio\01. Movie Profit\bin\Debug\netcoreapp3.1\01. Movie Profit.pdb
+E:\VIsual Studio\01. Movie Profit\obj\Debug\netcoreapp3.1\01. Movie Profit.csproj.AssemblyReference.cache
+E:\VIsual Studio\01. Movie Profit\obj\Debug\netcoreapp3.1\01. Movie Profit.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\01. Movie Profit\obj\Debug\netcoreapp3.1\01. Movie Profit.AssemblyInfoInputs.cache
+E:\VIsual Studio\01. Movie Profit\obj\Debug\netcoreapp3.1\01. Movie Profit.AssemblyInfo.cs
+E:\VIsual Studio\01. Movie Profit\obj\Debug\netcoreapp3.1\01. Movie Profit.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\01. Movie Profit\obj\Debug\netcoreapp3.1\01. Movie Profit.dll
+E:\VIsual Studio\01. Movie Profit\obj\Debug\netcoreapp3.1\01. Movie Profit.pdb
+E:\VIsual Studio\01. Movie Profit\obj\Debug\netcoreapp3.1\01. Movie Profit.genruntimeconfig.cache

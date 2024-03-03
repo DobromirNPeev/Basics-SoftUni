@@ -1,0 +1,13 @@
+E:\VIsual Studio\salary\bin\Debug\netcoreapp3.1\salary.exe
+E:\VIsual Studio\salary\bin\Debug\netcoreapp3.1\salary.deps.json
+E:\VIsual Studio\salary\bin\Debug\netcoreapp3.1\salary.runtimeconfig.json
+E:\VIsual Studio\salary\bin\Debug\netcoreapp3.1\salary.runtimeconfig.dev.json
+E:\VIsual Studio\salary\bin\Debug\netcoreapp3.1\salary.dll
+E:\VIsual Studio\salary\bin\Debug\netcoreapp3.1\salary.pdb
+E:\VIsual Studio\salary\obj\Debug\netcoreapp3.1\salary.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\salary\obj\Debug\netcoreapp3.1\salary.AssemblyInfoInputs.cache
+E:\VIsual Studio\salary\obj\Debug\netcoreapp3.1\salary.AssemblyInfo.cs
+E:\VIsual Studio\salary\obj\Debug\netcoreapp3.1\salary.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\salary\obj\Debug\netcoreapp3.1\salary.dll
+E:\VIsual Studio\salary\obj\Debug\netcoreapp3.1\salary.pdb
+E:\VIsual Studio\salary\obj\Debug\netcoreapp3.1\salary.genruntimeconfig.cache

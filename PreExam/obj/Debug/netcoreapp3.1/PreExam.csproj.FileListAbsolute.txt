@@ -1,0 +1,14 @@
+E:\VIsual Studio\PreExam\bin\Debug\netcoreapp3.1\PreExam.exe
+E:\VIsual Studio\PreExam\bin\Debug\netcoreapp3.1\PreExam.deps.json
+E:\VIsual Studio\PreExam\bin\Debug\netcoreapp3.1\PreExam.runtimeconfig.json
+E:\VIsual Studio\PreExam\bin\Debug\netcoreapp3.1\PreExam.runtimeconfig.dev.json
+E:\VIsual Studio\PreExam\bin\Debug\netcoreapp3.1\PreExam.dll
+E:\VIsual Studio\PreExam\bin\Debug\netcoreapp3.1\PreExam.pdb
+E:\VIsual Studio\PreExam\obj\Debug\netcoreapp3.1\PreExam.csproj.AssemblyReference.cache
+E:\VIsual Studio\PreExam\obj\Debug\netcoreapp3.1\PreExam.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\PreExam\obj\Debug\netcoreapp3.1\PreExam.AssemblyInfoInputs.cache
+E:\VIsual Studio\PreExam\obj\Debug\netcoreapp3.1\PreExam.AssemblyInfo.cs
+E:\VIsual Studio\PreExam\obj\Debug\netcoreapp3.1\PreExam.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\PreExam\obj\Debug\netcoreapp3.1\PreExam.dll
+E:\VIsual Studio\PreExam\obj\Debug\netcoreapp3.1\PreExam.pdb
+E:\VIsual Studio\PreExam\obj\Debug\netcoreapp3.1\PreExam.genruntimeconfig.cache

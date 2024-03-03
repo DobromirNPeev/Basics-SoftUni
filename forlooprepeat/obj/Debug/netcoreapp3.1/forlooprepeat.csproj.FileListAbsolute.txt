@@ -1,0 +1,13 @@
+E:\VIsual Studio\forlooprepeat\bin\Debug\netcoreapp3.1\forlooprepeat.exe
+E:\VIsual Studio\forlooprepeat\bin\Debug\netcoreapp3.1\forlooprepeat.deps.json
+E:\VIsual Studio\forlooprepeat\bin\Debug\netcoreapp3.1\forlooprepeat.runtimeconfig.json
+E:\VIsual Studio\forlooprepeat\bin\Debug\netcoreapp3.1\forlooprepeat.runtimeconfig.dev.json
+E:\VIsual Studio\forlooprepeat\bin\Debug\netcoreapp3.1\forlooprepeat.dll
+E:\VIsual Studio\forlooprepeat\bin\Debug\netcoreapp3.1\forlooprepeat.pdb
+E:\VIsual Studio\forlooprepeat\obj\Debug\netcoreapp3.1\forlooprepeat.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\forlooprepeat\obj\Debug\netcoreapp3.1\forlooprepeat.AssemblyInfoInputs.cache
+E:\VIsual Studio\forlooprepeat\obj\Debug\netcoreapp3.1\forlooprepeat.AssemblyInfo.cs
+E:\VIsual Studio\forlooprepeat\obj\Debug\netcoreapp3.1\forlooprepeat.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\forlooprepeat\obj\Debug\netcoreapp3.1\forlooprepeat.dll
+E:\VIsual Studio\forlooprepeat\obj\Debug\netcoreapp3.1\forlooprepeat.pdb
+E:\VIsual Studio\forlooprepeat\obj\Debug\netcoreapp3.1\forlooprepeat.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\VIsual Studio\traininglab\obj\Debug\netcoreapp3.1\traininglab.csproj.AssemblyReference.cache
+E:\VIsual Studio\traininglab\obj\Debug\netcoreapp3.1\traininglab.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\traininglab\obj\Debug\netcoreapp3.1\traininglab.AssemblyInfoInputs.cache
+E:\VIsual Studio\traininglab\obj\Debug\netcoreapp3.1\traininglab.AssemblyInfo.cs
+E:\VIsual Studio\traininglab\obj\Debug\netcoreapp3.1\traininglab.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\traininglab\bin\Debug\netcoreapp3.1\traininglab.exe
+E:\VIsual Studio\traininglab\bin\Debug\netcoreapp3.1\traininglab.deps.json
+E:\VIsual Studio\traininglab\bin\Debug\netcoreapp3.1\traininglab.runtimeconfig.json
+E:\VIsual Studio\traininglab\bin\Debug\netcoreapp3.1\traininglab.runtimeconfig.dev.json
+E:\VIsual Studio\traininglab\bin\Debug\netcoreapp3.1\traininglab.dll
+E:\VIsual Studio\traininglab\bin\Debug\netcoreapp3.1\traininglab.pdb
+E:\VIsual Studio\traininglab\obj\Debug\netcoreapp3.1\traininglab.dll
+E:\VIsual Studio\traininglab\obj\Debug\netcoreapp3.1\traininglab.pdb
+E:\VIsual Studio\traininglab\obj\Debug\netcoreapp3.1\traininglab.genruntimeconfig.cache

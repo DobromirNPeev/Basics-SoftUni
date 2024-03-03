@@ -1,0 +1,15 @@
+E:\VIsual Studio\rectanglearea\rectanglearea\bin\Debug\net5.0\rectanglearea.exe
+E:\VIsual Studio\rectanglearea\rectanglearea\bin\Debug\net5.0\rectanglearea.deps.json
+E:\VIsual Studio\rectanglearea\rectanglearea\bin\Debug\net5.0\rectanglearea.runtimeconfig.json
+E:\VIsual Studio\rectanglearea\rectanglearea\bin\Debug\net5.0\rectanglearea.runtimeconfig.dev.json
+E:\VIsual Studio\rectanglearea\rectanglearea\bin\Debug\net5.0\rectanglearea.dll
+E:\VIsual Studio\rectanglearea\rectanglearea\bin\Debug\net5.0\ref\rectanglearea.dll
+E:\VIsual Studio\rectanglearea\rectanglearea\bin\Debug\net5.0\rectanglearea.pdb
+E:\VIsual Studio\rectanglearea\rectanglearea\obj\Debug\net5.0\rectanglearea.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\rectanglearea\rectanglearea\obj\Debug\net5.0\rectanglearea.AssemblyInfoInputs.cache
+E:\VIsual Studio\rectanglearea\rectanglearea\obj\Debug\net5.0\rectanglearea.AssemblyInfo.cs
+E:\VIsual Studio\rectanglearea\rectanglearea\obj\Debug\net5.0\rectanglearea.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\rectanglearea\rectanglearea\obj\Debug\net5.0\rectanglearea.dll
+E:\VIsual Studio\rectanglearea\rectanglearea\obj\Debug\net5.0\ref\rectanglearea.dll
+E:\VIsual Studio\rectanglearea\rectanglearea\obj\Debug\net5.0\rectanglearea.pdb
+E:\VIsual Studio\rectanglearea\rectanglearea\obj\Debug\net5.0\rectanglearea.genruntimeconfig.cache

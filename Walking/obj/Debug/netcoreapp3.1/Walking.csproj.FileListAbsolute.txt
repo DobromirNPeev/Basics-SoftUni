@@ -1,0 +1,14 @@
+E:\VIsual Studio\Walking\bin\Debug\netcoreapp3.1\Walking.exe
+E:\VIsual Studio\Walking\bin\Debug\netcoreapp3.1\Walking.deps.json
+E:\VIsual Studio\Walking\bin\Debug\netcoreapp3.1\Walking.runtimeconfig.json
+E:\VIsual Studio\Walking\bin\Debug\netcoreapp3.1\Walking.runtimeconfig.dev.json
+E:\VIsual Studio\Walking\bin\Debug\netcoreapp3.1\Walking.dll
+E:\VIsual Studio\Walking\bin\Debug\netcoreapp3.1\Walking.pdb
+E:\VIsual Studio\Walking\obj\Debug\netcoreapp3.1\Walking.csproj.AssemblyReference.cache
+E:\VIsual Studio\Walking\obj\Debug\netcoreapp3.1\Walking.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Walking\obj\Debug\netcoreapp3.1\Walking.AssemblyInfoInputs.cache
+E:\VIsual Studio\Walking\obj\Debug\netcoreapp3.1\Walking.AssemblyInfo.cs
+E:\VIsual Studio\Walking\obj\Debug\netcoreapp3.1\Walking.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Walking\obj\Debug\netcoreapp3.1\Walking.dll
+E:\VIsual Studio\Walking\obj\Debug\netcoreapp3.1\Walking.pdb
+E:\VIsual Studio\Walking\obj\Debug\netcoreapp3.1\Walking.genruntimeconfig.cache

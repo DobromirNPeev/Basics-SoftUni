@@ -1,0 +1,13 @@
+E:\VIsual Studio\03. Movie Destination\bin\Debug\netcoreapp3.1\03. Movie Destination.exe
+E:\VIsual Studio\03. Movie Destination\bin\Debug\netcoreapp3.1\03. Movie Destination.deps.json
+E:\VIsual Studio\03. Movie Destination\bin\Debug\netcoreapp3.1\03. Movie Destination.runtimeconfig.json
+E:\VIsual Studio\03. Movie Destination\bin\Debug\netcoreapp3.1\03. Movie Destination.runtimeconfig.dev.json
+E:\VIsual Studio\03. Movie Destination\bin\Debug\netcoreapp3.1\03. Movie Destination.dll
+E:\VIsual Studio\03. Movie Destination\bin\Debug\netcoreapp3.1\03. Movie Destination.pdb
+E:\VIsual Studio\03. Movie Destination\obj\Debug\netcoreapp3.1\03. Movie Destination.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\03. Movie Destination\obj\Debug\netcoreapp3.1\03. Movie Destination.AssemblyInfoInputs.cache
+E:\VIsual Studio\03. Movie Destination\obj\Debug\netcoreapp3.1\03. Movie Destination.AssemblyInfo.cs
+E:\VIsual Studio\03. Movie Destination\obj\Debug\netcoreapp3.1\03. Movie Destination.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\03. Movie Destination\obj\Debug\netcoreapp3.1\03. Movie Destination.dll
+E:\VIsual Studio\03. Movie Destination\obj\Debug\netcoreapp3.1\03. Movie Destination.pdb
+E:\VIsual Studio\03. Movie Destination\obj\Debug\netcoreapp3.1\03. Movie Destination.genruntimeconfig.cache

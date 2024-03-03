@@ -1,0 +1,14 @@
+E:\VIsual Studio\EqualPairs\bin\Debug\netcoreapp3.1\EqualPairs.exe
+E:\VIsual Studio\EqualPairs\bin\Debug\netcoreapp3.1\EqualPairs.deps.json
+E:\VIsual Studio\EqualPairs\bin\Debug\netcoreapp3.1\EqualPairs.runtimeconfig.json
+E:\VIsual Studio\EqualPairs\bin\Debug\netcoreapp3.1\EqualPairs.runtimeconfig.dev.json
+E:\VIsual Studio\EqualPairs\bin\Debug\netcoreapp3.1\EqualPairs.dll
+E:\VIsual Studio\EqualPairs\bin\Debug\netcoreapp3.1\EqualPairs.pdb
+E:\VIsual Studio\EqualPairs\obj\Debug\netcoreapp3.1\EqualPairs.csproj.AssemblyReference.cache
+E:\VIsual Studio\EqualPairs\obj\Debug\netcoreapp3.1\EqualPairs.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\EqualPairs\obj\Debug\netcoreapp3.1\EqualPairs.AssemblyInfoInputs.cache
+E:\VIsual Studio\EqualPairs\obj\Debug\netcoreapp3.1\EqualPairs.AssemblyInfo.cs
+E:\VIsual Studio\EqualPairs\obj\Debug\netcoreapp3.1\EqualPairs.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\EqualPairs\obj\Debug\netcoreapp3.1\EqualPairs.dll
+E:\VIsual Studio\EqualPairs\obj\Debug\netcoreapp3.1\EqualPairs.pdb
+E:\VIsual Studio\EqualPairs\obj\Debug\netcoreapp3.1\EqualPairs.genruntimeconfig.cache

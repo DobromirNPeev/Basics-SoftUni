@@ -1,0 +1,14 @@
+E:\VIsual Studio\AddBags\bin\Debug\netcoreapp3.1\AddBags.exe
+E:\VIsual Studio\AddBags\bin\Debug\netcoreapp3.1\AddBags.deps.json
+E:\VIsual Studio\AddBags\bin\Debug\netcoreapp3.1\AddBags.runtimeconfig.json
+E:\VIsual Studio\AddBags\bin\Debug\netcoreapp3.1\AddBags.runtimeconfig.dev.json
+E:\VIsual Studio\AddBags\bin\Debug\netcoreapp3.1\AddBags.dll
+E:\VIsual Studio\AddBags\bin\Debug\netcoreapp3.1\AddBags.pdb
+E:\VIsual Studio\AddBags\obj\Debug\netcoreapp3.1\AddBags.csproj.AssemblyReference.cache
+E:\VIsual Studio\AddBags\obj\Debug\netcoreapp3.1\AddBags.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\AddBags\obj\Debug\netcoreapp3.1\AddBags.AssemblyInfoInputs.cache
+E:\VIsual Studio\AddBags\obj\Debug\netcoreapp3.1\AddBags.AssemblyInfo.cs
+E:\VIsual Studio\AddBags\obj\Debug\netcoreapp3.1\AddBags.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\AddBags\obj\Debug\netcoreapp3.1\AddBags.dll
+E:\VIsual Studio\AddBags\obj\Debug\netcoreapp3.1\AddBags.pdb
+E:\VIsual Studio\AddBags\obj\Debug\netcoreapp3.1\AddBags.genruntimeconfig.cache

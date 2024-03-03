@@ -1,0 +1,16 @@
+E:\VIsual Studio\uprjif\uprjif\bin\Debug\net5.0\uprjif.exe
+E:\VIsual Studio\uprjif\uprjif\bin\Debug\net5.0\uprjif.deps.json
+E:\VIsual Studio\uprjif\uprjif\bin\Debug\net5.0\uprjif.runtimeconfig.json
+E:\VIsual Studio\uprjif\uprjif\bin\Debug\net5.0\uprjif.runtimeconfig.dev.json
+E:\VIsual Studio\uprjif\uprjif\bin\Debug\net5.0\uprjif.dll
+E:\VIsual Studio\uprjif\uprjif\bin\Debug\net5.0\ref\uprjif.dll
+E:\VIsual Studio\uprjif\uprjif\bin\Debug\net5.0\uprjif.pdb
+E:\VIsual Studio\uprjif\uprjif\obj\Debug\net5.0\uprjif.csproj.AssemblyReference.cache
+E:\VIsual Studio\uprjif\uprjif\obj\Debug\net5.0\uprjif.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\uprjif\uprjif\obj\Debug\net5.0\uprjif.AssemblyInfoInputs.cache
+E:\VIsual Studio\uprjif\uprjif\obj\Debug\net5.0\uprjif.AssemblyInfo.cs
+E:\VIsual Studio\uprjif\uprjif\obj\Debug\net5.0\uprjif.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\uprjif\uprjif\obj\Debug\net5.0\uprjif.dll
+E:\VIsual Studio\uprjif\uprjif\obj\Debug\net5.0\ref\uprjif.dll
+E:\VIsual Studio\uprjif\uprjif\obj\Debug\net5.0\uprjif.pdb
+E:\VIsual Studio\uprjif\uprjif\obj\Debug\net5.0\uprjif.genruntimeconfig.cache

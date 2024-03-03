@@ -1,0 +1,14 @@
+E:\VIsual Studio\uprjif\swimmingrec\obj\Debug\netcoreapp3.1\swimmingrec.csproj.AssemblyReference.cache
+E:\VIsual Studio\uprjif\swimmingrec\obj\Debug\netcoreapp3.1\swimmingrec.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\uprjif\swimmingrec\obj\Debug\netcoreapp3.1\swimmingrec.AssemblyInfoInputs.cache
+E:\VIsual Studio\uprjif\swimmingrec\obj\Debug\netcoreapp3.1\swimmingrec.AssemblyInfo.cs
+E:\VIsual Studio\uprjif\swimmingrec\obj\Debug\netcoreapp3.1\swimmingrec.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\uprjif\swimmingrec\bin\Debug\netcoreapp3.1\swimmingrec.exe
+E:\VIsual Studio\uprjif\swimmingrec\bin\Debug\netcoreapp3.1\swimmingrec.deps.json
+E:\VIsual Studio\uprjif\swimmingrec\bin\Debug\netcoreapp3.1\swimmingrec.runtimeconfig.json
+E:\VIsual Studio\uprjif\swimmingrec\bin\Debug\netcoreapp3.1\swimmingrec.runtimeconfig.dev.json
+E:\VIsual Studio\uprjif\swimmingrec\bin\Debug\netcoreapp3.1\swimmingrec.dll
+E:\VIsual Studio\uprjif\swimmingrec\bin\Debug\netcoreapp3.1\swimmingrec.pdb
+E:\VIsual Studio\uprjif\swimmingrec\obj\Debug\netcoreapp3.1\swimmingrec.dll
+E:\VIsual Studio\uprjif\swimmingrec\obj\Debug\netcoreapp3.1\swimmingrec.pdb
+E:\VIsual Studio\uprjif\swimmingrec\obj\Debug\netcoreapp3.1\swimmingrec.genruntimeconfig.cache

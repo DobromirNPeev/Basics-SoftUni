@@ -1,0 +1,15 @@
+E:\VIsual Studio\pregovor\number100.200\bin\Debug\net5.0\number100.200.exe
+E:\VIsual Studio\pregovor\number100.200\bin\Debug\net5.0\number100.200.deps.json
+E:\VIsual Studio\pregovor\number100.200\bin\Debug\net5.0\number100.200.runtimeconfig.json
+E:\VIsual Studio\pregovor\number100.200\bin\Debug\net5.0\number100.200.runtimeconfig.dev.json
+E:\VIsual Studio\pregovor\number100.200\bin\Debug\net5.0\number100.200.dll
+E:\VIsual Studio\pregovor\number100.200\bin\Debug\net5.0\ref\number100.200.dll
+E:\VIsual Studio\pregovor\number100.200\bin\Debug\net5.0\number100.200.pdb
+E:\VIsual Studio\pregovor\number100.200\obj\Debug\net5.0\number100.200.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\pregovor\number100.200\obj\Debug\net5.0\number100.200.AssemblyInfoInputs.cache
+E:\VIsual Studio\pregovor\number100.200\obj\Debug\net5.0\number100.200.AssemblyInfo.cs
+E:\VIsual Studio\pregovor\number100.200\obj\Debug\net5.0\number100.200.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\pregovor\number100.200\obj\Debug\net5.0\number100.200.dll
+E:\VIsual Studio\pregovor\number100.200\obj\Debug\net5.0\ref\number100.200.dll
+E:\VIsual Studio\pregovor\number100.200\obj\Debug\net5.0\number100.200.pdb
+E:\VIsual Studio\pregovor\number100.200\obj\Debug\net5.0\number100.200.genruntimeconfig.cache

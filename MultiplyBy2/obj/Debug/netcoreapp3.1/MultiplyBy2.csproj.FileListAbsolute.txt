@@ -1,0 +1,13 @@
+E:\VIsual Studio\MultiplyBy2\bin\Debug\netcoreapp3.1\MultiplyBy2.exe
+E:\VIsual Studio\MultiplyBy2\bin\Debug\netcoreapp3.1\MultiplyBy2.deps.json
+E:\VIsual Studio\MultiplyBy2\bin\Debug\netcoreapp3.1\MultiplyBy2.runtimeconfig.json
+E:\VIsual Studio\MultiplyBy2\bin\Debug\netcoreapp3.1\MultiplyBy2.runtimeconfig.dev.json
+E:\VIsual Studio\MultiplyBy2\bin\Debug\netcoreapp3.1\MultiplyBy2.dll
+E:\VIsual Studio\MultiplyBy2\bin\Debug\netcoreapp3.1\MultiplyBy2.pdb
+E:\VIsual Studio\MultiplyBy2\obj\Debug\netcoreapp3.1\MultiplyBy2.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\MultiplyBy2\obj\Debug\netcoreapp3.1\MultiplyBy2.AssemblyInfoInputs.cache
+E:\VIsual Studio\MultiplyBy2\obj\Debug\netcoreapp3.1\MultiplyBy2.AssemblyInfo.cs
+E:\VIsual Studio\MultiplyBy2\obj\Debug\netcoreapp3.1\MultiplyBy2.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\MultiplyBy2\obj\Debug\netcoreapp3.1\MultiplyBy2.dll
+E:\VIsual Studio\MultiplyBy2\obj\Debug\netcoreapp3.1\MultiplyBy2.pdb
+E:\VIsual Studio\MultiplyBy2\obj\Debug\netcoreapp3.1\MultiplyBy2.genruntimeconfig.cache

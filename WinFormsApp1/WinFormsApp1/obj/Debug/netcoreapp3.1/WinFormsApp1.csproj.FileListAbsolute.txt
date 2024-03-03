@@ -1,0 +1,16 @@
+E:\VIsual Studio\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.exe
+E:\VIsual Studio\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.deps.json
+E:\VIsual Studio\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.json
+E:\VIsual Studio\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.runtimeconfig.dev.json
+E:\VIsual Studio\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.dll
+E:\VIsual Studio\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\WinFormsApp1.pdb
+E:\VIsual Studio\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.AssemblyReference.cache
+E:\VIsual Studio\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form1.resources
+E:\VIsual Studio\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.GenerateResource.cache
+E:\VIsual Studio\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfoInputs.cache
+E:\VIsual Studio\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.AssemblyInfo.cs
+E:\VIsual Studio\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.dll
+E:\VIsual Studio\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.pdb
+E:\VIsual Studio\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.genruntimeconfig.cache

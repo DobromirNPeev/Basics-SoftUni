@@ -1,0 +1,13 @@
+E:\VIsual Studio\NumbersDividedby3WithoutReminder\bin\Debug\netcoreapp3.1\NumbersDividedby3WithoutReminder.exe
+E:\VIsual Studio\NumbersDividedby3WithoutReminder\bin\Debug\netcoreapp3.1\NumbersDividedby3WithoutReminder.deps.json
+E:\VIsual Studio\NumbersDividedby3WithoutReminder\bin\Debug\netcoreapp3.1\NumbersDividedby3WithoutReminder.runtimeconfig.json
+E:\VIsual Studio\NumbersDividedby3WithoutReminder\bin\Debug\netcoreapp3.1\NumbersDividedby3WithoutReminder.runtimeconfig.dev.json
+E:\VIsual Studio\NumbersDividedby3WithoutReminder\bin\Debug\netcoreapp3.1\NumbersDividedby3WithoutReminder.dll
+E:\VIsual Studio\NumbersDividedby3WithoutReminder\bin\Debug\netcoreapp3.1\NumbersDividedby3WithoutReminder.pdb
+E:\VIsual Studio\NumbersDividedby3WithoutReminder\obj\Debug\netcoreapp3.1\NumbersDividedby3WithoutReminder.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\NumbersDividedby3WithoutReminder\obj\Debug\netcoreapp3.1\NumbersDividedby3WithoutReminder.AssemblyInfoInputs.cache
+E:\VIsual Studio\NumbersDividedby3WithoutReminder\obj\Debug\netcoreapp3.1\NumbersDividedby3WithoutReminder.AssemblyInfo.cs
+E:\VIsual Studio\NumbersDividedby3WithoutReminder\obj\Debug\netcoreapp3.1\NumbersDividedby3WithoutReminder.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\NumbersDividedby3WithoutReminder\obj\Debug\netcoreapp3.1\NumbersDividedby3WithoutReminder.dll
+E:\VIsual Studio\NumbersDividedby3WithoutReminder\obj\Debug\netcoreapp3.1\NumbersDividedby3WithoutReminder.pdb
+E:\VIsual Studio\NumbersDividedby3WithoutReminder\obj\Debug\netcoreapp3.1\NumbersDividedby3WithoutReminder.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\dobo2\source\repos\zadulliteratura\zadulliteratura\bin\Debug\net5.0\zadulliteratura.exe
+C:\Users\dobo2\source\repos\zadulliteratura\zadulliteratura\bin\Debug\net5.0\zadulliteratura.deps.json
+C:\Users\dobo2\source\repos\zadulliteratura\zadulliteratura\bin\Debug\net5.0\zadulliteratura.runtimeconfig.json
+C:\Users\dobo2\source\repos\zadulliteratura\zadulliteratura\bin\Debug\net5.0\zadulliteratura.runtimeconfig.dev.json
+C:\Users\dobo2\source\repos\zadulliteratura\zadulliteratura\bin\Debug\net5.0\zadulliteratura.dll
+C:\Users\dobo2\source\repos\zadulliteratura\zadulliteratura\bin\Debug\net5.0\ref\zadulliteratura.dll
+C:\Users\dobo2\source\repos\zadulliteratura\zadulliteratura\bin\Debug\net5.0\zadulliteratura.pdb
+C:\Users\dobo2\source\repos\zadulliteratura\zadulliteratura\obj\Debug\net5.0\zadulliteratura.csproj.AssemblyReference.cache
+C:\Users\dobo2\source\repos\zadulliteratura\zadulliteratura\obj\Debug\net5.0\zadulliteratura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dobo2\source\repos\zadulliteratura\zadulliteratura\obj\Debug\net5.0\zadulliteratura.AssemblyInfoInputs.cache
+C:\Users\dobo2\source\repos\zadulliteratura\zadulliteratura\obj\Debug\net5.0\zadulliteratura.AssemblyInfo.cs
+C:\Users\dobo2\source\repos\zadulliteratura\zadulliteratura\obj\Debug\net5.0\zadulliteratura.csproj.CoreCompileInputs.cache
+C:\Users\dobo2\source\repos\zadulliteratura\zadulliteratura\obj\Debug\net5.0\zadulliteratura.dll
+C:\Users\dobo2\source\repos\zadulliteratura\zadulliteratura\obj\Debug\net5.0\ref\zadulliteratura.dll
+C:\Users\dobo2\source\repos\zadulliteratura\zadulliteratura\obj\Debug\net5.0\zadulliteratura.pdb
+C:\Users\dobo2\source\repos\zadulliteratura\zadulliteratura\obj\Debug\net5.0\zadulliteratura.genruntimeconfig.cache

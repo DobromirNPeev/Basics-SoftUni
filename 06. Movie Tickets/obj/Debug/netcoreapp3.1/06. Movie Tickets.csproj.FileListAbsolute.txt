@@ -1,0 +1,14 @@
+E:\VIsual Studio\06. Movie Tickets\bin\Debug\netcoreapp3.1\06. Movie Tickets.exe
+E:\VIsual Studio\06. Movie Tickets\bin\Debug\netcoreapp3.1\06. Movie Tickets.deps.json
+E:\VIsual Studio\06. Movie Tickets\bin\Debug\netcoreapp3.1\06. Movie Tickets.runtimeconfig.json
+E:\VIsual Studio\06. Movie Tickets\bin\Debug\netcoreapp3.1\06. Movie Tickets.runtimeconfig.dev.json
+E:\VIsual Studio\06. Movie Tickets\bin\Debug\netcoreapp3.1\06. Movie Tickets.dll
+E:\VIsual Studio\06. Movie Tickets\bin\Debug\netcoreapp3.1\06. Movie Tickets.pdb
+E:\VIsual Studio\06. Movie Tickets\obj\Debug\netcoreapp3.1\06. Movie Tickets.csproj.AssemblyReference.cache
+E:\VIsual Studio\06. Movie Tickets\obj\Debug\netcoreapp3.1\06. Movie Tickets.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\06. Movie Tickets\obj\Debug\netcoreapp3.1\06. Movie Tickets.AssemblyInfoInputs.cache
+E:\VIsual Studio\06. Movie Tickets\obj\Debug\netcoreapp3.1\06. Movie Tickets.AssemblyInfo.cs
+E:\VIsual Studio\06. Movie Tickets\obj\Debug\netcoreapp3.1\06. Movie Tickets.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\06. Movie Tickets\obj\Debug\netcoreapp3.1\06. Movie Tickets.dll
+E:\VIsual Studio\06. Movie Tickets\obj\Debug\netcoreapp3.1\06. Movie Tickets.pdb
+E:\VIsual Studio\06. Movie Tickets\obj\Debug\netcoreapp3.1\06. Movie Tickets.genruntimeconfig.cache

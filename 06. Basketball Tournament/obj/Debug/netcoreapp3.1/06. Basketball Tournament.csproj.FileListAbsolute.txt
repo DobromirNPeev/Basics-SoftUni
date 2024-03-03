@@ -1,0 +1,14 @@
+E:\VIsual Studio\06. Basketball Tournament\bin\Debug\netcoreapp3.1\06. Basketball Tournament.exe
+E:\VIsual Studio\06. Basketball Tournament\bin\Debug\netcoreapp3.1\06. Basketball Tournament.deps.json
+E:\VIsual Studio\06. Basketball Tournament\bin\Debug\netcoreapp3.1\06. Basketball Tournament.runtimeconfig.json
+E:\VIsual Studio\06. Basketball Tournament\bin\Debug\netcoreapp3.1\06. Basketball Tournament.runtimeconfig.dev.json
+E:\VIsual Studio\06. Basketball Tournament\bin\Debug\netcoreapp3.1\06. Basketball Tournament.dll
+E:\VIsual Studio\06. Basketball Tournament\bin\Debug\netcoreapp3.1\06. Basketball Tournament.pdb
+E:\VIsual Studio\06. Basketball Tournament\obj\Debug\netcoreapp3.1\06. Basketball Tournament.csproj.AssemblyReference.cache
+E:\VIsual Studio\06. Basketball Tournament\obj\Debug\netcoreapp3.1\06. Basketball Tournament.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\06. Basketball Tournament\obj\Debug\netcoreapp3.1\06. Basketball Tournament.AssemblyInfoInputs.cache
+E:\VIsual Studio\06. Basketball Tournament\obj\Debug\netcoreapp3.1\06. Basketball Tournament.AssemblyInfo.cs
+E:\VIsual Studio\06. Basketball Tournament\obj\Debug\netcoreapp3.1\06. Basketball Tournament.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\06. Basketball Tournament\obj\Debug\netcoreapp3.1\06. Basketball Tournament.dll
+E:\VIsual Studio\06. Basketball Tournament\obj\Debug\netcoreapp3.1\06. Basketball Tournament.pdb
+E:\VIsual Studio\06. Basketball Tournament\obj\Debug\netcoreapp3.1\06. Basketball Tournament.genruntimeconfig.cache

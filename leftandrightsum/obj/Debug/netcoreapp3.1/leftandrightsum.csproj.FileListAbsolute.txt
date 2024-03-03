@@ -1,0 +1,13 @@
+E:\VIsual Studio\leftandrightsum\bin\Debug\netcoreapp3.1\leftandrightsum.exe
+E:\VIsual Studio\leftandrightsum\bin\Debug\netcoreapp3.1\leftandrightsum.deps.json
+E:\VIsual Studio\leftandrightsum\bin\Debug\netcoreapp3.1\leftandrightsum.runtimeconfig.json
+E:\VIsual Studio\leftandrightsum\bin\Debug\netcoreapp3.1\leftandrightsum.runtimeconfig.dev.json
+E:\VIsual Studio\leftandrightsum\bin\Debug\netcoreapp3.1\leftandrightsum.dll
+E:\VIsual Studio\leftandrightsum\bin\Debug\netcoreapp3.1\leftandrightsum.pdb
+E:\VIsual Studio\leftandrightsum\obj\Debug\netcoreapp3.1\leftandrightsum.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\leftandrightsum\obj\Debug\netcoreapp3.1\leftandrightsum.AssemblyInfoInputs.cache
+E:\VIsual Studio\leftandrightsum\obj\Debug\netcoreapp3.1\leftandrightsum.AssemblyInfo.cs
+E:\VIsual Studio\leftandrightsum\obj\Debug\netcoreapp3.1\leftandrightsum.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\leftandrightsum\obj\Debug\netcoreapp3.1\leftandrightsum.dll
+E:\VIsual Studio\leftandrightsum\obj\Debug\netcoreapp3.1\leftandrightsum.pdb
+E:\VIsual Studio\leftandrightsum\obj\Debug\netcoreapp3.1\leftandrightsum.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\VIsual Studio\TransportPrice\obj\Debug\netcoreapp3.1\TransportPrice.csproj.AssemblyReference.cache
+E:\VIsual Studio\TransportPrice\obj\Debug\netcoreapp3.1\TransportPrice.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\TransportPrice\obj\Debug\netcoreapp3.1\TransportPrice.AssemblyInfoInputs.cache
+E:\VIsual Studio\TransportPrice\obj\Debug\netcoreapp3.1\TransportPrice.AssemblyInfo.cs
+E:\VIsual Studio\TransportPrice\obj\Debug\netcoreapp3.1\TransportPrice.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\TransportPrice\bin\Debug\netcoreapp3.1\TransportPrice.exe
+E:\VIsual Studio\TransportPrice\bin\Debug\netcoreapp3.1\TransportPrice.deps.json
+E:\VIsual Studio\TransportPrice\bin\Debug\netcoreapp3.1\TransportPrice.runtimeconfig.json
+E:\VIsual Studio\TransportPrice\bin\Debug\netcoreapp3.1\TransportPrice.runtimeconfig.dev.json
+E:\VIsual Studio\TransportPrice\bin\Debug\netcoreapp3.1\TransportPrice.dll
+E:\VIsual Studio\TransportPrice\bin\Debug\netcoreapp3.1\TransportPrice.pdb
+E:\VIsual Studio\TransportPrice\obj\Debug\netcoreapp3.1\TransportPrice.dll
+E:\VIsual Studio\TransportPrice\obj\Debug\netcoreapp3.1\TransportPrice.pdb
+E:\VIsual Studio\TransportPrice\obj\Debug\netcoreapp3.1\TransportPrice.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\VIsual Studio\Triangle of Dollars\bin\Debug\netcoreapp3.1\Triangle of Dollars.exe
+E:\VIsual Studio\Triangle of Dollars\bin\Debug\netcoreapp3.1\Triangle of Dollars.deps.json
+E:\VIsual Studio\Triangle of Dollars\bin\Debug\netcoreapp3.1\Triangle of Dollars.runtimeconfig.json
+E:\VIsual Studio\Triangle of Dollars\bin\Debug\netcoreapp3.1\Triangle of Dollars.runtimeconfig.dev.json
+E:\VIsual Studio\Triangle of Dollars\bin\Debug\netcoreapp3.1\Triangle of Dollars.dll
+E:\VIsual Studio\Triangle of Dollars\bin\Debug\netcoreapp3.1\Triangle of Dollars.pdb
+E:\VIsual Studio\Triangle of Dollars\obj\Debug\netcoreapp3.1\Triangle of Dollars.csproj.AssemblyReference.cache
+E:\VIsual Studio\Triangle of Dollars\obj\Debug\netcoreapp3.1\Triangle of Dollars.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Triangle of Dollars\obj\Debug\netcoreapp3.1\Triangle of Dollars.AssemblyInfoInputs.cache
+E:\VIsual Studio\Triangle of Dollars\obj\Debug\netcoreapp3.1\Triangle of Dollars.AssemblyInfo.cs
+E:\VIsual Studio\Triangle of Dollars\obj\Debug\netcoreapp3.1\Triangle of Dollars.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Triangle of Dollars\obj\Debug\netcoreapp3.1\Triangle of Dollars.dll
+E:\VIsual Studio\Triangle of Dollars\obj\Debug\netcoreapp3.1\Triangle of Dollars.pdb
+E:\VIsual Studio\Triangle of Dollars\obj\Debug\netcoreapp3.1\Triangle of Dollars.genruntimeconfig.cache

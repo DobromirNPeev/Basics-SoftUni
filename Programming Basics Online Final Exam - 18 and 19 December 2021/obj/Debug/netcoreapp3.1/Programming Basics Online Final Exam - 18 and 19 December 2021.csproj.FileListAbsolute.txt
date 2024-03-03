@@ -1,0 +1,14 @@
+E:\VIsual Studio\Programming Basics Online Final Exam - 18 and 19 December 2021\bin\Debug\netcoreapp3.1\Programming Basics Online Final Exam - 18 and 19 December 2021.exe
+E:\VIsual Studio\Programming Basics Online Final Exam - 18 and 19 December 2021\bin\Debug\netcoreapp3.1\Programming Basics Online Final Exam - 18 and 19 December 2021.deps.json
+E:\VIsual Studio\Programming Basics Online Final Exam - 18 and 19 December 2021\bin\Debug\netcoreapp3.1\Programming Basics Online Final Exam - 18 and 19 December 2021.runtimeconfig.json
+E:\VIsual Studio\Programming Basics Online Final Exam - 18 and 19 December 2021\bin\Debug\netcoreapp3.1\Programming Basics Online Final Exam - 18 and 19 December 2021.runtimeconfig.dev.json
+E:\VIsual Studio\Programming Basics Online Final Exam - 18 and 19 December 2021\bin\Debug\netcoreapp3.1\Programming Basics Online Final Exam - 18 and 19 December 2021.dll
+E:\VIsual Studio\Programming Basics Online Final Exam - 18 and 19 December 2021\bin\Debug\netcoreapp3.1\Programming Basics Online Final Exam - 18 and 19 December 2021.pdb
+E:\VIsual Studio\Programming Basics Online Final Exam - 18 and 19 December 2021\obj\Debug\netcoreapp3.1\Programming Basics Online Final Exam - 18 and 19 December 2021.csproj.AssemblyReference.cache
+E:\VIsual Studio\Programming Basics Online Final Exam - 18 and 19 December 2021\obj\Debug\netcoreapp3.1\Programming Basics Online Final Exam - 18 and 19 December 2021.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Programming Basics Online Final Exam - 18 and 19 December 2021\obj\Debug\netcoreapp3.1\Programming Basics Online Final Exam - 18 and 19 December 2021.AssemblyInfoInputs.cache
+E:\VIsual Studio\Programming Basics Online Final Exam - 18 and 19 December 2021\obj\Debug\netcoreapp3.1\Programming Basics Online Final Exam - 18 and 19 December 2021.AssemblyInfo.cs
+E:\VIsual Studio\Programming Basics Online Final Exam - 18 and 19 December 2021\obj\Debug\netcoreapp3.1\Programming Basics Online Final Exam - 18 and 19 December 2021.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Programming Basics Online Final Exam - 18 and 19 December 2021\obj\Debug\netcoreapp3.1\Programming Basics Online Final Exam - 18 and 19 December 2021.dll
+E:\VIsual Studio\Programming Basics Online Final Exam - 18 and 19 December 2021\obj\Debug\netcoreapp3.1\Programming Basics Online Final Exam - 18 and 19 December 2021.pdb
+E:\VIsual Studio\Programming Basics Online Final Exam - 18 and 19 December 2021\obj\Debug\netcoreapp3.1\Programming Basics Online Final Exam - 18 and 19 December 2021.genruntimeconfig.cache

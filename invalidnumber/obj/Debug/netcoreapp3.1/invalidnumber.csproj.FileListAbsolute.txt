@@ -1,0 +1,13 @@
+E:\VIsual Studio\invalidnumber\bin\Debug\netcoreapp3.1\invalidnumber.exe
+E:\VIsual Studio\invalidnumber\bin\Debug\netcoreapp3.1\invalidnumber.deps.json
+E:\VIsual Studio\invalidnumber\bin\Debug\netcoreapp3.1\invalidnumber.runtimeconfig.json
+E:\VIsual Studio\invalidnumber\bin\Debug\netcoreapp3.1\invalidnumber.runtimeconfig.dev.json
+E:\VIsual Studio\invalidnumber\bin\Debug\netcoreapp3.1\invalidnumber.dll
+E:\VIsual Studio\invalidnumber\bin\Debug\netcoreapp3.1\invalidnumber.pdb
+E:\VIsual Studio\invalidnumber\obj\Debug\netcoreapp3.1\invalidnumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\invalidnumber\obj\Debug\netcoreapp3.1\invalidnumber.AssemblyInfoInputs.cache
+E:\VIsual Studio\invalidnumber\obj\Debug\netcoreapp3.1\invalidnumber.AssemblyInfo.cs
+E:\VIsual Studio\invalidnumber\obj\Debug\netcoreapp3.1\invalidnumber.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\invalidnumber\obj\Debug\netcoreapp3.1\invalidnumber.dll
+E:\VIsual Studio\invalidnumber\obj\Debug\netcoreapp3.1\invalidnumber.pdb
+E:\VIsual Studio\invalidnumber\obj\Debug\netcoreapp3.1\invalidnumber.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\VIsual Studio\04. Movie Stars\bin\Debug\netcoreapp3.1\04. Movie Stars.exe
+E:\VIsual Studio\04. Movie Stars\bin\Debug\netcoreapp3.1\04. Movie Stars.deps.json
+E:\VIsual Studio\04. Movie Stars\bin\Debug\netcoreapp3.1\04. Movie Stars.runtimeconfig.json
+E:\VIsual Studio\04. Movie Stars\bin\Debug\netcoreapp3.1\04. Movie Stars.runtimeconfig.dev.json
+E:\VIsual Studio\04. Movie Stars\bin\Debug\netcoreapp3.1\04. Movie Stars.dll
+E:\VIsual Studio\04. Movie Stars\bin\Debug\netcoreapp3.1\04. Movie Stars.pdb
+E:\VIsual Studio\04. Movie Stars\obj\Debug\netcoreapp3.1\04. Movie Stars.csproj.AssemblyReference.cache
+E:\VIsual Studio\04. Movie Stars\obj\Debug\netcoreapp3.1\04. Movie Stars.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\04. Movie Stars\obj\Debug\netcoreapp3.1\04. Movie Stars.AssemblyInfoInputs.cache
+E:\VIsual Studio\04. Movie Stars\obj\Debug\netcoreapp3.1\04. Movie Stars.AssemblyInfo.cs
+E:\VIsual Studio\04. Movie Stars\obj\Debug\netcoreapp3.1\04. Movie Stars.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\04. Movie Stars\obj\Debug\netcoreapp3.1\04. Movie Stars.dll
+E:\VIsual Studio\04. Movie Stars\obj\Debug\netcoreapp3.1\04. Movie Stars.pdb
+E:\VIsual Studio\04. Movie Stars\obj\Debug\netcoreapp3.1\04. Movie Stars.genruntimeconfig.cache

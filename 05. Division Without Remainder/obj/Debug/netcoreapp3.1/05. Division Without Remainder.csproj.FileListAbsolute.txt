@@ -1,0 +1,14 @@
+E:\VIsual Studio\05. Division Without Remainder\bin\Debug\netcoreapp3.1\05. Division Without Remainder.exe
+E:\VIsual Studio\05. Division Without Remainder\bin\Debug\netcoreapp3.1\05. Division Without Remainder.deps.json
+E:\VIsual Studio\05. Division Without Remainder\bin\Debug\netcoreapp3.1\05. Division Without Remainder.runtimeconfig.json
+E:\VIsual Studio\05. Division Without Remainder\bin\Debug\netcoreapp3.1\05. Division Without Remainder.runtimeconfig.dev.json
+E:\VIsual Studio\05. Division Without Remainder\bin\Debug\netcoreapp3.1\05. Division Without Remainder.dll
+E:\VIsual Studio\05. Division Without Remainder\bin\Debug\netcoreapp3.1\05. Division Without Remainder.pdb
+E:\VIsual Studio\05. Division Without Remainder\obj\Debug\netcoreapp3.1\05. Division Without Remainder.csproj.AssemblyReference.cache
+E:\VIsual Studio\05. Division Without Remainder\obj\Debug\netcoreapp3.1\05. Division Without Remainder.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\05. Division Without Remainder\obj\Debug\netcoreapp3.1\05. Division Without Remainder.AssemblyInfoInputs.cache
+E:\VIsual Studio\05. Division Without Remainder\obj\Debug\netcoreapp3.1\05. Division Without Remainder.AssemblyInfo.cs
+E:\VIsual Studio\05. Division Without Remainder\obj\Debug\netcoreapp3.1\05. Division Without Remainder.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\05. Division Without Remainder\obj\Debug\netcoreapp3.1\05. Division Without Remainder.dll
+E:\VIsual Studio\05. Division Without Remainder\obj\Debug\netcoreapp3.1\05. Division Without Remainder.pdb
+E:\VIsual Studio\05. Division Without Remainder\obj\Debug\netcoreapp3.1\05. Division Without Remainder.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\VIsual Studio\04. Gifts from Santa\bin\Debug\netcoreapp3.1\04. Gifts from Santa.exe
+E:\VIsual Studio\04. Gifts from Santa\bin\Debug\netcoreapp3.1\04. Gifts from Santa.deps.json
+E:\VIsual Studio\04. Gifts from Santa\bin\Debug\netcoreapp3.1\04. Gifts from Santa.runtimeconfig.json
+E:\VIsual Studio\04. Gifts from Santa\bin\Debug\netcoreapp3.1\04. Gifts from Santa.runtimeconfig.dev.json
+E:\VIsual Studio\04. Gifts from Santa\bin\Debug\netcoreapp3.1\04. Gifts from Santa.dll
+E:\VIsual Studio\04. Gifts from Santa\bin\Debug\netcoreapp3.1\04. Gifts from Santa.pdb
+E:\VIsual Studio\04. Gifts from Santa\obj\Debug\netcoreapp3.1\04. Gifts from Santa.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\04. Gifts from Santa\obj\Debug\netcoreapp3.1\04. Gifts from Santa.AssemblyInfoInputs.cache
+E:\VIsual Studio\04. Gifts from Santa\obj\Debug\netcoreapp3.1\04. Gifts from Santa.AssemblyInfo.cs
+E:\VIsual Studio\04. Gifts from Santa\obj\Debug\netcoreapp3.1\04. Gifts from Santa.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\04. Gifts from Santa\obj\Debug\netcoreapp3.1\04. Gifts from Santa.dll
+E:\VIsual Studio\04. Gifts from Santa\obj\Debug\netcoreapp3.1\04. Gifts from Santa.pdb
+E:\VIsual Studio\04. Gifts from Santa\obj\Debug\netcoreapp3.1\04. Gifts from Santa.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\VIsual Studio\MaxNumberWhile\bin\Debug\netcoreapp3.1\MaxNumberWhile.exe
+E:\VIsual Studio\MaxNumberWhile\bin\Debug\netcoreapp3.1\MaxNumberWhile.deps.json
+E:\VIsual Studio\MaxNumberWhile\bin\Debug\netcoreapp3.1\MaxNumberWhile.runtimeconfig.json
+E:\VIsual Studio\MaxNumberWhile\bin\Debug\netcoreapp3.1\MaxNumberWhile.runtimeconfig.dev.json
+E:\VIsual Studio\MaxNumberWhile\bin\Debug\netcoreapp3.1\MaxNumberWhile.dll
+E:\VIsual Studio\MaxNumberWhile\bin\Debug\netcoreapp3.1\MaxNumberWhile.pdb
+E:\VIsual Studio\MaxNumberWhile\obj\Debug\netcoreapp3.1\MaxNumberWhile.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\MaxNumberWhile\obj\Debug\netcoreapp3.1\MaxNumberWhile.AssemblyInfoInputs.cache
+E:\VIsual Studio\MaxNumberWhile\obj\Debug\netcoreapp3.1\MaxNumberWhile.AssemblyInfo.cs
+E:\VIsual Studio\MaxNumberWhile\obj\Debug\netcoreapp3.1\MaxNumberWhile.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\MaxNumberWhile\obj\Debug\netcoreapp3.1\MaxNumberWhile.dll
+E:\VIsual Studio\MaxNumberWhile\obj\Debug\netcoreapp3.1\MaxNumberWhile.pdb
+E:\VIsual Studio\MaxNumberWhile\obj\Debug\netcoreapp3.1\MaxNumberWhile.genruntimeconfig.cache

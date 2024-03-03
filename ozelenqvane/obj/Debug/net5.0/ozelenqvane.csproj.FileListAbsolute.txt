@@ -1,0 +1,16 @@
+E:\VIsual Studio\konkaticatiq\ozelenqvane\bin\Debug\net5.0\ozelenqvane.exe
+E:\VIsual Studio\konkaticatiq\ozelenqvane\bin\Debug\net5.0\ozelenqvane.deps.json
+E:\VIsual Studio\konkaticatiq\ozelenqvane\bin\Debug\net5.0\ozelenqvane.runtimeconfig.json
+E:\VIsual Studio\konkaticatiq\ozelenqvane\bin\Debug\net5.0\ozelenqvane.runtimeconfig.dev.json
+E:\VIsual Studio\konkaticatiq\ozelenqvane\bin\Debug\net5.0\ozelenqvane.dll
+E:\VIsual Studio\konkaticatiq\ozelenqvane\bin\Debug\net5.0\ref\ozelenqvane.dll
+E:\VIsual Studio\konkaticatiq\ozelenqvane\bin\Debug\net5.0\ozelenqvane.pdb
+E:\VIsual Studio\konkaticatiq\ozelenqvane\obj\Debug\net5.0\ozelenqvane.csproj.AssemblyReference.cache
+E:\VIsual Studio\konkaticatiq\ozelenqvane\obj\Debug\net5.0\ozelenqvane.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\konkaticatiq\ozelenqvane\obj\Debug\net5.0\ozelenqvane.AssemblyInfoInputs.cache
+E:\VIsual Studio\konkaticatiq\ozelenqvane\obj\Debug\net5.0\ozelenqvane.AssemblyInfo.cs
+E:\VIsual Studio\konkaticatiq\ozelenqvane\obj\Debug\net5.0\ozelenqvane.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\konkaticatiq\ozelenqvane\obj\Debug\net5.0\ozelenqvane.dll
+E:\VIsual Studio\konkaticatiq\ozelenqvane\obj\Debug\net5.0\ref\ozelenqvane.dll
+E:\VIsual Studio\konkaticatiq\ozelenqvane\obj\Debug\net5.0\ozelenqvane.pdb
+E:\VIsual Studio\konkaticatiq\ozelenqvane\obj\Debug\net5.0\ozelenqvane.genruntimeconfig.cache
